@@ -155,61 +155,56 @@ Measures average ranking position gaps.
 ---
 
 ## Project Structure
-
 ```
-FairHire/
-├── data/
-│   ├── raw/
-│   │   ├── AI_Resume_Screening_with_demographics.csv
-│   │   ├── AI_Resume_Screening_with_demographics_BIASED.csv
-│   │   └── Job_Descriptions.csv
-│   └── processed/
-│       ├── model_A/
-│       │   ├── X_train.csv, X_test.csv
-│       │   ├── y_train.csv, y_test.csv
-│       │   └── demographics_train.csv, demographics_test.csv
-│       └── model_B/
-│           ├── X_train_modelB.csv, X_test_modelB.csv
-│           ├── y_train_modelB.csv, y_test_modelB.csv
-│           └── demographics_train_modelB.csv, demographics_test_modelB.csv
+FairHire-AWS S3Bucket/
+├── dags/
+│   ├── utils/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── modelA_pipeline.py                    # Airflow DAG for Model A training
+│   └── modelB_pipeline.py                    # Airflow DAG for Model B training
 │
-├── notebooks/
-│   ├── Data_processing_modelA.ipynb
-│   ├── Data_processing_modelB.ipynb
-│   ├── Model_A_Training.ipynb
-│   └── Model_B_Training.ipynb
+├── data/
+│   └── processed/
+│       ├── Dataset_A_processed.csv           # Model A preprocessed data
+│       ├── Dataset_B_processed.csv           # Model B preprocessed data
+│       ├── X_train.csv, X_test.csv           # Model A features
+│       ├── X_train_modelB.csv, X_test_modelB.csv  # Model B features
+│       ├── y_train.csv, y_test.csv           # Model A targets
+│       ├── y_train_modelB.csv, y_test_modelB.csv  # Model B targets
+│       ├── demographics_test.csv             # Model A demographics (for fairness analysis)
+│       └── demographics_train_modelB.csv     # Model B demographics (for fairness analysis)
 │
 ├── models/
-│   ├── model_A/
-│   │   ├── modelA_final.pkl
-│   │   ├── modelA_metrics.json
-│   │   ├── modelA_fairness_metrics.json
-│   │   ├── modelA_shortlist_base.csv
-│   │   └── visualizations/
-│   └── model_B/
-│       ├── modelB_final.pkl
-│       ├── modelB_metrics.json
-│       ├── modelB_fairness_metrics.json
-│       ├── modelB_shortlist_base.csv
-│       └── visualizations/
+│   ├── modelA/
+│   │   └── manual__2025-12-[timestamp]/      # Model A training runs (timestamped)
+│   │       ├── modelA_final.pkl
+│   │       ├── modelA_metrics.json
+│   │       ├── modelA_shortlist_base.csv
+│   │       └── visualizations/
+│   └── modelB/
+│       └── manual__2025-12-[timestamp]/      # Model B training runs (timestamped)
+│           ├── modelB_final.pkl
+│           ├── modelB_metrics.json
+│           ├── modelB_fairness_metrics.json
+│           ├── modelB_shortlist_base.csv
+│           └── visualizations/
 │
-├── src/
-│   └── fairness_util.py
-│
-├── airflow/
-│   ├── dags/
-│   │   ├── model_a_pipeline.py
-│   │   └── model_b_pipeline.py
-│   └── config/
-│       └── airflow.cfg
-│
-├── dashboard/
-│   └── dashboard.py
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
+└── requirements.txt                          # Python dependencies
+
+notebooks/
+├── Bias_dataset.ipynb                        # Bias dataset creation
+├── Dataset_demographics.ipynb                # Demographics extraction
+└── EDA.ipynb                                 # Exploratory data analysis
+
+System_Architecture.png                       # System architecture diagram
+fairhire_dashboard.py                         # Streamlit dashboard
+README.md
+.gitattributes                                # Git LFS configuration
+.gitignore
 ```
+
+**Note:** Model training runs are timestamped (e.g., `manual__2025-12-11T05:20:...` or `scheduled__2025-12-10T02:...`) to maintain version history and enable rollback capabilities.
 
 ## Results
 
