@@ -259,6 +259,8 @@ README.md
 ## References
 ### Academic Papers
 1. Raghavan, S., et al. (2024). *Fairness in AI-Driven Recruitment: Challenges, Metrics, Methods, and Future Directions.* [arXiv:2405.19699](https://arxiv.org/abs/2405.19699).
+### Dataset Used:
+2. https://www.kaggle.com/datasets/mdtalhask/ai-powered-resume-screening-dataset-2025
 
 ---
 
