@@ -1,0 +1,16 @@
+{
+  "model_type": "RandomForestClassifier",
+  "accuracy": 0.42,
+  "precision": 0.8484848484848485,
+  "recall": 0.345679012345679,
+  "f1_score": 0.49122807017543857,
+  "auc": 0.5271280051981807,
+  "test_samples": 200,
+  "target_variable": "Recruiter_Decision",
+  "task_type": "classification",
+  "positive_class": "Hire",
+  "class_distribution": {
+    "Hire": 162,
+    "Reject": 38
+  }
+}

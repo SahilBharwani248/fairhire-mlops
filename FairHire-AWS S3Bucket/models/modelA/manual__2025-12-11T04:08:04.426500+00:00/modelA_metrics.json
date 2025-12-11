@@ -1,0 +1,138 @@
+{
+  "model_type": "RandomForestClassifier",
+  "accuracy": 0.415,
+  "precision": 0.835820895522388,
+  "recall": 0.345679012345679,
+  "f1_score": 0.4890829694323144,
+  "auc": 0.5210363872644574,
+  "test_samples": 200,
+  "target_variable": "Recruiter_Decision",
+  "task_type": "classification",
+  "positive_class": "Hire",
+  "class_distribution": {
+    "Hire": 162,
+    "Reject": 38
+  },
+  "fairness": {
+    "Gender": {
+      "demographic_parity_max_gap": 0.023213747362074155,
+      "topk_min_over_max": 0.869158878504673,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 0.9365892875087951,
+      "score_distribution_overlap": 0.8358085047504843,
+      "per_group_details": {
+        "Male": {
+          "count": 107,
+          "hire_rate": 0.34579439252336447,
+          "avg_hire_probability": 0.6401074766355138,
+          "top_k_rate": 0.2336448598130841,
+          "avg_rank": 71.6355140186916,
+          "tpr": 1.0
+        },
+        "Female": {
+          "count": 93,
+          "hire_rate": 0.3225806451612903,
+          "avg_hire_probability": 0.6486784946236559,
+          "top_k_rate": 0.26881720430107525,
+          "avg_rank": 70.6989247311828,
+          "tpr": 1.0
+        }
+      },
+      "top_k_used": 50
+    },
+    "Race": {
+      "demographic_parity_max_gap": 0.10606060606060608,
+      "topk_min_over_max": 0.5656565656565656,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 8.035714285714292,
+      "score_distribution_overlap": null,
+      "per_group_details": {
+        "White": {
+          "count": 111,
+          "hire_rate": 0.34234234234234234,
+          "avg_hire_probability": 0.6423279279279278,
+          "top_k_rate": 0.24324324324324326,
+          "avg_rank": 69.7927927927928,
+          "tpr": 1.0
+        },
+        "Hispanic": {
+          "count": 33,
+          "hire_rate": 0.30303030303030304,
+          "avg_hire_probability": 0.6527454545454546,
+          "top_k_rate": 0.30303030303030304,
+          "avg_rank": 68.6969696969697,
+          "tpr": 1.0
+        },
+        "Black": {
+          "count": 28,
+          "hire_rate": 0.35714285714285715,
+          "avg_hire_probability": 0.6654321428571427,
+          "top_k_rate": 0.32142857142857145,
+          "avg_rank": 65.96428571428571,
+          "tpr": 1.0
+        },
+        "Asian": {
+          "count": 22,
+          "hire_rate": 0.4090909090909091,
+          "avg_hire_probability": 0.6230818181818182,
+          "top_k_rate": 0.18181818181818182,
+          "avg_rank": 74.0,
+          "tpr": 1.0
+        }
+      },
+      "top_k_used": 50
+    },
+    "Age_Group": {
+      "demographic_parity_max_gap": 0.14181893687707642,
+      "topk_min_over_max": 0.0,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 14.609634551495013,
+      "score_distribution_overlap": 0.6803907885554781,
+      "per_group_details": {
+        "18-29": {
+          "count": 112,
+          "hire_rate": 0.2767857142857143,
+          "avg_hire_probability": 0.6183482142857143,
+          "top_k_rate": 0.19642857142857142,
+          "avg_rank": 77.21428571428571,
+          "tpr": 1.0
+        },
+        "30-39": {
+          "count": 86,
+          "hire_rate": 0.4186046511627907,
+          "avg_hire_probability": 0.680706976744186,
+          "top_k_rate": 0.32558139534883723,
+          "avg_rank": 62.604651162790695,
+          "tpr": 1.0
+        }
+      },
+      "top_k_used": 50
+    },
+    "Disability_Status": {
+      "demographic_parity_max_gap": 0.02920608802961744,
+      "topk_min_over_max": 0.9181669394435352,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 1.596051007815717,
+      "score_distribution_overlap": 0.7816049835104436,
+      "per_group_details": {
+        "No": {
+          "count": 187,
+          "hire_rate": 0.33689839572192515,
+          "avg_hire_probability": 0.6450224598930481,
+          "top_k_rate": 0.25133689839572193,
+          "avg_rank": 71.09625668449198,
+          "tpr": 1.0
+        },
+        "Yes": {
+          "count": 13,
+          "hire_rate": 0.3076923076923077,
+          "avg_hire_probability": 0.6307230769230769,
+          "top_k_rate": 0.23076923076923078,
+          "avg_rank": 72.6923076923077,
+          "tpr": 1.0
+        }
+      },
+      "top_k_used": 50
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "model_type": "RandomForestClassifier",
+  "accuracy": 0.42,
+  "precision": 0.8484848484848485,
+  "recall": 0.345679012345679,
+  "f1_score": 0.49122807017543857,
+  "auc": 0.5271280051981807,
+  "test_samples": 200,
+  "target_variable": "Recruiter_Decision",
+  "task_type": "classification",
+  "positive_class": "Hire",
+  "class_distribution": {
+    "Hire": 162,
+    "Reject": 38
+  },
+  "fairness": {
+    "Gender": {
+      "demographic_parity_max_gap": 0.033966435534117156,
+      "topk_min_over_max": 0.869158878504673,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 1.4687971058185099,
+      "score_distribution_overlap": 0.8358085047504842
+    },
+    "Race": {
+      "demographic_parity_max_gap": 0.06060606060606061,
+      "topk_min_over_max": 0.44999999999999996,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 10.196969696969703,
+      "score_distribution_overlap": null
+    },
+    "Age_Group": {
+      "demographic_parity_max_gap": 0.15074750830564787,
+      "topk_min_over_max": 0.0,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 14.94414451827243,
+      "score_distribution_overlap": 0.667878787878788
+    },
+    "Disability_Status": {
+      "demographic_parity_max_gap": 0.05841217605923488,
+      "topk_min_over_max": 0.7994652406417112,
+      "equal_opportunity_max_gap": 0.0,
+      "rank_ordering_max_gap": 4.712464006581641,
+      "score_distribution_overlap": 0.7783467446964157
+    }
+  }
+}

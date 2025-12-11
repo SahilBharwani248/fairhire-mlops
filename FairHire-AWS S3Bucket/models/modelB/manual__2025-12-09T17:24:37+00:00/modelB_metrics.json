@@ -1,0 +1,16 @@
+{
+  "model_type": "LGBMClassifier",
+  "accuracy": 0.745,
+  "precision": 0.8089887640449438,
+  "recall": 0.8944099378881988,
+  "f1_score": 0.8495575221238938,
+  "auc": 0.48176461219939476,
+  "test_samples": 200,
+  "target_variable": "Recruiter_Decision",
+  "task_type": "classification",
+  "positive_class": "Hire",
+  "class_distribution": {
+    "Hire": 161,
+    "Reject": 39
+  }
+}

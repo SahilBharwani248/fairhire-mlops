@@ -1,0 +1,122 @@
+{
+  "Gender": {
+    "demographic_parity_max_gap": 0.06220622062206227,
+    "topk_min_over_max": 0.8015873015873015,
+    "equal_opportunity_max_gap": 0.0,
+    "rank_ordering_max_gap": 7.210721072107219,
+    "score_distribution_overlap": 0.5770049680624556,
+    "per_group_details": {
+      "Male": {
+        "count": 101,
+        "hire_rate": 0.9207920792079208,
+        "avg_hire_probability": 0.8274188118811882,
+        "top_k_rate": 0.27722772277227725,
+        "avg_rank": 95.93069306930693,
+        "tpr": 1.0
+      },
+      "Female": {
+        "count": 99,
+        "hire_rate": 0.8585858585858586,
+        "avg_hire_probability": 0.8049838383838385,
+        "top_k_rate": 0.2222222222222222,
+        "avg_rank": 103.14141414141415,
+        "tpr": 1.0
+      }
+    },
+    "top_k_used": 50
+  },
+  "Race": {
+    "demographic_parity_max_gap": 0.0492030492030493,
+    "topk_min_over_max": 0.609009009009009,
+    "equal_opportunity_max_gap": 0.0,
+    "rank_ordering_max_gap": 25.179487179487168,
+    "score_distribution_overlap": null,
+    "per_group_details": {
+      "White": {
+        "count": 111,
+        "hire_rate": 0.8738738738738738,
+        "avg_hire_probability": 0.799990990990991,
+        "top_k_rate": 0.23423423423423423,
+        "avg_rank": 100.33333333333333,
+        "tpr": 1.0
+      },
+      "Hispanic": {
+        "count": 36,
+        "hire_rate": 0.8888888888888888,
+        "avg_hire_probability": 0.8388888888888888,
+        "top_k_rate": 0.2777777777777778,
+        "avg_rank": 87.52777777777777,
+        "tpr": 1.0
+      },
+      "Black": {
+        "count": 33,
+        "hire_rate": 0.9090909090909091,
+        "avg_hire_probability": 0.808630303030303,
+        "top_k_rate": 0.2727272727272727,
+        "avg_rank": 98.9090909090909,
+        "tpr": 1.0
+      },
+      "Asian": {
+        "count": 13,
+        "hire_rate": 0.9230769230769231,
+        "avg_hire_probability": 0.8847615384615385,
+        "top_k_rate": 0.38461538461538464,
+        "avg_rank": 75.15384615384616,
+        "tpr": 1.0
+      }
+    },
+    "top_k_used": 50
+  },
+  "Age_Group": {
+    "demographic_parity_max_gap": 0.01012187564552769,
+    "topk_min_over_max": 0.0,
+    "equal_opportunity_max_gap": 0.0,
+    "rank_ordering_max_gap": 3.540384218136751,
+    "score_distribution_overlap": 0.5590982286634458,
+    "per_group_details": {
+      "18-29": {
+        "count": 103,
+        "hire_rate": 0.883495145631068,
+        "avg_hire_probability": 0.8099708737864079,
+        "top_k_rate": 0.23300970873786409,
+        "avg_rank": 99.68932038834951,
+        "tpr": 1.0
+      },
+      "30-39": {
+        "count": 94,
+        "hire_rate": 0.8936170212765957,
+        "avg_hire_probability": 0.8211882978723406,
+        "top_k_rate": 0.2765957446808511,
+        "avg_rank": 96.14893617021276,
+        "tpr": 1.0
+      }
+    },
+    "top_k_used": 50
+  },
+  "Disability_Status": {
+    "demographic_parity_max_gap": 0.11702127659574468,
+    "topk_min_over_max": 0.7340425531914894,
+    "equal_opportunity_max_gap": 0.0,
+    "rank_ordering_max_gap": 24.468085106382972,
+    "score_distribution_overlap": 0.42604298356510745,
+    "per_group_details": {
+      "No": {
+        "count": 188,
+        "hire_rate": 0.8829787234042553,
+        "avg_hire_probability": 0.8122654255319148,
+        "top_k_rate": 0.24468085106382978,
+        "avg_rank": 100.96808510638297,
+        "tpr": 1.0
+      },
+      "Yes": {
+        "count": 12,
+        "hire_rate": 1.0,
+        "avg_hire_probability": 0.8797333333333333,
+        "top_k_rate": 0.3333333333333333,
+        "avg_rank": 76.5,
+        "tpr": 1.0
+      }
+    },
+    "top_k_used": 50
+  }
+}
