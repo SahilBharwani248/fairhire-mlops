@@ -135,9 +135,9 @@ Select a model below to view its predictions and fairness analysis.
 # Show S3 connection status
 try:
     s3_client.head_bucket(Bucket=BUCKET_NAME)
-    st.sidebar.success(f"✅ Connected to S3: {BUCKET_NAME}")
+    st.sidebar.success(f" Connected to S3: {BUCKET_NAME}")
 except Exception as e:
-    st.sidebar.error(f"❌ Cannot connect to S3: {BUCKET_NAME}")
+    st.sidebar.error(f" Cannot connect to S3: {BUCKET_NAME}")
     st.sidebar.error(f"Error: {str(e)}")
 
 # =============================================================================
