@@ -195,6 +195,8 @@ FairHire-AWS S3Bucket/
 notebooks/
 ├── Bias_dataset.ipynb                        # Bias dataset creation
 ├── Dataset_demographics.ipynb                # Demographics extraction
+├── Data_processing_modelA.ipynb              # Model A data preprocessing pipeline
+├── Data_processing_modelB.ipynb              # Model B data preprocessing pipeline
 └── EDA.ipynb                                 # Exploratory data analysis
 
 System_Architecture.png                       # System architecture diagram
