@@ -1,0 +1,201 @@
+Skills,Experience,Education_Ordinal,Certifications_Encoded,Job_Role_Encoded,Salary_Expectation,Projects_Count
+"Machine Learning, Deep Learning, Python",3,2,0,2,79930,9
+"Python, Pytorch, NLP, TensorFlow",1,2,2,0,101851,2
+"Ethical Hacking, Linux",4,2,1,1,56684,5
+"Networking, Cybersecurity",3,4,3,1,93508,4
+"Ethical Hacking, Linux, Networking",7,2,3,1,63601,10
+"SQL, Machine Learning, Deep Learning, Python",3,4,3,2,104405,9
+"Deep Learning, Machine Learning, Python, SQL",5,2,0,2,78601,7
+"Pytorch, Python, NLP, TensorFlow",9,3,1,0,117784,3
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,2,3,1,113477,2
+"SQL, Python",10,4,3,2,115364,2
+"Machine Learning, Python, SQL",10,2,3,2,84036,5
+"Linux, Cybersecurity",2,4,3,1,41824,7
+"Linux, Ethical Hacking, Networking",4,3,1,1,62790,9
+"Linux, Ethical Hacking",10,3,2,1,41917,9
+"C++, SQL, Java",0,3,0,3,41382,0
+"SQL, React, C++, Java",8,3,2,3,102924,7
+"Machine Learning, Python, SQL, Deep Learning",9,3,3,2,74018,10
+"Ethical Hacking, Networking",8,2,3,1,69766,1
+"NLP, TensorFlow",7,4,1,0,48195,0
+"Java, SQL",8,3,1,3,96786,4
+"Deep Learning, Python, Machine Learning, SQL",6,2,1,2,82300,4
+"Networking, Cybersecurity, Linux",5,3,2,1,113331,8
+"Java, C++",3,4,1,3,53518,7
+"Java, C++, React",0,4,1,3,118475,2
+"Ethical Hacking, Networking",5,3,1,1,75413,4
+"TensorFlow, Pytorch, NLP, Python",4,2,0,0,103738,10
+"TensorFlow, Pytorch, Python",9,4,2,0,75101,2
+"Python, Machine Learning, SQL",6,4,3,2,46741,1
+"React, C++, Java, SQL",5,3,2,3,106646,4
+"Ethical Hacking, Linux",1,4,3,1,95656,9
+"Pytorch, TensorFlow, NLP",4,3,2,0,63556,10
+"TensorFlow, Python, Pytorch",9,2,1,0,99521,4
+"Python, Pytorch, TensorFlow, NLP",9,3,3,0,91064,5
+"Java, C++, React",9,3,3,3,54990,1
+"NLP, TensorFlow",2,2,0,0,52471,10
+"C++, SQL, Java, React",7,2,3,3,117476,10
+"Python, Deep Learning, Machine Learning",0,2,0,2,72251,6
+"NLP, TensorFlow, Python, Pytorch",9,4,0,0,112005,10
+"Linux, Networking, Cybersecurity, Ethical Hacking",8,2,1,1,40945,4
+"Java, React, C++",1,4,3,3,62647,3
+"Python, Deep Learning, SQL, Machine Learning",2,3,3,2,82012,7
+"TensorFlow, Pytorch, Python, NLP",1,2,0,0,97235,4
+"TensorFlow, Python",9,4,0,0,65183,1
+"Networking, Linux, Ethical Hacking",7,2,2,1,96689,3
+"TensorFlow, NLP, Pytorch",3,2,1,0,65916,9
+"Python, NLP, TensorFlow",7,2,2,0,62487,8
+"Python, Machine Learning",8,2,1,2,95958,2
+"Java, C++, React",6,3,0,3,64025,10
+"Java, C++, React, SQL",8,4,2,3,77705,0
+"TensorFlow, NLP, Python, Pytorch",6,2,1,0,60828,3
+"Ethical Hacking, Linux, Networking",1,4,0,1,59652,10
+"C++, SQL, React",8,2,2,3,99288,4
+"TensorFlow, Python, NLP",10,3,3,0,63362,6
+"Python, Deep Learning, Machine Learning, SQL",8,2,3,2,41965,2
+"C++, React, Java, SQL",1,3,3,3,58823,3
+"SQL, Java, React, C++",3,3,2,3,52454,9
+"Networking, Linux, Ethical Hacking, Cybersecurity",0,3,3,1,108549,2
+"React, C++, Java",8,3,0,3,65676,0
+"Deep Learning, Python, SQL, Machine Learning",8,3,3,2,115812,5
+"Cybersecurity, Ethical Hacking, Linux, Networking",1,3,1,1,60494,0
+"TensorFlow, Python, Pytorch, NLP",2,2,1,0,97529,4
+"Python, Machine Learning, Deep Learning",0,2,2,2,116661,3
+"Python, Deep Learning, Machine Learning",2,2,1,2,106472,4
+"Java, React, SQL",4,4,0,3,92781,0
+"TensorFlow, NLP, Pytorch",6,4,0,0,41199,9
+"Cybersecurity, Networking",3,3,3,1,55213,9
+"Pytorch, Python, NLP, TensorFlow",0,3,1,0,67037,9
+"SQL, React, Java",4,4,3,3,87441,9
+"Python, Deep Learning, Machine Learning",2,2,1,2,98024,2
+"TensorFlow, Pytorch, NLP, Python",8,3,1,0,94384,0
+"Python, SQL, Deep Learning",2,4,0,2,82119,8
+"Pytorch, TensorFlow, NLP, Python",1,3,3,0,63713,0
+"Python, Pytorch, NLP",0,4,2,0,88256,9
+"Python, Machine Learning",5,2,3,2,65003,1
+"SQL, Machine Learning, Deep Learning",0,2,1,2,113435,2
+"Ethical Hacking, Networking, Linux, Cybersecurity",8,2,1,1,114147,4
+"Python, NLP, Pytorch, TensorFlow",4,2,3,0,61931,8
+"C++, SQL, Java",10,3,1,3,95050,2
+"NLP, Pytorch, Python",8,3,3,0,75898,3
+"Pytorch, Python",4,2,0,0,72233,9
+"SQL, Machine Learning",5,3,0,2,99076,8
+"SQL, Java, React",10,2,1,3,81778,4
+"Linux, Networking, Ethical Hacking, Cybersecurity",8,2,0,1,111242,5
+"Pytorch, TensorFlow",5,4,0,0,43681,4
+"C++, SQL, Java",6,4,0,3,80373,8
+"Deep Learning, SQL, Machine Learning, Python",3,4,2,2,75861,1
+"Python, NLP",5,2,3,0,55494,8
+"Deep Learning, Machine Learning, Python, SQL",10,3,2,2,113002,1
+"Ethical Hacking, Networking, Cybersecurity",1,3,3,1,47674,9
+"NLP, TensorFlow, Python, Pytorch",8,3,3,0,50831,3
+"SQL, React, C++, Java",3,4,1,3,71138,8
+"SQL, React, Java",0,3,3,3,81417,0
+"Python, Pytorch, TensorFlow, NLP",8,2,0,0,65345,8
+"React, C++",1,4,1,3,107085,10
+"SQL, Python",9,4,1,2,69101,8
+"Networking, Linux",5,3,2,1,61038,9
+"Python, Deep Learning, SQL",7,3,1,2,104836,5
+"SQL, Python",1,3,0,2,52364,8
+"Python, TensorFlow, Pytorch, NLP",4,2,0,0,47581,2
+"Deep Learning, Machine Learning, SQL",5,3,3,2,79635,9
+"Pytorch, Python, TensorFlow, NLP",5,3,2,0,109244,5
+"SQL, C++, Java",6,3,3,3,49261,1
+"Cybersecurity, Linux",9,4,3,1,77138,0
+"SQL, Python, Machine Learning, Deep Learning",7,2,0,2,55431,2
+"TensorFlow, NLP",6,4,2,0,87988,1
+"React, SQL, Java",0,2,0,3,49006,3
+"Cybersecurity, Linux, Ethical Hacking",3,2,0,1,75300,5
+"C++, SQL",7,3,0,3,45278,8
+"React, Java, SQL, C++",8,2,0,3,73325,2
+"Pytorch, Python",5,2,1,0,89338,1
+"NLP, Python, TensorFlow",9,2,0,0,105695,0
+"Python, SQL",1,3,1,2,112556,7
+"Deep Learning, Machine Learning",7,3,0,2,87562,9
+"Machine Learning, Deep Learning, SQL",3,4,0,2,48470,7
+"SQL, Python, Machine Learning",6,2,0,2,52824,9
+"Python, Machine Learning",7,3,3,2,98540,0
+"SQL, Python",8,3,0,2,104379,6
+"Machine Learning, Python, Deep Learning, SQL",9,2,2,2,107697,5
+"TensorFlow, NLP, Python",1,3,3,0,76442,2
+"SQL, React, Java",6,4,0,3,99537,10
+"Linux, Networking, Cybersecurity, Ethical Hacking",3,2,3,1,66379,6
+"Machine Learning, SQL, Deep Learning",10,4,3,2,54054,0
+"Networking, Cybersecurity, Linux, Ethical Hacking",10,2,3,1,101100,10
+"Cybersecurity, Ethical Hacking, Networking",0,3,2,1,62708,5
+"Machine Learning, Python",1,3,1,2,50397,8
+"TensorFlow, NLP",10,2,0,0,86663,2
+"Python, TensorFlow, NLP, Pytorch",8,4,0,0,104942,5
+"Python, TensorFlow, NLP, Pytorch",4,2,3,0,104295,6
+"Machine Learning, Python, Deep Learning",3,3,3,2,81656,7
+"Ethical Hacking, Linux, Cybersecurity, Networking",1,2,1,1,80647,8
+"TensorFlow, Python, NLP",9,3,0,0,101293,0
+"Python, TensorFlow, NLP",6,2,3,0,56712,5
+"Networking, Cybersecurity, Linux, Ethical Hacking",7,3,2,1,117704,10
+"C++, React",2,2,0,3,96027,5
+"Linux, Ethical Hacking, Cybersecurity, Networking",10,3,3,1,60343,8
+"Python, Machine Learning, Deep Learning",9,3,0,2,64058,1
+"C++, SQL",8,2,2,3,112514,8
+"Linux, Ethical Hacking, Cybersecurity",8,4,1,1,102480,5
+"Deep Learning, Machine Learning, SQL",1,2,3,2,58515,6
+"Cybersecurity, Networking",1,2,2,1,94563,6
+"Machine Learning, Python, SQL",2,4,0,2,43703,5
+"Machine Learning, SQL, Python",3,3,2,2,119432,9
+"Machine Learning, Python, Deep Learning",7,2,3,2,47698,8
+"NLP, TensorFlow, Python",3,3,3,0,66403,10
+"Java, React",6,4,2,3,80278,4
+"NLP, Python, TensorFlow",7,2,3,0,94313,9
+"C++, Java",0,3,1,3,109551,3
+"React, SQL",8,2,1,3,86416,8
+"Cybersecurity, Networking, Linux",8,3,2,1,68492,4
+"TensorFlow, Python, NLP, Pytorch",9,3,3,0,87232,0
+"Java, C++, React, SQL",10,4,1,3,77427,10
+"Java, React",6,2,2,3,62463,0
+"Ethical Hacking, Linux",7,4,3,1,47840,0
+"TensorFlow, Pytorch, Python, NLP",6,4,0,0,109248,8
+"SQL, Machine Learning",4,3,2,2,42621,5
+"Cybersecurity, Ethical Hacking, Linux, Networking",8,3,2,1,102247,8
+"Cybersecurity, Networking, Ethical Hacking, Linux",9,4,0,1,41733,0
+"Cybersecurity, Linux, Ethical Hacking, Networking",7,2,0,1,95709,8
+"Python, Machine Learning",8,2,0,2,59833,2
+"TensorFlow, Python, NLP, Pytorch",9,3,2,0,68212,9
+"TensorFlow, NLP",0,2,2,0,113855,9
+"Pytorch, Python",7,2,3,0,42236,6
+"Java, React, C++, SQL",8,2,2,3,63268,7
+"Deep Learning, SQL",6,2,0,2,106433,0
+"SQL, Machine Learning, Python, Deep Learning",9,2,2,2,57223,2
+"Pytorch, TensorFlow, NLP",2,3,2,0,76264,4
+"C++, SQL",6,3,0,3,83118,3
+"Python, Machine Learning",10,3,2,2,89482,5
+"TensorFlow, Python",1,3,1,0,108308,4
+"Java, React, SQL, C++",3,4,3,3,78794,4
+"Java, SQL",5,3,0,3,40914,6
+"C++, Java",5,2,1,3,116922,0
+"SQL, C++, Java",6,2,3,3,113366,4
+"Pytorch, NLP",1,3,3,0,41731,5
+"Machine Learning, SQL, Deep Learning",5,2,1,2,59033,4
+"Ethical Hacking, Cybersecurity",9,3,3,1,44150,6
+"Networking, Linux, Ethical Hacking, Cybersecurity",4,2,3,1,75555,0
+"Ethical Hacking, Cybersecurity",8,2,1,1,58775,3
+"Pytorch, Python, TensorFlow",4,3,3,0,84358,2
+"Machine Learning, Python, Deep Learning",2,2,1,2,55376,7
+"Ethical Hacking, Cybersecurity, Linux, Networking",0,3,2,1,102527,7
+"Ethical Hacking, Networking",7,2,1,1,75810,7
+"Cybersecurity, Ethical Hacking",2,2,1,1,100524,5
+"Java, SQL, React",3,3,0,3,104253,8
+"Java, SQL",2,3,3,3,66087,9
+"Java, React, SQL, C++",6,3,2,3,66936,5
+"Pytorch, TensorFlow, NLP, Python",0,2,1,0,91064,10
+"Pytorch, TensorFlow, NLP",6,3,1,0,88511,4
+"Machine Learning, SQL, Python",4,2,2,2,114573,8
+"Cybersecurity, Ethical Hacking, Linux, Networking",5,2,0,1,109004,7
+"Networking, Linux",1,3,0,1,51200,10
+"NLP, Python, TensorFlow",7,3,0,0,49447,10
+"Deep Learning, SQL, Machine Learning, Python",1,3,0,2,86355,4
+"SQL, Python",9,2,1,2,66133,2
+"Ethical Hacking, Cybersecurity, Networking",8,2,3,1,66329,0
+"React, C++, SQL, Java",7,3,1,3,90437,5
+"TensorFlow, Python, NLP, Pytorch",1,2,0,0,40186,1
+"React, C++, SQL, Java",4,2,1,3,90345,7
+"Python, SQL, Machine Learning",9,2,2,2,82004,2
+"Ethical Hacking, Networking, Cybersecurity, Linux",8,2,3,1,99384,1

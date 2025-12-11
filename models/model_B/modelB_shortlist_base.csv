@@ -1,0 +1,1001 @@
+Skills,Experience,Education,Certifications,Job_Role,Salary_Expectation,Projects_Count,AI_Score,Recruiter_Decision,Education_Ordinal,Certifications_Encoded,Job_Role_Encoded,Education_Encoded,ModelB_Hire_Prob,ModelB_Prediction,ModelB_Pred_Label,ModelB_Rank
+"Java, SQL, React, C++",9,B.Sc,Google ML,Software Engineer,108502,9,93.9,Hire,2,2,3,0,0.9856,1,Hire,1
+"Cybersecurity, Ethical Hacking, Networking",6,M.Tech,Google ML,Cybersecurity Analyst,108922,10,98.8,Hire,3,2,1,2,0.9856,1,Hire,1
+"Machine Learning, Python",1,MBA,AWS Certified,Data Scientist,108606,3,41.9,Hire,3,0,2,3,0.9856,1,Hire,1
+"React, SQL",4,PhD,,Software Engineer,108770,10,100.0,Hire,4,3,3,4,0.9856,1,Hire,1
+"Python, Deep Learning",9,B.Tech,AWS Certified,Data Scientist,108567,1,97.6,Hire,2,0,2,1,0.9856,1,Hire,1
+"Networking, Linux, Ethical Hacking, Cybersecurity",0,MBA,,Cybersecurity Analyst,108549,2,29.7,Hire,3,3,1,3,0.9856,1,Hire,1
+"NLP, TensorFlow, Pytorch, Python",8,B.Sc,Deep Learning Specialization,AI Researcher,108667,0,98.6,Hire,2,1,0,0,0.9856,1,Hire,1
+"Machine Learning, SQL, Python, Deep Learning",2,MBA,Google ML,Data Scientist,108247,6,86.0,Hire,3,2,2,3,0.9856,1,Hire,1
+"TensorFlow, Python",1,M.Tech,Deep Learning Specialization,AI Researcher,108308,4,57.3,Hire,3,1,0,2,0.9856,1,Hire,1
+"NLP, Pytorch, TensorFlow",9,B.Sc,,AI Researcher,108379,10,97.5,Hire,2,3,0,0,0.9856,1,Hire,1
+"Deep Learning, Machine Learning, SQL, Python",1,PhD,,Data Scientist,108185,8,70.5,Hire,4,3,2,4,0.9856,1,Hire,1
+"SQL, Deep Learning, Python, Machine Learning",6,MBA,Google ML,Data Scientist,107075,8,97.9,Hire,3,2,2,3,0.9855,1,Hire,12
+"Pytorch, NLP, Python",10,M.Tech,Deep Learning Specialization,AI Researcher,106554,2,100.0,Hire,3,1,0,2,0.9855,1,Hire,12
+"React, C++, Java, SQL",5,M.Tech,Google ML,Software Engineer,106646,4,98.1,Hire,3,2,3,2,0.9855,1,Hire,12
+"Machine Learning, Deep Learning, SQL",4,MBA,AWS Certified,Data Scientist,107045,8,91.1,Hire,3,0,2,3,0.9855,1,Hire,12
+"React, C++",1,PhD,Deep Learning Specialization,Software Engineer,107085,10,84.6,Hire,4,1,3,4,0.9855,1,Hire,12
+"Java, React, SQL, C++",1,B.Sc,,Software Engineer,107509,10,77.8,Hire,2,3,3,0,0.9854,1,Hire,17
+"Ethical Hacking, Linux, Networking, Cybersecurity",7,MBA,,Cybersecurity Analyst,107237,3,100.0,Hire,3,3,1,3,0.9854,1,Hire,17
+"Cybersecurity, Networking, Linux",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,107124,2,100.0,Hire,4,1,1,4,0.9854,1,Hire,17
+"Networking, Ethical Hacking",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,107340,7,89.0,Hire,2,1,1,0,0.9854,1,Hire,17
+"Networking, Linux, Ethical Hacking",4,PhD,,Cybersecurity Analyst,107425,2,64.1,Hire,4,3,1,4,0.9854,1,Hire,17
+"NLP, TensorFlow, Pytorch, Python",0,B.Sc,Google ML,AI Researcher,107278,1,33.4,Hire,2,2,0,0,0.9854,1,Hire,17
+"Linux, Cybersecurity, Networking, Ethical Hacking",6,B.Tech,AWS Certified,Cybersecurity Analyst,109463,6,93.7,Hire,2,0,1,1,0.9851,1,Hire,23
+"C++, Java",0,M.Tech,Deep Learning Specialization,Software Engineer,109551,3,26.8,Hire,3,1,3,2,0.9851,1,Hire,23
+"SQL, Machine Learning, Deep Learning, Python",8,M.Tech,Google ML,Data Scientist,109019,8,95.4,Hire,3,2,2,2,0.9851,1,Hire,23
+"TensorFlow, Pytorch, Python, NLP",6,PhD,AWS Certified,AI Researcher,109248,8,96.4,Hire,4,0,0,4,0.9851,1,Hire,23
+"Pytorch, Python, TensorFlow, NLP",5,MBA,Google ML,AI Researcher,109244,5,99.7,Hire,3,2,0,3,0.9851,1,Hire,23
+"Cybersecurity, Ethical Hacking, Linux, Networking",5,B.Tech,AWS Certified,Cybersecurity Analyst,109004,7,100.0,Hire,2,0,1,1,0.9851,1,Hire,23
+"Cybersecurity, Networking",7,MBA,,Cybersecurity Analyst,109418,6,100.0,Hire,3,3,1,3,0.9851,1,Hire,23
+"Machine Learning, Python, Deep Learning, SQL",9,B.Tech,Google ML,Data Scientist,107697,5,90.8,Reject,2,2,2,1,0.9847,1,Hire,30
+"React, C++",7,PhD,,Software Engineer,107965,10,100.0,Hire,4,3,3,4,0.9847,1,Hire,30
+"Machine Learning, Deep Learning, Python",3,PhD,,Data Scientist,107521,10,95.2,Hire,4,3,2,4,0.9847,1,Hire,30
+"Networking, Linux, Ethical Hacking, Cybersecurity",2,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,108144,2,63.8,Hire,2,1,1,0,0.9847,1,Hire,30
+"Machine Learning, SQL",5,B.Sc,Deep Learning Specialization,Data Scientist,108012,7,100.0,Hire,2,1,2,0,0.9847,1,Hire,30
+"NLP, Python",9,M.Tech,,AI Researcher,107875,5,100.0,Hire,3,3,0,2,0.9847,1,Hire,30
+"Linux, Ethical Hacking, Networking",10,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,108070,1,100.0,Hire,2,1,1,0,0.9847,1,Hire,30
+"Pytorch, TensorFlow, Python, NLP",4,M.Tech,Google ML,AI Researcher,109802,3,91.3,Hire,3,2,0,2,0.9831,1,Hire,37
+"TensorFlow, Pytorch, NLP, Python",6,B.Tech,AWS Certified,AI Researcher,109750,9,100.0,Hire,2,0,0,1,0.9831,1,Hire,37
+"Python, SQL, Deep Learning, Machine Learning",10,M.Tech,Deep Learning Specialization,Data Scientist,110158,8,95.8,Hire,3,1,2,2,0.9831,1,Hire,37
+"Deep Learning, Machine Learning, Python, SQL",5,B.Tech,,Data Scientist,112155,0,69.8,Hire,2,3,2,1,0.983,1,Hire,40
+"Pytorch, NLP, Python, TensorFlow",7,M.Tech,AWS Certified,AI Researcher,112353,10,100.0,Hire,3,0,0,2,0.983,1,Hire,40
+"Cybersecurity, Networking, Ethical Hacking",4,MBA,,Cybersecurity Analyst,112115,9,100.0,Hire,3,3,1,3,0.983,1,Hire,40
+"Java, SQL",3,PhD,Google ML,Software Engineer,112396,10,100.0,Hire,4,2,3,4,0.983,1,Hire,40
+"SQL, Python, Deep Learning",3,MBA,,Data Scientist,112439,10,90.0,Hire,3,3,2,3,0.983,1,Hire,40
+"NLP, TensorFlow, Pytorch",3,M.Tech,AWS Certified,AI Researcher,112201,6,89.0,Hire,3,0,0,2,0.983,1,Hire,40
+"NLP, TensorFlow, Python, Pytorch",9,PhD,AWS Certified,AI Researcher,112005,10,100.0,Hire,4,0,0,4,0.9821,1,Hire,46
+"TensorFlow, NLP",9,B.Sc,Deep Learning Specialization,AI Researcher,111697,4,88.8,Hire,2,1,0,0,0.9821,1,Hire,46
+"SQL, C++, React",3,B.Tech,,Software Engineer,112003,7,79.1,Hire,2,3,3,1,0.9821,1,Hire,46
+"Python, SQL, Machine Learning",9,MBA,Deep Learning Specialization,Data Scientist,112067,2,93.3,Hire,3,1,2,3,0.9821,1,Hire,46
+"TensorFlow, NLP, Python, Pytorch",6,M.Tech,Deep Learning Specialization,AI Researcher,115539,9,98.8,Hire,3,1,0,2,0.9819,1,Hire,50
+"React, C++",6,B.Tech,Google ML,Software Engineer,114890,7,86.3,Hire,2,2,3,1,0.9819,1,Hire,50
+"Linux, Cybersecurity, Ethical Hacking",4,M.Tech,,Cybersecurity Analyst,114988,5,71.9,Hire,3,3,1,2,0.9819,1,Hire,50
+"Networking, Linux, Ethical Hacking, Cybersecurity",3,M.Tech,AWS Certified,Cybersecurity Analyst,115553,9,100.0,Hire,3,0,1,2,0.9819,1,Hire,50
+"Linux, Networking, Cybersecurity, Ethical Hacking",3,MBA,AWS Certified,Cybersecurity Analyst,114989,9,98.4,Hire,3,0,1,3,0.9819,1,Hire,50
+"SQL, Java",7,M.Tech,AWS Certified,Software Engineer,115275,5,99.7,Hire,3,0,3,2,0.9819,1,Hire,50
+"C++, SQL, Java",7,B.Sc,,Software Engineer,115535,5,98.7,Hire,2,3,3,0,0.9819,1,Hire,50
+"Deep Learning, SQL",5,MBA,Google ML,Data Scientist,114879,8,98.4,Hire,3,2,2,3,0.9819,1,Hire,50
+"NLP, TensorFlow, Pytorch",3,M.Tech,,AI Researcher,115568,10,92.5,Hire,3,3,0,2,0.9819,1,Hire,50
+"Linux, Cybersecurity",5,M.Tech,,Cybersecurity Analyst,115234,10,100.0,Hire,3,3,1,2,0.9819,1,Hire,50
+"Networking, Ethical Hacking, Linux, Cybersecurity",3,PhD,Google ML,Cybersecurity Analyst,115708,9,100.0,Hire,4,2,1,4,0.9819,1,Hire,50
+"React, SQL, Java",6,B.Tech,Deep Learning Specialization,Software Engineer,115386,4,100.0,Hire,2,1,3,1,0.9819,1,Hire,50
+"Pytorch, Python, TensorFlow, NLP",9,B.Sc,AWS Certified,AI Researcher,114772,5,100.0,Hire,2,0,0,0,0.9819,1,Hire,50
+"SQL, Python",10,PhD,,Data Scientist,115364,2,100.0,Hire,4,3,2,4,0.9819,1,Hire,50
+"Java, SQL",8,M.Tech,Deep Learning Specialization,Software Engineer,115051,2,99.9,Hire,3,1,3,2,0.9819,1,Hire,50
+"Ethical Hacking, Linux",2,M.Tech,,Cybersecurity Analyst,115687,7,74.4,Hire,3,3,1,2,0.9819,1,Hire,50
+"Linux, Ethical Hacking",4,B.Tech,,Cybersecurity Analyst,110442,7,89.4,Hire,2,3,1,1,0.9815,1,Hire,66
+"Deep Learning, Python",3,MBA,AWS Certified,Data Scientist,110523,4,75.5,Hire,3,0,2,3,0.9815,1,Hire,66
+"Python, Deep Learning, Machine Learning",8,B.Tech,Deep Learning Specialization,Data Scientist,110499,9,97.7,Hire,2,1,2,1,0.9815,1,Hire,66
+"Java, C++, SQL, React",7,B.Sc,Google ML,Software Engineer,115954,9,100.0,Hire,2,2,3,0,0.9802,1,Hire,69
+"Machine Learning, Python, SQL, Deep Learning",6,M.Tech,AWS Certified,Data Scientist,116163,2,97.8,Hire,3,0,2,2,0.9802,1,Hire,69
+"Deep Learning, Python, SQL, Machine Learning",8,MBA,,Data Scientist,115812,5,100.0,Hire,3,3,2,3,0.9802,1,Hire,69
+"React, Java, C++",5,B.Tech,Google ML,Software Engineer,115813,0,70.2,Hire,2,2,3,1,0.9802,1,Hire,69
+"Ethical Hacking, Linux, Cybersecurity, Networking",7,MBA,,Cybersecurity Analyst,116460,10,98.8,Hire,3,3,1,3,0.9794,1,Hire,73
+"Linux, Networking",4,M.Tech,,Cybersecurity Analyst,116278,0,51.9,Hire,3,3,1,2,0.9794,1,Hire,73
+"Deep Learning, Machine Learning, Python, SQL",10,PhD,,Data Scientist,116205,7,100.0,Hire,4,3,2,4,0.9794,1,Hire,73
+"Ethical Hacking, Linux, Cybersecurity, Networking",1,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,80647,8,81.1,Hire,2,1,1,1,0.979,1,Hire,76
+"Python, NLP, Pytorch",2,PhD,AWS Certified,AI Researcher,80377,1,51.8,Hire,4,0,0,4,0.979,1,Hire,76
+"TensorFlow, Python, NLP, Pytorch",10,B.Sc,Deep Learning Specialization,AI Researcher,82119,2,100.0,Hire,2,1,0,0,0.979,1,Hire,76
+"TensorFlow, NLP, Python",3,MBA,Deep Learning Specialization,AI Researcher,80393,10,100.0,Hire,3,1,0,3,0.979,1,Hire,76
+"Pytorch, TensorFlow",3,MBA,,AI Researcher,81415,7,73.2,Hire,3,3,0,3,0.979,1,Hire,76
+"TensorFlow, Pytorch",5,M.Tech,Deep Learning Specialization,AI Researcher,82093,9,100.0,Hire,3,1,0,2,0.979,1,Hire,76
+"Machine Learning, Deep Learning, SQL, Python",2,PhD,AWS Certified,Data Scientist,80720,6,76.8,Hire,4,0,2,4,0.979,1,Hire,76
+"React, C++, Java, SQL",0,M.Tech,AWS Certified,Software Engineer,80517,8,77.5,Hire,3,0,3,2,0.979,1,Hire,76
+"Java, SQL",5,B.Tech,Google ML,Software Engineer,81801,1,68.0,Hire,2,2,3,1,0.979,1,Hire,76
+"SQL, React, Java",0,M.Tech,,Software Engineer,81417,0,8.1,Reject,3,3,3,2,0.979,1,Hire,76
+"Java, React",6,PhD,Google ML,Software Engineer,80278,4,100.0,Hire,4,2,3,4,0.979,1,Hire,76
+"C++, Java, React, SQL",9,MBA,AWS Certified,Software Engineer,81897,4,97.0,Hire,3,0,3,3,0.979,1,Hire,76
+"Networking, Ethical Hacking, Linux, Cybersecurity",9,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,80779,5,93.8,Hire,2,1,1,1,0.979,1,Hire,76
+"Python, NLP",7,M.Tech,Google ML,AI Researcher,80936,3,100.0,Hire,3,2,0,2,0.979,1,Hire,76
+"Python, SQL, Deep Learning",2,PhD,AWS Certified,Data Scientist,82119,8,85.5,Hire,4,0,2,4,0.979,1,Hire,76
+"Python, NLP",0,PhD,Deep Learning Specialization,AI Researcher,81970,10,67.1,Hire,4,1,0,4,0.979,1,Hire,76
+"Pytorch, TensorFlow, Python",8,M.Tech,,AI Researcher,82202,5,100.0,Hire,3,3,0,2,0.979,1,Hire,76
+"Networking, Linux",10,PhD,,Cybersecurity Analyst,82245,2,100.0,Hire,4,3,1,4,0.979,1,Hire,76
+"Machine Learning, Python, Deep Learning",3,M.Tech,,Data Scientist,81656,7,83.2,Hire,3,3,2,2,0.979,1,Hire,76
+"Linux, Networking, Ethical Hacking, Cybersecurity",9,M.Tech,Google ML,Cybersecurity Analyst,81596,3,97.6,Hire,3,2,1,2,0.979,1,Hire,76
+"Cybersecurity, Linux, Ethical Hacking",7,MBA,Deep Learning Specialization,Cybersecurity Analyst,81422,10,94.2,Hire,3,1,1,3,0.979,1,Hire,76
+"SQL, Java, C++",1,M.Tech,Deep Learning Specialization,Software Engineer,82007,10,84.6,Hire,3,1,3,2,0.979,1,Hire,76
+"SQL, Java, React",2,B.Tech,,Software Engineer,82150,4,44.9,Hire,2,3,3,1,0.979,1,Hire,76
+"SQL, Deep Learning",6,B.Tech,Google ML,Data Scientist,80534,6,93.3,Hire,2,2,2,1,0.979,1,Hire,76
+"SQL, Java, React",10,B.Sc,Deep Learning Specialization,Software Engineer,81778,4,100.0,Hire,2,1,3,0,0.979,1,Hire,76
+"Python, SQL, Machine Learning",9,B.Sc,Google ML,Data Scientist,82004,2,91.4,Reject,2,2,2,0,0.979,1,Hire,76
+"C++, SQL, Java",6,PhD,AWS Certified,Software Engineer,80373,8,100.0,Hire,4,0,3,4,0.979,1,Hire,76
+"Python, Deep Learning, SQL, Machine Learning",2,M.Tech,,Data Scientist,82012,7,72.3,Reject,3,3,2,2,0.979,1,Hire,76
+"Pytorch, TensorFlow, NLP",8,B.Tech,AWS Certified,AI Researcher,80736,2,90.4,Hire,2,0,0,1,0.979,1,Hire,76
+"SQL, Python, Machine Learning, Deep Learning",6,M.Tech,Deep Learning Specialization,Data Scientist,112595,7,97.2,Hire,3,1,2,2,0.9769,1,Hire,105
+"SQL, Machine Learning",3,PhD,Deep Learning Specialization,Data Scientist,112466,9,88.0,Hire,4,1,2,4,0.9769,1,Hire,105
+"Python, Machine Learning, Deep Learning, SQL",7,M.Tech,Google ML,Data Scientist,112572,5,100.0,Hire,3,2,2,2,0.9769,1,Hire,105
+"Python, SQL",1,MBA,Deep Learning Specialization,Data Scientist,112556,7,59.5,Hire,3,1,2,3,0.9769,1,Hire,105
+"C++, SQL",8,B.Sc,Google ML,Software Engineer,112514,8,95.9,Hire,2,2,3,0,0.9769,1,Hire,105
+"Python, Machine Learning, Deep Learning",0,M.Tech,Deep Learning Specialization,Data Scientist,114745,6,45.4,Hire,3,1,2,2,0.9763,1,Hire,110
+"Cybersecurity, Networking, Linux, Ethical Hacking",10,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,114697,9,100.0,Hire,3,1,1,2,0.9763,1,Hire,110
+"Linux, Cybersecurity, Ethical Hacking",8,MBA,Deep Learning Specialization,Cybersecurity Analyst,114489,9,86.7,Hire,3,1,1,3,0.9763,1,Hire,110
+"Cybersecurity, Linux, Ethical Hacking",0,B.Sc,,Cybersecurity Analyst,114364,9,60.3,Hire,2,3,1,0,0.9763,1,Hire,110
+"Machine Learning, SQL, Python",4,B.Sc,Google ML,Data Scientist,114573,8,97.6,Hire,2,2,2,0,0.9763,1,Hire,110
+"TensorFlow, Python",5,B.Sc,,AI Researcher,114286,6,90.3,Hire,2,3,0,0,0.9763,1,Hire,110
+"SQL, Machine Learning, Deep Learning",9,B.Tech,,Data Scientist,114686,0,100.0,Hire,2,3,2,1,0.9763,1,Hire,110
+"TensorFlow, Python, NLP",6,PhD,Deep Learning Specialization,AI Researcher,112672,2,88.7,Hire,4,1,0,4,0.9744,1,Hire,117
+"React, Java",2,MBA,AWS Certified,Software Engineer,113130,8,73.7,Hire,3,0,3,3,0.9744,1,Hire,117
+"Deep Learning, Machine Learning, Python, SQL",10,MBA,Google ML,Data Scientist,113002,1,100.0,Hire,3,2,2,3,0.9744,1,Hire,117
+"Python, SQL, Machine Learning",0,B.Tech,AWS Certified,Data Scientist,112663,7,53.1,Hire,2,0,2,1,0.9744,1,Hire,117
+"Java, SQL, C++",9,B.Tech,Google ML,Software Engineer,113365,8,100.0,Hire,2,2,3,1,0.9732,1,Hire,121
+"Deep Learning, Python, SQL, Machine Learning",3,B.Sc,AWS Certified,Data Scientist,113134,5,73.9,Hire,2,0,2,0,0.9732,1,Hire,121
+"SQL, Java, C++",4,B.Tech,Deep Learning Specialization,Software Engineer,113251,8,100.0,Hire,2,1,3,1,0.9732,1,Hire,121
+"SQL, C++, Java",6,B.Sc,,Software Engineer,113366,4,100.0,Hire,2,3,3,0,0.9732,1,Hire,121
+"Networking, Cybersecurity, Linux",5,M.Tech,Google ML,Cybersecurity Analyst,113331,8,100.0,Hire,3,2,1,2,0.9732,1,Hire,121
+"Machine Learning, Deep Learning, Python",3,B.Sc,AWS Certified,Data Scientist,79930,9,100.0,Hire,2,0,2,0,0.9713,1,Hire,126
+"Linux, Networking, Ethical Hacking",7,B.Sc,,Cybersecurity Analyst,79874,6,100.0,Hire,2,3,1,0,0.9713,1,Hire,126
+"Deep Learning, SQL, Machine Learning",6,MBA,Deep Learning Specialization,Data Scientist,79795,8,92.2,Hire,3,1,2,3,0.9713,1,Hire,126
+"Cybersecurity, Ethical Hacking, Linux, Networking",6,MBA,Deep Learning Specialization,Cybersecurity Analyst,80085,10,93.3,Hire,3,1,1,3,0.9713,1,Hire,126
+"Deep Learning, Machine Learning, SQL, Python",1,M.Tech,Deep Learning Specialization,Data Scientist,79991,10,85.2,Hire,3,1,2,2,0.9713,1,Hire,126
+"Machine Learning, Python, Deep Learning",9,B.Tech,,Data Scientist,93707,0,100.0,Hire,2,3,2,1,0.9676,1,Hire,131
+"Python, Deep Learning, SQL, Machine Learning",9,MBA,,Data Scientist,93197,0,95.5,Hire,3,3,2,3,0.9676,1,Hire,131
+"Ethical Hacking, Cybersecurity, Networking, Linux",3,MBA,Google ML,Cybersecurity Analyst,93303,1,70.3,Hire,3,2,1,3,0.9676,1,Hire,131
+"Networking, Cybersecurity",3,PhD,,Cybersecurity Analyst,93508,4,62.9,Hire,4,3,1,4,0.9676,1,Hire,131
+"SQL, Deep Learning, Python",0,B.Tech,Google ML,Data Scientist,93534,5,50.4,Hire,2,2,2,1,0.9676,1,Hire,131
+"Networking, Cybersecurity, Linux, Ethical Hacking",5,B.Sc,,Cybersecurity Analyst,93770,7,100.0,Hire,2,3,1,0,0.9676,1,Hire,131
+"Networking, Linux, Ethical Hacking, Cybersecurity",7,PhD,,Cybersecurity Analyst,92893,7,92.9,Hire,4,3,1,4,0.9676,1,Hire,131
+"Ethical Hacking, Networking, Linux, Cybersecurity",0,B.Tech,,Cybersecurity Analyst,93079,2,26.4,Hire,2,3,1,1,0.9676,1,Hire,131
+"Ethical Hacking, Linux",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,93214,2,97.2,Hire,2,1,1,1,0.9676,1,Hire,131
+"React, SQL, C++, Java",8,B.Sc,,Software Engineer,93647,10,100.0,Hire,2,3,3,0,0.9676,1,Hire,131
+"Cybersecurity, Linux, Networking, Ethical Hacking",0,MBA,,Cybersecurity Analyst,92175,10,65.1,Hire,3,3,1,3,0.9648,1,Hire,141
+"Networking, Ethical Hacking",7,MBA,Deep Learning Specialization,Cybersecurity Analyst,92270,3,100.0,Hire,3,1,1,3,0.9648,1,Hire,141
+"Ethical Hacking, Cybersecurity",5,PhD,Google ML,Cybersecurity Analyst,92506,5,96.1,Hire,4,2,1,4,0.9648,1,Hire,141
+"Java, React, SQL",4,PhD,AWS Certified,Software Engineer,92781,0,66.2,Reject,4,0,3,4,0.9648,1,Hire,141
+"Deep Learning, Machine Learning, Python, SQL",5,B.Tech,,Data Scientist,92538,1,76.8,Hire,2,3,2,1,0.9648,1,Hire,141
+"Networking, Ethical Hacking, Cybersecurity",10,B.Sc,Google ML,Cybersecurity Analyst,92197,5,100.0,Hire,2,2,1,0,0.9648,1,Hire,141
+"Python, SQL, Deep Learning",10,B.Tech,,Data Scientist,92689,8,100.0,Hire,2,3,2,1,0.9648,1,Hire,141
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,M.Tech,Google ML,Cybersecurity Analyst,91996,8,100.0,Hire,3,2,1,2,0.9633,1,Hire,148
+"NLP, Pytorch",7,PhD,AWS Certified,AI Researcher,92104,6,92.7,Hire,4,0,0,4,0.9633,1,Hire,148
+"Cybersecurity, Linux",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,92129,3,100.0,Hire,2,1,1,1,0.9633,1,Hire,148
+"Python, Deep Learning, Machine Learning",0,B.Tech,AWS Certified,Data Scientist,72251,6,50.5,Reject,2,0,2,1,0.9623,1,Hire,151
+"Python, TensorFlow, NLP, Pytorch",5,M.Tech,,AI Researcher,74282,7,90.0,Hire,3,3,0,2,0.9623,1,Hire,151
+"SQL, Python",7,PhD,,Data Scientist,72691,1,77.0,Hire,4,3,2,4,0.9623,1,Hire,151
+"Pytorch, TensorFlow",8,B.Sc,Deep Learning Specialization,AI Researcher,73142,9,100.0,Hire,2,1,0,0,0.9623,1,Hire,151
+"Pytorch, Python",4,B.Sc,AWS Certified,AI Researcher,72233,9,94.2,Hire,2,0,0,0,0.9623,1,Hire,151
+"TensorFlow, NLP, Python",4,MBA,AWS Certified,AI Researcher,72225,6,86.7,Hire,3,0,0,3,0.9623,1,Hire,151
+"SQL, Java",5,B.Sc,AWS Certified,Software Engineer,72756,4,83.0,Hire,2,0,3,0,0.9623,1,Hire,151
+"Cybersecurity, Networking, Ethical Hacking, Linux",5,B.Tech,AWS Certified,Cybersecurity Analyst,74090,3,100.0,Hire,2,0,1,1,0.9623,1,Hire,151
+"Deep Learning, Machine Learning",0,PhD,Google ML,Data Scientist,73914,1,29.7,Hire,4,2,2,4,0.9623,1,Hire,151
+"Networking, Linux",2,B.Sc,Google ML,Cybersecurity Analyst,73879,2,50.1,Hire,2,2,1,0,0.9623,1,Hire,151
+"React, Java, SQL, C++",8,B.Sc,AWS Certified,Software Engineer,73325,2,99.4,Hire,2,0,3,0,0.9623,1,Hire,151
+"TensorFlow, Python, NLP",7,B.Sc,Deep Learning Specialization,AI Researcher,74451,9,100.0,Hire,2,1,0,0,0.9623,1,Hire,151
+"Linux, Networking, Cybersecurity",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,73851,6,100.0,Hire,3,1,1,3,0.9623,1,Hire,151
+"Java, React, C++",10,M.Tech,,Software Engineer,74425,5,92.3,Hire,3,3,3,2,0.9623,1,Hire,151
+"TensorFlow, Python",2,PhD,Deep Learning Specialization,AI Researcher,73596,9,88.9,Hire,4,1,0,4,0.9623,1,Hire,151
+"Cybersecurity, Linux, Ethical Hacking",1,B.Tech,AWS Certified,Cybersecurity Analyst,74376,9,82.9,Hire,2,0,1,1,0.9623,1,Hire,151
+"Machine Learning, Python, SQL, Deep Learning",9,M.Tech,,Data Scientist,74018,10,93.1,Reject,3,3,2,2,0.9623,1,Hire,151
+"SQL, Deep Learning, Machine Learning, Python",8,B.Sc,,Data Scientist,72780,9,100.0,Hire,2,3,2,0,0.9623,1,Hire,151
+"SQL, Java, C++, React",6,B.Sc,Deep Learning Specialization,Software Engineer,73268,8,99.7,Hire,2,1,3,0,0.9623,1,Hire,151
+"SQL, Machine Learning, Python, Deep Learning",4,B.Sc,Deep Learning Specialization,Data Scientist,73783,3,81.6,Hire,2,1,2,0,0.9623,1,Hire,151
+"SQL, Java",1,PhD,AWS Certified,Software Engineer,74663,9,75.5,Hire,4,0,3,4,0.9623,1,Hire,151
+"NLP, Python, TensorFlow, Pytorch",2,PhD,Deep Learning Specialization,AI Researcher,72948,10,100.0,Hire,4,1,0,4,0.9623,1,Hire,151
+"Python, Deep Learning",5,B.Tech,,Data Scientist,73559,10,92.2,Hire,2,3,2,1,0.9623,1,Hire,151
+"Networking, Ethical Hacking, Cybersecurity, Linux",9,MBA,Deep Learning Specialization,Cybersecurity Analyst,73181,5,98.7,Hire,3,1,1,3,0.9623,1,Hire,151
+"Cybersecurity, Ethical Hacking, Networking, Linux",2,B.Sc,Google ML,Cybersecurity Analyst,72178,3,66.2,Hire,2,2,1,0,0.9623,1,Hire,151
+"TensorFlow, NLP, Pytorch, Python",8,M.Tech,Google ML,AI Researcher,53090,6,92.8,Hire,3,2,0,2,0.9555,1,Hire,176
+"Cybersecurity, Ethical Hacking, Networking, Linux",3,MBA,,Cybersecurity Analyst,53096,7,93.0,Hire,3,3,1,3,0.9555,1,Hire,176
+"Machine Learning, SQL, Python",10,B.Tech,Deep Learning Specialization,Data Scientist,53167,9,100.0,Hire,2,1,2,1,0.9555,1,Hire,176
+"Java, C++",3,PhD,Deep Learning Specialization,Software Engineer,53518,7,77.4,Hire,4,1,3,4,0.9555,1,Hire,176
+"Ethical Hacking, Linux, Cybersecurity",5,MBA,Deep Learning Specialization,Cybersecurity Analyst,53855,8,91.0,Hire,3,1,1,3,0.9555,1,Hire,176
+"TensorFlow, Pytorch",6,M.Tech,Deep Learning Specialization,AI Researcher,53035,10,97.3,Hire,3,1,0,2,0.9555,1,Hire,176
+"C++, Java, React",4,MBA,Google ML,Software Engineer,53412,0,58.6,Hire,3,2,3,3,0.9555,1,Hire,176
+"Cybersecurity, Networking, Ethical Hacking",6,M.Tech,AWS Certified,Cybersecurity Analyst,53165,8,98.3,Hire,3,0,1,2,0.9555,1,Hire,176
+"SQL, Java, C++, React",0,B.Tech,AWS Certified,Software Engineer,53699,8,71.4,Hire,2,0,3,1,0.9555,1,Hire,176
+"Pytorch, Python, TensorFlow",7,B.Sc,,AI Researcher,53796,3,99.3,Hire,2,3,0,0,0.9555,1,Hire,176
+"Java, C++, SQL",10,MBA,,Software Engineer,53207,1,97.3,Hire,3,3,3,3,0.9555,1,Hire,176
+"Pytorch, TensorFlow, NLP, Python",5,MBA,AWS Certified,AI Researcher,53097,0,86.1,Hire,3,0,0,3,0.9555,1,Hire,176
+"SQL, Machine Learning, Python, Deep Learning",6,B.Sc,Deep Learning Specialization,Data Scientist,53286,5,100.0,Hire,2,1,2,0,0.9555,1,Hire,176
+"React, C++",9,B.Sc,,Software Engineer,102113,6,100.0,Hire,2,3,3,0,0.9496,1,Hire,189
+"Cybersecurity, Ethical Hacking, Networking, Linux",1,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,102390,6,69.8,Hire,3,1,1,2,0.9496,1,Hire,189
+"Linux, Ethical Hacking, Cybersecurity",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,102480,5,99.4,Hire,4,1,1,4,0.9496,1,Hire,189
+"React, SQL, Java",5,PhD,Google ML,Software Engineer,102333,10,97.2,Hire,4,2,3,4,0.9496,1,Hire,189
+"SQL, React, C++, Java",8,M.Tech,Google ML,Software Engineer,102924,7,100.0,Hire,3,2,3,2,0.9496,1,Hire,189
+"Cybersecurity, Networking, Ethical Hacking",2,M.Tech,AWS Certified,Cybersecurity Analyst,102929,10,95.2,Hire,3,0,1,2,0.9496,1,Hire,189
+"Networking, Linux, Ethical Hacking",3,MBA,AWS Certified,Cybersecurity Analyst,102914,6,79.6,Hire,3,0,1,3,0.9496,1,Hire,189
+"NLP, Pytorch, TensorFlow",8,MBA,Deep Learning Specialization,AI Researcher,102267,6,95.5,Hire,3,1,0,3,0.9496,1,Hire,189
+"Cybersecurity, Networking, Linux, Ethical Hacking",6,B.Sc,,Cybersecurity Analyst,102518,7,100.0,Hire,2,3,1,0,0.9496,1,Hire,189
+"Networking, Linux, Cybersecurity, Ethical Hacking",5,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,102150,3,98.3,Hire,3,1,1,2,0.9496,1,Hire,189
+"NLP, TensorFlow, Python, Pytorch",6,MBA,AWS Certified,AI Researcher,102676,0,89.5,Hire,3,0,0,3,0.9496,1,Hire,189
+"Ethical Hacking, Cybersecurity, Linux, Networking",0,MBA,Google ML,Cybersecurity Analyst,102527,7,70.9,Hire,3,2,1,3,0.9496,1,Hire,189
+"Cybersecurity, Ethical Hacking, Linux, Networking",8,MBA,Google ML,Cybersecurity Analyst,102247,8,100.0,Hire,3,2,1,3,0.9496,1,Hire,189
+"TensorFlow, Pytorch, NLP",3,M.Tech,AWS Certified,AI Researcher,103006,7,82.1,Hire,3,0,0,2,0.9481,1,Hire,202
+"Python, Pytorch",5,MBA,Deep Learning Specialization,AI Researcher,103073,10,100.0,Hire,3,1,0,3,0.9481,1,Hire,202
+"Networking, Linux",3,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,102962,7,82.4,Hire,3,1,1,2,0.9481,1,Hire,202
+"Pytorch, TensorFlow, NLP",8,PhD,Deep Learning Specialization,AI Researcher,50670,0,100.0,Hire,4,1,0,4,0.9461,1,Hire,205
+"Deep Learning, SQL, Python",3,B.Sc,AWS Certified,Data Scientist,50781,6,83.8,Hire,2,0,2,0,0.9461,1,Hire,205
+"Networking, Cybersecurity",7,PhD,,Cybersecurity Analyst,50704,0,86.8,Hire,4,3,1,4,0.9461,1,Hire,205
+"Linux, Ethical Hacking",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,50784,0,99.6,Hire,3,1,1,3,0.9457,1,Hire,208
+"Java, SQL",8,M.Tech,Google ML,Software Engineer,50950,8,96.5,Hire,3,2,3,2,0.9457,1,Hire,208
+"NLP, TensorFlow, Python, Pytorch",8,MBA,,AI Researcher,50831,3,100.0,Hire,3,3,0,3,0.9457,1,Hire,208
+"Deep Learning, SQL",1,B.Tech,AWS Certified,Data Scientist,50848,4,50.4,Hire,2,0,2,1,0.9457,1,Hire,208
+"Deep Learning, Python, Machine Learning, SQL",2,B.Sc,,Data Scientist,84282,6,77.4,Hire,2,3,2,0,0.9433,1,Hire,212
+"Cybersecurity, Ethical Hacking",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,84569,7,77.9,Hire,3,1,1,3,0.9433,1,Hire,212
+"SQL, Java, C++",9,B.Tech,AWS Certified,Software Engineer,84959,6,100.0,Hire,2,0,3,1,0.9433,1,Hire,212
+"Pytorch, Python, TensorFlow",4,MBA,,AI Researcher,84358,2,66.1,Hire,3,3,0,3,0.9433,1,Hire,212
+"Pytorch, NLP, Python, TensorFlow",1,MBA,,AI Researcher,84774,9,73.0,Hire,3,3,0,3,0.9433,1,Hire,212
+"C++, React, SQL, Java",5,B.Sc,AWS Certified,Software Engineer,84438,10,91.4,Hire,2,0,3,0,0.9433,1,Hire,212
+"Machine Learning, Deep Learning, Python",9,M.Tech,Google ML,Data Scientist,84443,3,100.0,Hire,3,2,2,2,0.9433,1,Hire,212
+"Python, SQL",4,PhD,,Data Scientist,84679,10,100.0,Hire,4,3,2,4,0.9433,1,Hire,212
+"Linux, Networking",6,PhD,,Cybersecurity Analyst,85029,9,96.2,Hire,4,3,1,4,0.9433,1,Hire,212
+"Ethical Hacking, Linux, Cybersecurity, Networking",6,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,85255,10,100.0,Hire,2,1,1,0,0.9397,1,Hire,221
+"React, C++",5,B.Sc,Deep Learning Specialization,Software Engineer,85526,1,77.0,Hire,2,1,3,0,0.9397,1,Hire,221
+"Pytorch, NLP, Python",10,MBA,Google ML,AI Researcher,85192,2,99.5,Hire,3,2,0,3,0.9397,1,Hire,221
+"C++, Java",2,MBA,Deep Learning Specialization,Software Engineer,85561,2,58.0,Hire,3,1,3,3,0.9397,1,Hire,221
+"Ethical Hacking, Networking, Cybersecurity",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,51159,8,100.0,Hire,3,1,1,3,0.9381,1,Hire,225
+"Java, SQL, C++, React",10,M.Tech,Google ML,Software Engineer,51113,0,100.0,Hire,3,2,3,2,0.9381,1,Hire,225
+"Ethical Hacking, Cybersecurity, Networking",3,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,50972,1,60.9,Hire,2,1,1,0,0.9381,1,Hire,225
+"Ethical Hacking, Networking",9,B.Sc,Google ML,Cybersecurity Analyst,56987,1,100.0,Hire,2,2,1,0,0.935,1,Hire,228
+"SQL, Deep Learning, Machine Learning",6,M.Tech,,Data Scientist,58016,2,87.2,Hire,3,3,2,2,0.935,1,Hire,228
+"Machine Learning, Python, Deep Learning, SQL",8,B.Sc,AWS Certified,Data Scientist,57448,0,93.7,Hire,2,0,2,0,0.935,1,Hire,228
+"Cybersecurity, Networking, Ethical Hacking",1,B.Sc,Google ML,Cybersecurity Analyst,56827,4,63.1,Hire,2,2,1,0,0.935,1,Hire,228
+"TensorFlow, NLP, Python",9,MBA,Google ML,AI Researcher,57419,7,100.0,Hire,3,2,0,3,0.935,1,Hire,228
+"Networking, Ethical Hacking, Linux, Cybersecurity",10,M.Tech,Google ML,Cybersecurity Analyst,56891,0,88.1,Hire,3,2,1,2,0.935,1,Hire,228
+"SQL, Machine Learning, Python, Deep Learning",9,B.Sc,Google ML,Data Scientist,57223,2,100.0,Reject,2,2,2,0,0.935,1,Hire,228
+"Ethical Hacking, Networking, Linux",1,M.Tech,Google ML,Cybersecurity Analyst,57375,2,45.4,Hire,3,2,1,2,0.935,1,Hire,228
+"React, SQL, Java",10,B.Sc,Deep Learning Specialization,Software Engineer,57933,3,96.4,Hire,2,1,3,0,0.935,1,Hire,228
+"SQL, Java, C++, React",5,B.Sc,,Software Engineer,57546,4,90.5,Hire,2,3,3,0,0.935,1,Hire,228
+"Linux, Cybersecurity",2,PhD,AWS Certified,Cybersecurity Analyst,48427,1,46.8,Hire,4,0,1,4,0.9349,1,Hire,238
+"Networking, Linux, Cybersecurity",1,PhD,Google ML,Cybersecurity Analyst,48456,8,83.0,Hire,4,2,1,4,0.9349,1,Hire,238
+"Pytorch, Python",3,MBA,Deep Learning Specialization,AI Researcher,48726,0,51.0,Hire,3,1,0,3,0.9349,1,Hire,238
+"React, SQL, Java",0,B.Tech,AWS Certified,Software Engineer,49006,3,38.2,Reject,2,0,3,1,0.9349,1,Hire,238
+"Machine Learning, Deep Learning, SQL",3,PhD,AWS Certified,Data Scientist,48470,7,93.7,Hire,4,0,2,4,0.9349,1,Hire,238
+"C++, SQL, React",10,M.Tech,Deep Learning Specialization,Software Engineer,48829,5,96.5,Hire,3,1,3,2,0.9349,1,Hire,238
+"TensorFlow, NLP, Pytorch, Python",4,M.Tech,AWS Certified,AI Researcher,48906,7,100.0,Hire,3,0,0,2,0.9349,1,Hire,238
+"Java, SQL, React",5,MBA,,Software Engineer,49176,8,90.2,Hire,3,3,3,3,0.9349,1,Hire,238
+"SQL, Java, React",1,M.Tech,AWS Certified,Software Engineer,48917,3,47.6,Hire,3,0,3,2,0.9349,1,Hire,238
+"Deep Learning, Machine Learning, SQL",2,PhD,Deep Learning Specialization,Data Scientist,106032,10,93.4,Hire,4,1,2,4,0.9333,1,Hire,247
+"Pytorch, NLP, TensorFlow",7,B.Sc,Deep Learning Specialization,AI Researcher,106421,2,99.7,Hire,2,1,0,0,0.9333,1,Hire,247
+"Networking, Ethical Hacking",2,PhD,AWS Certified,Cybersecurity Analyst,106309,7,82.8,Hire,4,0,1,4,0.9333,1,Hire,247
+"NLP, TensorFlow",6,B.Tech,Google ML,AI Researcher,106122,10,100.0,Hire,2,2,0,1,0.9333,1,Hire,247
+"Ethical Hacking, Linux, Networking, Cybersecurity",3,PhD,,Cybersecurity Analyst,106073,4,79.1,Hire,4,3,1,4,0.9333,1,Hire,247
+"Deep Learning, SQL",6,B.Tech,AWS Certified,Data Scientist,106433,0,80.7,Hire,2,0,2,1,0.9333,1,Hire,247
+"Python, TensorFlow, Pytorch, NLP",6,B.Sc,Google ML,AI Researcher,106352,10,100.0,Hire,2,2,0,0,0.9333,1,Hire,247
+"Java, C++, React, SQL",10,PhD,Deep Learning Specialization,Software Engineer,77427,10,93.2,Hire,4,1,3,4,0.9314,1,Hire,254
+"Cybersecurity, Ethical Hacking, Linux",1,MBA,AWS Certified,Cybersecurity Analyst,78344,10,77.7,Hire,3,0,1,3,0.9314,1,Hire,254
+"Python, Deep Learning, Machine Learning, SQL",3,PhD,Google ML,Data Scientist,77893,10,89.7,Hire,4,2,2,4,0.9314,1,Hire,254
+"Linux, Cybersecurity",9,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,78574,7,100.0,Hire,2,1,1,0,0.9314,1,Hire,254
+"Deep Learning, SQL, Machine Learning",6,PhD,,Data Scientist,79100,2,90.7,Hire,4,3,2,4,0.9314,1,Hire,254
+"TensorFlow, Pytorch, Python",8,B.Tech,AWS Certified,AI Researcher,78090,6,100.0,Hire,2,0,0,1,0.9314,1,Hire,254
+"SQL, Machine Learning, Python, Deep Learning",6,B.Tech,Deep Learning Specialization,Data Scientist,77388,4,100.0,Hire,2,1,2,1,0.9314,1,Hire,254
+"Deep Learning, Machine Learning, Python, SQL",5,B.Tech,AWS Certified,Data Scientist,78601,7,93.6,Reject,2,0,2,1,0.9314,1,Hire,254
+"Java, C++, React, SQL",8,PhD,Google ML,Software Engineer,77705,0,100.0,Hire,4,2,3,4,0.9314,1,Hire,254
+"Python, TensorFlow, Pytorch, NLP",6,B.Sc,,AI Researcher,78872,4,99.5,Hire,2,3,0,0,0.9314,1,Hire,254
+"Pytorch, NLP, Python, TensorFlow",10,M.Tech,AWS Certified,AI Researcher,77860,1,100.0,Hire,3,0,0,2,0.9314,1,Hire,254
+"Machine Learning, Deep Learning, SQL",7,M.Tech,Deep Learning Specialization,Data Scientist,78218,10,100.0,Hire,3,1,2,2,0.9314,1,Hire,254
+"Java, React, SQL, C++",3,PhD,,Software Engineer,78794,4,60.5,Hire,4,3,3,4,0.9314,1,Hire,254
+"Python, Pytorch",3,PhD,Deep Learning Specialization,AI Researcher,43097,8,74.5,Hire,4,1,0,4,0.9293,1,Hire,267
+"SQL, Machine Learning",5,B.Sc,Deep Learning Specialization,Data Scientist,42998,6,94.6,Hire,2,1,2,0,0.9293,1,Hire,267
+"Networking, Cybersecurity",7,B.Sc,,Cybersecurity Analyst,42894,0,86.6,Hire,2,3,1,0,0.9293,1,Hire,267
+"Pytorch, NLP",0,B.Sc,,AI Researcher,42924,7,40.8,Hire,2,3,0,0,0.9293,1,Hire,267
+"TensorFlow, NLP, Python, Pytorch",4,M.Tech,AWS Certified,AI Researcher,42305,10,100.0,Hire,3,0,0,2,0.9172,1,Hire,271
+"NLP, Python, TensorFlow",1,PhD,Deep Learning Specialization,AI Researcher,42249,7,77.4,Hire,4,1,0,4,0.9172,1,Hire,271
+"SQL, Machine Learning",4,MBA,Google ML,Data Scientist,42621,5,78.6,Reject,3,2,2,3,0.9172,1,Hire,271
+"Python, Deep Learning, Machine Learning, SQL",2,B.Tech,Deep Learning Specialization,Data Scientist,42356,3,67.4,Hire,2,1,2,1,0.9172,1,Hire,271
+"Pytorch, Python",7,B.Tech,,AI Researcher,42236,6,92.5,Hire,2,3,0,1,0.9172,1,Hire,271
+"Cybersecurity, Networking",3,PhD,,Cybersecurity Analyst,42368,9,85.8,Hire,4,3,1,4,0.9172,1,Hire,271
+"Pytorch, TensorFlow",3,B.Tech,AWS Certified,AI Researcher,58215,9,98.7,Hire,2,0,0,1,0.9159,1,Hire,277
+"React, C++, Java, SQL",7,M.Tech,Deep Learning Specialization,Software Engineer,58910,7,95.5,Hire,3,1,3,2,0.9159,1,Hire,277
+"Ethical Hacking, Networking, Linux",1,B.Sc,,Cybersecurity Analyst,58606,10,69.4,Hire,2,3,1,0,0.9159,1,Hire,277
+"Networking, Linux, Cybersecurity, Ethical Hacking",6,PhD,Google ML,Cybersecurity Analyst,58947,8,100.0,Hire,4,2,1,4,0.9159,1,Hire,277
+"TensorFlow, Pytorch, NLP",10,M.Tech,AWS Certified,AI Researcher,58221,8,98.6,Hire,3,0,0,2,0.9159,1,Hire,277
+"C++, React, Java, SQL",1,M.Tech,,Software Engineer,58823,3,47.5,Reject,3,3,3,2,0.9159,1,Hire,277
+"Ethical Hacking, Cybersecurity",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,58775,3,95.0,Hire,2,1,1,1,0.9159,1,Hire,277
+"Deep Learning, Machine Learning, SQL",1,B.Tech,,Data Scientist,58515,6,52.7,Hire,2,3,2,1,0.9159,1,Hire,277
+"SQL, Machine Learning, Python, Deep Learning",2,MBA,AWS Certified,Data Scientist,58438,6,84.9,Hire,3,0,2,3,0.9159,1,Hire,277
+"SQL, Deep Learning",3,B.Tech,AWS Certified,Data Scientist,99679,5,74.7,Hire,2,0,2,1,0.9158,1,Hire,286
+"React, Java, SQL",4,MBA,Google ML,Software Engineer,99599,9,100.0,Hire,3,2,3,3,0.9158,1,Hire,286
+"React, SQL, Java, C++",2,M.Tech,Deep Learning Specialization,Software Engineer,99600,3,61.8,Hire,3,1,3,2,0.9158,1,Hire,286
+"Machine Learning, Deep Learning, Python",7,B.Tech,Deep Learning Specialization,Data Scientist,99741,0,100.0,Hire,2,1,2,1,0.9158,1,Hire,286
+"Machine Learning, Python, Deep Learning",3,B.Tech,AWS Certified,Data Scientist,99842,4,82.2,Hire,2,0,2,1,0.9158,1,Hire,286
+"Deep Learning, Python, SQL",2,B.Sc,Deep Learning Specialization,Data Scientist,99578,0,44.8,Hire,2,1,2,0,0.9158,1,Hire,286
+"Deep Learning, Python, Machine Learning",6,B.Tech,Google ML,Data Scientist,89840,2,98.1,Hire,2,2,2,1,0.9125,1,Hire,292
+"Deep Learning, SQL, Machine Learning, Python",3,B.Sc,AWS Certified,Data Scientist,89915,9,100.0,Hire,2,0,2,0,0.9125,1,Hire,292
+"Python, TensorFlow",1,B.Sc,Deep Learning Specialization,AI Researcher,89941,4,55.6,Hire,2,1,0,0,0.9125,1,Hire,292
+"React, SQL, Java",1,B.Sc,Google ML,Software Engineer,105524,9,82.0,Hire,2,2,3,0,0.9112,1,Hire,295
+"Java, C++",4,B.Tech,Deep Learning Specialization,Software Engineer,104969,8,100.0,Hire,2,1,3,1,0.9112,1,Hire,295
+"Cybersecurity, Ethical Hacking, Networking, Linux",3,PhD,,Cybersecurity Analyst,105166,5,81.8,Hire,4,3,1,4,0.9112,1,Hire,295
+"Python, TensorFlow, NLP, Pytorch",8,PhD,AWS Certified,AI Researcher,104942,5,100.0,Hire,4,0,0,4,0.9112,1,Hire,295
+"React, Java",3,M.Tech,AWS Certified,Software Engineer,105280,9,96.0,Hire,3,0,3,2,0.9112,1,Hire,295
+"Python, TensorFlow, Pytorch, NLP",5,PhD,Google ML,AI Researcher,104955,0,66.8,Hire,4,2,0,4,0.9112,1,Hire,295
+"Linux, Networking, Cybersecurity",3,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,105232,1,65.5,Hire,3,1,1,2,0.9112,1,Hire,295
+"Networking, Cybersecurity, Linux, Ethical Hacking",8,MBA,Google ML,Cybersecurity Analyst,104087,4,94.8,Hire,3,2,1,3,0.9075,1,Hire,302
+"Python, Machine Learning",8,PhD,Google ML,Data Scientist,103477,9,100.0,Hire,4,2,2,4,0.9075,1,Hire,302
+"Cybersecurity, Linux, Ethical Hacking",3,MBA,,Cybersecurity Analyst,103993,9,83.0,Hire,3,3,1,3,0.9075,1,Hire,302
+"React, Java, C++",6,B.Sc,AWS Certified,Software Engineer,103874,5,100.0,Hire,2,0,3,0,0.9075,1,Hire,302
+"Deep Learning, Machine Learning",4,PhD,AWS Certified,Data Scientist,103828,0,58.4,Hire,4,0,2,4,0.9075,1,Hire,302
+"TensorFlow, Pytorch, NLP, Python",4,B.Sc,AWS Certified,AI Researcher,103738,10,99.5,Hire,2,0,0,0,0.9075,1,Hire,302
+"C++, Java, React, SQL",10,MBA,Deep Learning Specialization,Software Engineer,103925,9,100.0,Hire,3,1,3,3,0.9075,1,Hire,302
+"React, SQL",7,B.Tech,AWS Certified,Software Engineer,75572,0,95.1,Hire,2,0,3,1,0.9036,1,Hire,309
+"TensorFlow, Python, Pytorch",8,PhD,,AI Researcher,75976,1,100.0,Hire,4,3,0,4,0.9036,1,Hire,309
+"Deep Learning, SQL, Machine Learning, Python",3,PhD,Google ML,Data Scientist,75861,1,71.5,Reject,4,2,2,4,0.9036,1,Hire,309
+"React, Java",5,MBA,,Software Engineer,75717,7,99.5,Hire,3,3,3,3,0.9036,1,Hire,309
+"Java, React",10,B.Sc,Deep Learning Specialization,Software Engineer,75477,6,100.0,Hire,2,1,3,0,0.9036,1,Hire,309
+"NLP, TensorFlow, Pytorch, Python",6,B.Tech,Google ML,AI Researcher,75755,0,88.5,Hire,2,2,0,1,0.9036,1,Hire,309
+"React, C++, Java",10,MBA,Deep Learning Specialization,Software Engineer,76012,1,100.0,Hire,3,1,3,3,0.9036,1,Hire,309
+"NLP, Pytorch, Python",8,MBA,,AI Researcher,75898,3,98.8,Hire,3,3,0,3,0.9036,1,Hire,309
+"Ethical Hacking, Networking",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,75810,7,98.8,Hire,2,1,1,1,0.9036,1,Hire,309
+"React, SQL, Java, C++",5,B.Sc,Deep Learning Specialization,Software Engineer,75828,4,100.0,Hire,2,1,3,0,0.9036,1,Hire,309
+"Networking, Linux, Ethical Hacking, Cybersecurity",4,B.Tech,,Cybersecurity Analyst,75555,0,62.7,Hire,2,3,1,1,0.9036,1,Hire,309
+"Python, Pytorch, TensorFlow, NLP",7,B.Sc,Google ML,AI Researcher,75507,7,92.2,Hire,2,2,0,0,0.9036,1,Hire,309
+"Machine Learning, Deep Learning, Python, SQL",6,MBA,,Data Scientist,76085,4,99.8,Hire,3,3,2,3,0.9036,1,Hire,309
+"NLP, Python, Pytorch, TensorFlow",3,MBA,AWS Certified,AI Researcher,68738,6,89.9,Hire,3,0,0,3,0.8951,1,Hire,322
+"Cybersecurity, Networking, Linux",8,M.Tech,Google ML,Cybersecurity Analyst,68492,4,100.0,Hire,3,2,1,2,0.8951,1,Hire,322
+"C++, SQL, Java",1,PhD,Deep Learning Specialization,Software Engineer,68682,7,68.8,Hire,4,1,3,4,0.8951,1,Hire,322
+"Ethical Hacking, Cybersecurity",0,MBA,AWS Certified,Cybersecurity Analyst,68407,4,34.7,Hire,3,0,1,3,0.8951,1,Hire,322
+"Java, C++, React, SQL",9,B.Sc,Deep Learning Specialization,Software Engineer,68144,2,100.0,Hire,2,1,3,0,0.8951,1,Hire,322
+"Python, NLP",7,B.Tech,Deep Learning Specialization,AI Researcher,68447,10,98.7,Hire,2,1,0,1,0.8951,1,Hire,322
+"React, C++, SQL, Java",9,PhD,Deep Learning Specialization,Software Engineer,68203,9,100.0,Hire,4,1,3,4,0.8951,1,Hire,322
+"TensorFlow, Python, NLP, Pytorch",9,M.Tech,Google ML,AI Researcher,68212,9,95.5,Hire,3,2,0,2,0.8951,1,Hire,322
+"Python, NLP, Pytorch, TensorFlow",4,B.Sc,,AI Researcher,61931,8,97.5,Hire,2,3,0,0,0.8869,1,Hire,330
+"TensorFlow, Pytorch, Python, NLP",4,MBA,AWS Certified,AI Researcher,61757,2,85.7,Hire,3,0,0,3,0.8869,1,Hire,330
+"SQL, Machine Learning, Deep Learning",8,M.Tech,,Data Scientist,61880,8,100.0,Hire,3,3,2,2,0.8869,1,Hire,330
+"SQL, C++",7,M.Tech,Deep Learning Specialization,Software Engineer,61986,5,100.0,Hire,3,1,3,2,0.8869,1,Hire,330
+"Python, Pytorch, TensorFlow",1,M.Tech,,AI Researcher,88349,10,75.6,Hire,3,3,0,2,0.8851,1,Hire,334
+"NLP, Pytorch",0,B.Sc,Deep Learning Specialization,AI Researcher,87556,10,72.4,Hire,2,1,0,0,0.8851,1,Hire,334
+"Deep Learning, Machine Learning",7,M.Tech,AWS Certified,Data Scientist,87562,9,100.0,Hire,3,0,2,2,0.8851,1,Hire,334
+"Python, Pytorch, NLP",0,PhD,Google ML,AI Researcher,88256,9,73.0,Hire,4,2,0,4,0.8851,1,Hire,334
+"NLP, TensorFlow, Pytorch",7,MBA,,AI Researcher,88358,4,100.0,Hire,3,3,0,3,0.8851,1,Hire,334
+"TensorFlow, NLP",6,PhD,Google ML,AI Researcher,87988,1,83.8,Hire,4,2,0,4,0.8851,1,Hire,334
+"Java, React, SQL, C++",4,B.Tech,Deep Learning Specialization,Software Engineer,88155,8,100.0,Hire,2,1,3,1,0.8851,1,Hire,334
+"TensorFlow, Python, NLP",6,B.Tech,Google ML,AI Researcher,88432,4,95.1,Hire,2,2,0,1,0.8851,1,Hire,334
+"Python, TensorFlow",5,B.Tech,Google ML,AI Researcher,88058,0,74.7,Hire,2,2,0,1,0.8851,1,Hire,334
+"Linux, Ethical Hacking, Cybersecurity, Networking",7,B.Tech,AWS Certified,Cybersecurity Analyst,61624,1,94.0,Hire,2,0,1,1,0.884,1,Hire,343
+"Networking, Linux, Ethical Hacking, Cybersecurity",10,B.Tech,Google ML,Cybersecurity Analyst,61659,10,99.0,Hire,2,2,1,1,0.884,1,Hire,343
+"Ethical Hacking, Networking",6,MBA,Deep Learning Specialization,Cybersecurity Analyst,61633,4,100.0,Hire,3,1,1,3,0.884,1,Hire,343
+"SQL, Java, C++",3,M.Tech,,Software Engineer,46781,6,76.0,Hire,3,3,3,2,0.8838,1,Hire,346
+"Ethical Hacking, Linux",9,MBA,AWS Certified,Cybersecurity Analyst,46896,8,100.0,Hire,3,0,1,3,0.8838,1,Hire,346
+"Python, Pytorch, TensorFlow",7,B.Tech,AWS Certified,AI Researcher,46848,0,91.0,Hire,2,0,0,1,0.8838,1,Hire,346
+"Python, Machine Learning, SQL",6,PhD,,Data Scientist,46741,1,79.6,Reject,4,3,2,4,0.8838,1,Hire,346
+"SQL, Deep Learning, Python",5,MBA,Deep Learning Specialization,Data Scientist,46669,5,98.2,Hire,3,1,2,3,0.8838,1,Hire,346
+"React, SQL",8,M.Tech,AWS Certified,Software Engineer,46717,6,100.0,Hire,3,0,3,2,0.8838,1,Hire,346
+"SQL, C++",0,B.Tech,Google ML,Software Engineer,46679,5,43.5,Hire,2,2,3,1,0.8838,1,Hire,346
+"Networking, Linux, Ethical Hacking",0,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,47001,10,82.9,Hire,3,1,1,2,0.8838,1,Hire,346
+"Java, C++, SQL, React",4,B.Tech,,Software Engineer,46950,7,95.2,Hire,2,3,3,1,0.8838,1,Hire,346
+"Networking, Ethical Hacking, Cybersecurity, Linux",2,MBA,,Cybersecurity Analyst,60745,0,41.1,Hire,3,3,1,3,0.8827,1,Hire,355
+"SQL, Java, React, C++",5,M.Tech,Deep Learning Specialization,Software Engineer,60720,7,100.0,Hire,3,1,3,2,0.8827,1,Hire,355
+"Pytorch, TensorFlow",9,B.Sc,Google ML,AI Researcher,61090,7,94.8,Hire,2,2,0,0,0.8827,1,Hire,355
+"TensorFlow, NLP, Python, Pytorch",6,B.Sc,Deep Learning Specialization,AI Researcher,60828,3,94.5,Hire,2,1,0,0,0.8827,1,Hire,355
+"Deep Learning, SQL, Python, Machine Learning",4,M.Tech,,Data Scientist,60868,7,98.0,Hire,3,3,2,2,0.8827,1,Hire,355
+"Linux, Cybersecurity",8,MBA,AWS Certified,Cybersecurity Analyst,60790,7,100.0,Hire,3,0,1,3,0.8827,1,Hire,355
+"Networking, Linux",5,M.Tech,Google ML,Cybersecurity Analyst,61038,9,97.8,Hire,3,2,1,2,0.8827,1,Hire,355
+"NLP, TensorFlow, Python, Pytorch",1,MBA,Google ML,AI Researcher,61309,2,55.7,Hire,3,2,0,3,0.8827,1,Hire,355
+"Ethical Hacking, Networking, Cybersecurity, Linux",8,B.Sc,,Cybersecurity Analyst,99384,1,98.5,Hire,2,3,1,0,0.8791,1,Hire,363
+"NLP, TensorFlow",7,MBA,Google ML,AI Researcher,99118,1,100.0,Hire,3,2,0,3,0.8791,1,Hire,363
+"C++, SQL, React",8,B.Tech,Google ML,Software Engineer,99288,4,99.5,Hire,2,2,3,1,0.8791,1,Hire,363
+"Python, TensorFlow, Pytorch, NLP",9,MBA,Google ML,AI Researcher,99238,1,90.6,Hire,3,2,0,3,0.8791,1,Hire,363
+"Pytorch, TensorFlow",0,M.Tech,AWS Certified,AI Researcher,99429,9,72.1,Hire,3,0,0,2,0.8791,1,Hire,363
+"Python, Machine Learning",0,M.Tech,Deep Learning Specialization,Data Scientist,61332,0,19.2,Reject,3,1,2,2,0.8784,1,Hire,368
+"Python, Deep Learning, SQL, Machine Learning",1,B.Tech,AWS Certified,Data Scientist,61616,9,81.7,Hire,2,0,2,1,0.8784,1,Hire,368
+"Java, React, SQL, C++",8,M.Tech,Google ML,Software Engineer,61601,7,100.0,Hire,3,2,3,2,0.8784,1,Hire,368
+"NLP, Pytorch, Python",2,B.Sc,AWS Certified,AI Researcher,45134,10,96.8,Hire,2,0,0,0,0.8775,1,Hire,371
+"Networking, Ethical Hacking, Cybersecurity",8,MBA,,Cybersecurity Analyst,44474,1,84.9,Hire,3,3,1,3,0.8775,1,Hire,371
+"Python, TensorFlow, Pytorch, NLP",8,PhD,AWS Certified,AI Researcher,44783,10,100.0,Hire,4,0,0,4,0.8775,1,Hire,371
+"Python, Deep Learning, SQL, Machine Learning",9,PhD,,Data Scientist,45043,5,100.0,Hire,4,3,2,4,0.8775,1,Hire,371
+"Java, SQL",2,M.Tech,AWS Certified,Software Engineer,83473,10,91.9,Hire,3,0,3,2,0.8774,1,Hire,375
+"Networking, Linux, Cybersecurity, Ethical Hacking",10,MBA,Deep Learning Specialization,Cybersecurity Analyst,83474,0,100.0,Hire,3,1,1,3,0.8774,1,Hire,375
+"SQL, Java",8,B.Tech,AWS Certified,Software Engineer,83833,8,99.3,Hire,2,0,3,1,0.8774,1,Hire,375
+"Ethical Hacking, Linux",6,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,83470,2,92.1,Hire,2,1,1,1,0.8774,1,Hire,375
+"SQL, React, Java",2,MBA,Google ML,Software Engineer,62666,1,48.1,Hire,3,2,3,3,0.8755,1,Hire,379
+"Java, React",6,B.Sc,Google ML,Software Engineer,62463,0,78.4,Hire,2,2,3,0,0.8755,1,Hire,379
+"TensorFlow, Pytorch",2,B.Sc,,AI Researcher,62312,1,44.0,Hire,2,3,0,0,0.8755,1,Hire,379
+"Cybersecurity, Ethical Hacking, Networking",0,MBA,Google ML,Cybersecurity Analyst,62708,5,42.8,Reject,3,2,1,3,0.8755,1,Hire,379
+"Java, React, C++",1,PhD,,Software Engineer,62647,3,40.6,Hire,4,3,3,4,0.8755,1,Hire,379
+"Cybersecurity, Ethical Hacking, Linux, Networking",7,PhD,,Cybersecurity Analyst,62406,1,87.7,Hire,4,3,1,4,0.8755,1,Hire,379
+"Python, NLP, TensorFlow",10,B.Tech,,AI Researcher,62710,2,94.6,Hire,2,3,0,1,0.8755,1,Hire,379
+"C++, Java, SQL",2,MBA,Google ML,Software Engineer,62255,7,74.9,Hire,3,2,3,3,0.8755,1,Hire,379
+"Python, NLP, TensorFlow",7,B.Sc,Google ML,AI Researcher,62487,8,94.9,Hire,2,2,0,0,0.8755,1,Hire,379
+"NLP, TensorFlow, Python",3,B.Tech,AWS Certified,AI Researcher,62695,9,95.6,Hire,2,0,0,1,0.8755,1,Hire,379
+"Ethical Hacking, Cybersecurity, Linux",1,MBA,Deep Learning Specialization,Cybersecurity Analyst,71766,7,63.6,Hire,3,1,1,3,0.8733,1,Hire,389
+"Python, Pytorch",7,B.Sc,Google ML,AI Researcher,71756,2,100.0,Hire,2,2,0,0,0.8733,1,Hire,389
+"TensorFlow, NLP, Python",3,PhD,AWS Certified,AI Researcher,71785,7,84.8,Hire,4,0,0,4,0.8733,1,Hire,389
+"Machine Learning, Deep Learning, Python",10,M.Tech,Google ML,Data Scientist,47998,10,94.5,Hire,3,2,2,2,0.8727,1,Hire,392
+"C++, React, SQL, Java",5,M.Tech,,Software Engineer,48105,6,84.8,Hire,3,3,3,2,0.8727,1,Hire,392
+"SQL, C++",7,B.Sc,AWS Certified,Software Engineer,47957,7,100.0,Hire,2,0,3,0,0.8727,1,Hire,392
+"Cybersecurity, Networking, Linux, Ethical Hacking",10,B.Tech,Google ML,Cybersecurity Analyst,47957,5,100.0,Hire,2,2,1,1,0.8727,1,Hire,392
+"Java, React, SQL",4,PhD,Deep Learning Specialization,Software Engineer,49673,7,100.0,Hire,4,1,3,4,0.8716,1,Hire,396
+"NLP, Python, TensorFlow",7,MBA,AWS Certified,AI Researcher,49447,10,100.0,Hire,3,0,0,3,0.8716,1,Hire,396
+"C++, Java, SQL, React",3,B.Sc,Google ML,Software Engineer,49367,3,75.8,Hire,2,2,3,0,0.8716,1,Hire,396
+"C++, React",10,M.Tech,Deep Learning Specialization,Software Engineer,49673,5,100.0,Hire,3,1,3,2,0.8716,1,Hire,396
+"SQL, Machine Learning",0,B.Tech,AWS Certified,Data Scientist,90362,8,56.9,Hire,2,0,2,1,0.8707,1,Hire,400
+"React, C++, SQL, Java",4,B.Tech,Deep Learning Specialization,Software Engineer,90345,7,90.2,Hire,2,1,3,1,0.8707,1,Hire,400
+"Ethical Hacking, Linux, Networking, Cybersecurity",6,MBA,,Cybersecurity Analyst,90173,4,99.6,Hire,3,3,1,3,0.8707,1,Hire,400
+"SQL, Java, C++",2,B.Sc,AWS Certified,Software Engineer,90151,1,56.6,Hire,2,0,3,0,0.8707,1,Hire,400
+"React, Java, SQL, C++",5,PhD,Deep Learning Specialization,Software Engineer,94954,10,97.3,Hire,4,1,3,4,0.8643,1,Hire,404
+"Machine Learning, SQL, Python",10,PhD,,Data Scientist,95170,6,92.7,Hire,4,3,2,4,0.8643,1,Hire,404
+"SQL, React, Java, C++",9,MBA,Google ML,Software Engineer,95141,7,93.3,Hire,3,2,3,3,0.8643,1,Hire,404
+"C++, SQL, Java",10,M.Tech,Deep Learning Specialization,Software Engineer,95050,2,100.0,Hire,3,1,3,2,0.8643,1,Hire,404
+"NLP, TensorFlow",7,PhD,Deep Learning Specialization,AI Researcher,48195,0,94.7,Hire,4,1,0,4,0.8605,1,Hire,408
+"Deep Learning, Machine Learning, SQL, Python",6,PhD,Deep Learning Specialization,Data Scientist,48306,10,100.0,Hire,4,1,2,4,0.8605,1,Hire,408
+"SQL, Java",7,M.Tech,AWS Certified,Software Engineer,48252,4,93.1,Hire,3,0,3,2,0.8605,1,Hire,408
+"Python, NLP, Pytorch, TensorFlow",5,B.Sc,Deep Learning Specialization,AI Researcher,48234,9,92.4,Hire,2,1,0,0,0.8605,1,Hire,408
+"SQL, C++, Java",1,M.Tech,,Software Engineer,48157,5,46.2,Reject,3,3,3,2,0.8605,1,Hire,408
+"Ethical Hacking, Networking",6,PhD,AWS Certified,Cybersecurity Analyst,66054,2,88.6,Hire,4,0,1,4,0.8595,1,Hire,413
+"TensorFlow, NLP, Pytorch",3,B.Sc,Deep Learning Specialization,AI Researcher,65916,9,95.8,Hire,2,1,0,0,0.8595,1,Hire,413
+"Networking, Cybersecurity, Ethical Hacking",8,MBA,,Cybersecurity Analyst,65748,4,100.0,Hire,3,3,1,3,0.8595,1,Hire,413
+"SQL, Java",0,B.Sc,AWS Certified,Software Engineer,65854,6,54.6,Hire,2,0,3,0,0.8595,1,Hire,413
+"SQL, Python, Machine Learning, Deep Learning",3,M.Tech,Google ML,Data Scientist,65930,5,90.3,Hire,3,2,2,2,0.8595,1,Hire,413
+"Java, SQL",2,MBA,,Software Engineer,66087,9,83.0,Hire,3,3,3,3,0.8595,1,Hire,413
+"SQL, Python",9,B.Sc,Deep Learning Specialization,Data Scientist,66133,2,100.0,Hire,2,1,2,0,0.8595,1,Hire,413
+"Networking, Cybersecurity, Ethical Hacking",4,M.Tech,AWS Certified,Cybersecurity Analyst,66208,9,95.1,Hire,3,0,1,2,0.8595,1,Hire,413
+"Python, Deep Learning, SQL, Machine Learning",7,B.Tech,Google ML,Data Scientist,65981,0,95.2,Hire,2,2,2,1,0.8595,1,Hire,413
+"Java, C++, React, SQL",6,B.Tech,Deep Learning Specialization,Software Engineer,58157,4,93.2,Reject,2,1,3,1,0.8588,1,Hire,422
+"React, SQL, Java, C++",1,PhD,AWS Certified,Software Engineer,58162,5,58.8,Hire,4,0,3,4,0.8588,1,Hire,422
+"Deep Learning, Machine Learning, Python",10,B.Tech,,Data Scientist,58090,4,100.0,Hire,2,3,2,1,0.8588,1,Hire,422
+"Ethical Hacking, Linux, Networking",1,PhD,AWS Certified,Cybersecurity Analyst,59652,10,71.7,Hire,4,0,1,4,0.855,1,Hire,425
+"Cybersecurity, Linux, Ethical Hacking",5,MBA,AWS Certified,Cybersecurity Analyst,59821,5,100.0,Hire,3,0,1,3,0.855,1,Hire,425
+"Linux, Cybersecurity, Ethical Hacking",8,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,59707,8,100.0,Hire,2,1,1,0,0.855,1,Hire,425
+"Python, SQL, Machine Learning",3,MBA,Deep Learning Specialization,Data Scientist,59564,2,55.7,Hire,3,1,2,3,0.855,1,Hire,425
+"Python, Machine Learning",8,B.Tech,AWS Certified,Data Scientist,59833,2,100.0,Hire,2,0,2,1,0.855,1,Hire,425
+"Deep Learning, Python, Machine Learning, SQL",6,B.Sc,AWS Certified,Data Scientist,50340,0,95.0,Hire,2,0,2,0,0.8538,1,Hire,430
+"Machine Learning, Python",1,MBA,Deep Learning Specialization,Data Scientist,50397,8,70.1,Reject,3,1,2,3,0.8538,1,Hire,430
+"Python, Pytorch, NLP, TensorFlow",4,PhD,Deep Learning Specialization,AI Researcher,50369,8,100.0,Hire,4,1,0,4,0.8538,1,Hire,430
+"Machine Learning, Python, SQL",6,B.Tech,,Data Scientist,50393,5,100.0,Hire,2,3,2,1,0.8538,1,Hire,430
+"TensorFlow, NLP",6,PhD,AWS Certified,AI Researcher,64951,8,100.0,Hire,4,0,0,4,0.8514,1,Hire,434
+"Python, Machine Learning",5,B.Sc,,Data Scientist,65003,1,66.9,Hire,2,3,2,0,0.8514,1,Hire,434
+"Cybersecurity, Ethical Hacking, Linux",7,MBA,AWS Certified,Cybersecurity Analyst,64888,5,95.1,Hire,3,0,1,3,0.8514,1,Hire,434
+"Pytorch, TensorFlow",2,MBA,AWS Certified,AI Researcher,65012,6,70.3,Hire,3,0,0,3,0.8514,1,Hire,434
+"Java, C++, SQL",0,B.Sc,,Software Engineer,103202,3,33.8,Hire,2,3,3,0,0.8508,1,Hire,438
+"Deep Learning, Machine Learning",0,MBA,Deep Learning Specialization,Data Scientist,103294,5,46.1,Reject,3,1,2,3,0.8508,1,Hire,438
+"Networking, Linux, Cybersecurity, Ethical Hacking",7,B.Tech,AWS Certified,Cybersecurity Analyst,103102,2,100.0,Hire,2,0,1,1,0.8508,1,Hire,438
+"Machine Learning, Deep Learning",9,PhD,,Data Scientist,51682,8,98.2,Hire,4,3,2,4,0.8471,1,Hire,441
+"Cybersecurity, Networking",1,PhD,Google ML,Cybersecurity Analyst,51388,6,58.1,Hire,4,2,1,4,0.8471,1,Hire,441
+"Pytorch, NLP, TensorFlow, Python",7,M.Tech,AWS Certified,AI Researcher,51478,9,100.0,Hire,3,0,0,2,0.8471,1,Hire,441
+"Deep Learning, Python, SQL",2,PhD,Deep Learning Specialization,Data Scientist,70971,3,62.4,Hire,4,1,2,4,0.8462,1,Hire,444
+"Deep Learning, Machine Learning, SQL",10,B.Tech,,Data Scientist,70494,7,92.2,Hire,2,3,2,1,0.8462,1,Hire,444
+"Ethical Hacking, Networking, Linux, Cybersecurity",0,B.Tech,Google ML,Cybersecurity Analyst,70943,8,77.3,Hire,2,2,1,1,0.8462,1,Hire,444
+"Pytorch, NLP, Python, TensorFlow",5,B.Tech,,AI Researcher,56104,6,93.5,Hire,2,3,0,1,0.8459,1,Hire,447
+"Cybersecurity, Ethical Hacking",6,MBA,AWS Certified,Cybersecurity Analyst,56096,8,99.9,Hire,3,0,1,3,0.8459,1,Hire,447
+"Python, Machine Learning",7,B.Sc,AWS Certified,Data Scientist,55994,2,90.2,Hire,2,0,2,0,0.8459,1,Hire,447
+"Cybersecurity, Networking, Linux, Ethical Hacking",1,B.Sc,,Cybersecurity Analyst,99954,8,74.4,Reject,2,3,1,0,0.8412,1,Hire,450
+"TensorFlow, NLP",2,MBA,,AI Researcher,99963,10,73.6,Hire,3,3,0,3,0.8412,1,Hire,450
+"NLP, Python",10,PhD,Google ML,AI Researcher,100218,10,93.0,Hire,4,2,0,4,0.8412,1,Hire,450
+"C++, SQL, React, Java",8,PhD,Deep Learning Specialization,Software Engineer,100202,5,98.4,Hire,4,1,3,4,0.8412,1,Hire,450
+"Networking, Cybersecurity, Ethical Hacking, Linux",7,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,100153,6,100.0,Hire,2,1,1,1,0.8412,1,Hire,450
+"Java, C++, React",7,PhD,,Software Engineer,100195,6,88.5,Hire,4,3,3,4,0.8412,1,Hire,450
+"TensorFlow, NLP, Pytorch, Python",4,PhD,Deep Learning Specialization,AI Researcher,89633,2,83.8,Hire,4,1,0,4,0.8406,1,Hire,456
+"Python, Machine Learning",10,MBA,Google ML,Data Scientist,89482,5,91.8,Hire,3,2,2,3,0.8406,1,Hire,456
+"SQL, React",10,B.Tech,Deep Learning Specialization,Software Engineer,89543,5,94.6,Hire,2,1,3,1,0.8406,1,Hire,456
+"SQL, Machine Learning, Deep Learning, Python",5,B.Tech,,Data Scientist,89620,3,74.5,Hire,2,3,2,1,0.8406,1,Hire,456
+"Ethical Hacking, Linux, Networking, Cybersecurity",6,B.Sc,Google ML,Cybersecurity Analyst,59129,5,100.0,Hire,2,2,1,0,0.839,1,Hire,460
+"SQL, C++, React, Java",4,MBA,Google ML,Software Engineer,59448,9,100.0,Hire,3,2,3,3,0.839,1,Hire,460
+"Linux, Cybersecurity, Ethical Hacking, Networking",2,B.Tech,AWS Certified,Cybersecurity Analyst,59397,10,99.5,Hire,2,0,1,1,0.839,1,Hire,460
+"Deep Learning, Machine Learning, SQL",5,M.Tech,,Data Scientist,79635,9,100.0,Reject,3,3,2,2,0.8387,1,Hire,463
+"Machine Learning, Python",3,B.Tech,Deep Learning Specialization,Data Scientist,79722,2,58.1,Reject,2,1,2,1,0.8387,1,Hire,463
+"Java, React",9,B.Tech,AWS Certified,Software Engineer,79610,1,100.0,Hire,2,0,3,1,0.8387,1,Hire,463
+"SQL, Java, React",4,PhD,AWS Certified,Software Engineer,79539,5,91.7,Hire,4,0,3,4,0.8387,1,Hire,463
+"C++, Java, SQL, React",10,PhD,,Software Engineer,79684,8,100.0,Hire,4,3,3,4,0.8387,1,Hire,463
+"C++, React",4,B.Sc,Deep Learning Specialization,Software Engineer,54116,10,100.0,Hire,2,1,3,0,0.8382,1,Hire,468
+"C++, Java, SQL, React",2,M.Tech,AWS Certified,Software Engineer,54193,0,42.2,Hire,3,0,3,2,0.8382,1,Hire,468
+"SQL, Deep Learning, Machine Learning",1,MBA,,Data Scientist,54006,4,41.5,Reject,3,3,2,3,0.8382,1,Hire,468
+"Machine Learning, SQL, Deep Learning",10,PhD,,Data Scientist,54054,0,89.5,Hire,4,3,2,4,0.8382,1,Hire,468
+"Networking, Cybersecurity, Ethical Hacking",7,PhD,,Cybersecurity Analyst,54150,0,85.8,Hire,4,3,1,4,0.8382,1,Hire,468
+"Deep Learning, Python",6,MBA,Deep Learning Specialization,Data Scientist,53984,7,100.0,Hire,3,1,2,3,0.8382,1,Hire,468
+"Java, React",6,PhD,Deep Learning Specialization,Software Engineer,54170,7,93.2,Hire,4,1,3,4,0.8382,1,Hire,468
+"Machine Learning, Deep Learning, SQL",6,M.Tech,,Data Scientist,41610,7,90.2,Hire,3,3,2,2,0.8378,1,Hire,475
+"C++, SQL",5,M.Tech,Google ML,Software Engineer,41530,0,69.9,Hire,3,2,3,2,0.8378,1,Hire,475
+"NLP, Pytorch",8,B.Sc,AWS Certified,AI Researcher,41624,4,100.0,Hire,2,0,0,0,0.8378,1,Hire,475
+"Deep Learning, Machine Learning, SQL",5,B.Sc,Google ML,Data Scientist,41593,4,96.7,Hire,2,2,2,0,0.8378,1,Hire,475
+"SQL, Java, C++, React",4,MBA,AWS Certified,Software Engineer,50602,9,100.0,Hire,3,0,3,3,0.8349,1,Hire,479
+"SQL, C++, Java",4,B.Sc,Deep Learning Specialization,Software Engineer,50410,10,100.0,Hire,2,1,3,0,0.8349,1,Hire,479
+"React, SQL, Java, C++",1,PhD,,Software Engineer,50422,1,33.6,Reject,4,3,3,4,0.8349,1,Hire,479
+"TensorFlow, Pytorch",5,PhD,AWS Certified,AI Researcher,79405,4,95.0,Hire,4,0,0,4,0.8337,1,Hire,482
+"TensorFlow, Pytorch, Python",5,B.Tech,Google ML,AI Researcher,79333,5,100.0,Hire,2,2,0,1,0.8337,1,Hire,482
+"Machine Learning, SQL, Deep Learning",7,MBA,Google ML,Data Scientist,79303,6,92.2,Hire,3,2,2,3,0.8337,1,Hire,482
+"Machine Learning, Python, Deep Learning",1,MBA,Deep Learning Specialization,Data Scientist,79404,4,53.7,Reject,3,1,2,3,0.8337,1,Hire,482
+"Networking, Linux",1,M.Tech,AWS Certified,Cybersecurity Analyst,51200,10,75.5,Hire,3,0,1,2,0.8331,1,Hire,486
+"C++, Java",9,M.Tech,Deep Learning Specialization,Software Engineer,51284,4,100.0,Hire,3,1,3,2,0.8331,1,Hire,486
+"Deep Learning, Machine Learning, SQL, Python",8,M.Tech,AWS Certified,Data Scientist,51283,4,100.0,Hire,3,0,2,2,0.8331,1,Hire,486
+"Cybersecurity, Ethical Hacking, Linux, Networking",1,B.Sc,Google ML,Cybersecurity Analyst,51229,2,57.5,Reject,2,2,1,0,0.8331,1,Hire,486
+"Python, TensorFlow, Pytorch, NLP",3,PhD,,AI Researcher,63325,8,90.1,Hire,4,3,0,4,0.8302,1,Hire,490
+"TensorFlow, Python, NLP",10,MBA,,AI Researcher,63362,6,100.0,Hire,3,3,0,3,0.8302,1,Hire,490
+"SQL, Java",3,B.Tech,,Software Engineer,63531,8,78.7,Hire,2,3,3,1,0.8302,1,Hire,490
+"Deep Learning, Python, Machine Learning, SQL",10,MBA,Deep Learning Specialization,Data Scientist,63516,2,100.0,Hire,3,1,2,3,0.8302,1,Hire,490
+"NLP, Python, TensorFlow",9,B.Tech,AWS Certified,AI Researcher,105695,0,100.0,Hire,2,0,0,1,0.8296,1,Hire,494
+"Deep Learning, Python, Machine Learning",9,MBA,Google ML,Data Scientist,105724,10,100.0,Hire,3,2,2,3,0.8296,1,Hire,494
+"NLP, Python",5,B.Tech,AWS Certified,AI Researcher,105979,3,84.8,Hire,2,0,0,1,0.8296,1,Hire,494
+"Pytorch, NLP",1,MBA,,AI Researcher,105641,2,23.4,Reject,3,3,0,3,0.8296,1,Hire,494
+"Cybersecurity, Networking, Ethical Hacking, Linux",2,B.Sc,,Cybersecurity Analyst,59121,4,59.5,Reject,2,3,1,0,0.8292,1,Hire,498
+"Linux, Ethical Hacking, Networking, Cybersecurity",6,B.Sc,AWS Certified,Cybersecurity Analyst,59082,5,100.0,Hire,2,0,1,0,0.8292,1,Hire,498
+"Machine Learning, SQL, Deep Learning",5,B.Tech,Deep Learning Specialization,Data Scientist,59033,4,97.5,Hire,2,1,2,1,0.8292,1,Hire,498
+"C++, React, Java, SQL",7,B.Tech,AWS Certified,Software Engineer,59061,6,97.8,Hire,2,0,3,1,0.8292,1,Hire,498
+"TensorFlow, NLP",7,M.Tech,Deep Learning Specialization,AI Researcher,45655,6,93.2,Hire,3,1,0,2,0.829,1,Hire,502
+"Networking, Cybersecurity, Ethical Hacking, Linux",9,MBA,AWS Certified,Cybersecurity Analyst,45660,9,98.7,Hire,3,0,1,3,0.829,1,Hire,502
+"Python, NLP, TensorFlow, Pytorch",5,PhD,,AI Researcher,45488,9,90.4,Reject,4,3,0,4,0.829,1,Hire,502
+"Linux, Networking, Ethical Hacking",3,B.Tech,AWS Certified,Cybersecurity Analyst,45475,3,65.7,Hire,2,0,1,1,0.829,1,Hire,502
+"C++, SQL",5,M.Tech,Google ML,Software Engineer,106464,5,89.3,Hire,3,2,3,2,0.8254,1,Hire,506
+"Python, NLP, Pytorch, TensorFlow",0,B.Sc,Google ML,AI Researcher,106452,3,37.5,Reject,2,2,0,0,0.8254,1,Hire,506
+"Python, Deep Learning, Machine Learning",2,B.Tech,Deep Learning Specialization,Data Scientist,106472,4,63.3,Reject,2,1,2,1,0.8254,1,Hire,506
+"Linux, Cybersecurity",7,PhD,,Cybersecurity Analyst,106469,0,84.2,Hire,4,3,1,4,0.8254,1,Hire,506
+"Linux, Ethical Hacking",10,M.Tech,Google ML,Cybersecurity Analyst,71601,9,100.0,Hire,3,2,1,2,0.8251,1,Hire,510
+"Python, NLP, Pytorch, TensorFlow",8,B.Tech,AWS Certified,AI Researcher,71605,3,99.0,Hire,2,0,0,1,0.8251,1,Hire,510
+"Ethical Hacking, Networking",10,M.Tech,AWS Certified,Cybersecurity Analyst,71504,6,95.0,Hire,3,0,1,2,0.8251,1,Hire,510
+"TensorFlow, Pytorch, Python",9,PhD,Google ML,AI Researcher,75101,2,93.7,Hire,4,2,0,4,0.825,1,Hire,513
+"React, C++, Java, SQL",6,B.Tech,Google ML,Software Engineer,74854,6,100.0,Hire,2,2,3,1,0.825,1,Hire,513
+"React, Java",5,PhD,,Software Engineer,74711,8,96.0,Reject,4,3,3,4,0.825,1,Hire,513
+"SQL, Machine Learning, Deep Learning",4,B.Sc,,Data Scientist,75186,1,56.8,Hire,2,3,2,0,0.825,1,Hire,513
+"Pytorch, Python, TensorFlow, NLP",5,B.Sc,Google ML,AI Researcher,75037,10,100.0,Hire,2,2,0,0,0.825,1,Hire,513
+"Networking, Ethical Hacking",0,M.Tech,AWS Certified,Cybersecurity Analyst,74792,5,46.3,Hire,3,0,1,2,0.825,1,Hire,513
+"TensorFlow, NLP",3,B.Tech,Google ML,AI Researcher,74914,10,96.7,Hire,2,2,0,1,0.825,1,Hire,513
+"Networking, Ethical Hacking",1,M.Tech,AWS Certified,Cybersecurity Analyst,65217,6,52.4,Reject,3,0,1,2,0.8244,1,Hire,520
+"Cybersecurity, Ethical Hacking, Linux",1,B.Tech,Google ML,Cybersecurity Analyst,65313,7,58.1,Hire,2,2,1,1,0.8244,1,Hire,520
+"Python, SQL, Machine Learning, Deep Learning",4,B.Tech,AWS Certified,Data Scientist,65571,5,100.0,Hire,2,0,2,1,0.8244,1,Hire,520
+"Pytorch, TensorFlow, Python",6,B.Tech,,AI Researcher,65283,7,100.0,Hire,2,3,0,1,0.8244,1,Hire,520
+"TensorFlow, Python",9,PhD,AWS Certified,AI Researcher,65183,1,97.6,Hire,4,0,0,4,0.8244,1,Hire,520
+"NLP, TensorFlow, Python",0,MBA,Deep Learning Specialization,AI Researcher,65417,3,44.0,Hire,3,1,0,3,0.8244,1,Hire,520
+"TensorFlow, NLP, Python",10,M.Tech,Google ML,AI Researcher,65446,9,97.6,Hire,3,2,0,2,0.8244,1,Hire,520
+"Python, Pytorch, TensorFlow, NLP",8,B.Tech,AWS Certified,AI Researcher,65345,8,96.5,Hire,2,0,0,1,0.8244,1,Hire,520
+"SQL, C++",1,B.Tech,AWS Certified,Software Engineer,45422,10,80.3,Hire,2,0,3,1,0.824,1,Hire,528
+"Linux, Ethical Hacking",3,M.Tech,AWS Certified,Cybersecurity Analyst,45271,2,61.7,Reject,3,0,1,2,0.824,1,Hire,528
+"Pytorch, TensorFlow, Python, NLP",4,B.Sc,Google ML,AI Researcher,45453,5,94.4,Hire,2,2,0,0,0.824,1,Hire,528
+"Linux, Ethical Hacking, Cybersecurity, Networking",8,M.Tech,AWS Certified,Cybersecurity Analyst,45438,3,100.0,Hire,3,0,1,2,0.824,1,Hire,528
+"C++, SQL",7,MBA,AWS Certified,Software Engineer,45278,8,100.0,Hire,3,0,3,3,0.824,1,Hire,528
+"Pytorch, TensorFlow, Python",4,MBA,Google ML,AI Researcher,67536,6,91.5,Hire,3,2,0,3,0.8235,1,Hire,533
+"Linux, Cybersecurity, Ethical Hacking",4,MBA,AWS Certified,Cybersecurity Analyst,67535,1,73.6,Hire,3,0,1,3,0.8235,1,Hire,533
+"Python, Pytorch, TensorFlow, NLP",9,M.Tech,,AI Researcher,67670,9,91.1,Hire,3,3,0,2,0.8235,1,Hire,533
+"React, C++, SQL, Java",7,M.Tech,Google ML,Software Engineer,67871,10,100.0,Reject,3,2,3,2,0.8235,1,Hire,533
+"Cybersecurity, Ethical Hacking, Networking, Linux",6,PhD,Google ML,Cybersecurity Analyst,67810,1,100.0,Hire,4,2,1,4,0.8235,1,Hire,533
+"SQL, Java, React",6,B.Sc,Google ML,Software Engineer,67745,3,100.0,Hire,2,2,3,0,0.8235,1,Hire,533
+"C++, React, SQL, Java",5,PhD,Deep Learning Specialization,Software Engineer,101120,5,100.0,Hire,4,1,3,4,0.8196,1,Hire,539
+"React, SQL, C++",6,M.Tech,Google ML,Software Engineer,100827,10,100.0,Hire,3,2,3,2,0.8196,1,Hire,539
+"Networking, Cybersecurity, Linux, Ethical Hacking",10,B.Tech,,Cybersecurity Analyst,101100,10,97.3,Hire,2,3,1,1,0.8196,1,Hire,539
+"C++, React",10,MBA,AWS Certified,Software Engineer,101108,9,97.4,Hire,3,0,3,3,0.8196,1,Hire,539
+"Linux, Cybersecurity, Ethical Hacking",10,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,56768,3,100.0,Hire,3,1,1,2,0.8191,1,Hire,543
+"Machine Learning, Python, Deep Learning",2,M.Tech,Google ML,Data Scientist,56433,2,63.1,Hire,3,2,2,2,0.8191,1,Hire,543
+"Ethical Hacking, Linux, Networking, Cybersecurity",6,MBA,,Cybersecurity Analyst,56426,1,84.3,Reject,3,3,1,3,0.8191,1,Hire,543
+"Python, TensorFlow, NLP",6,B.Tech,,AI Researcher,56712,5,92.8,Hire,2,3,0,1,0.8191,1,Hire,543
+"Ethical Hacking, Linux",4,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,56684,5,85.1,Hire,2,1,1,0,0.8191,1,Hire,543
+"SQL, React, Java",6,PhD,AWS Certified,Software Engineer,99537,10,99.6,Hire,4,0,3,4,0.8155,1,Hire,548
+"TensorFlow, Python, Pytorch",9,B.Sc,Deep Learning Specialization,AI Researcher,99521,4,100.0,Hire,2,1,0,0,0.8155,1,Hire,548
+"Pytorch, TensorFlow, Python, NLP",10,PhD,Google ML,AI Researcher,99512,2,99.0,Hire,4,2,0,4,0.8155,1,Hire,548
+"SQL, Machine Learning, Python, Deep Learning",6,B.Sc,Google ML,Data Scientist,99502,8,94.4,Hire,2,2,2,0,0.8155,1,Hire,548
+"Ethical Hacking, Networking, Linux",0,B.Tech,Google ML,Cybersecurity Analyst,99469,9,73.7,Reject,2,2,1,1,0.8155,1,Hire,548
+"C++, React, SQL",0,MBA,,Software Engineer,45815,7,59.4,Hire,3,3,3,3,0.814,1,Hire,553
+"Linux, Ethical Hacking, Networking",5,B.Sc,AWS Certified,Cybersecurity Analyst,45733,0,80.2,Hire,2,0,1,0,0.814,1,Hire,553
+"NLP, Pytorch, Python",4,PhD,Google ML,AI Researcher,45733,9,100.0,Hire,4,2,0,4,0.814,1,Hire,553
+"Networking, Ethical Hacking",3,B.Sc,Google ML,Cybersecurity Analyst,45918,0,52.6,Hire,2,2,1,0,0.814,1,Hire,553
+"Linux, Networking, Cybersecurity",6,MBA,,Cybersecurity Analyst,59504,1,77.2,Hire,3,3,1,3,0.8116,1,Hire,557
+"Java, SQL, C++",8,PhD,,Software Engineer,59474,3,93.0,Hire,4,3,3,4,0.8116,1,Hire,557
+"Pytorch, TensorFlow, NLP",4,B.Sc,,AI Researcher,59560,5,79.2,Reject,2,3,0,0,0.8116,1,Hire,557
+"Linux, Cybersecurity, Ethical Hacking",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,71624,8,93.5,Reject,4,1,1,4,0.8109,1,Hire,560
+"Java, C++",8,M.Tech,AWS Certified,Software Engineer,71678,0,97.1,Hire,3,0,3,2,0.8109,1,Hire,560
+"Python, Machine Learning",2,B.Sc,Deep Learning Specialization,Data Scientist,71635,1,43.0,Hire,2,1,2,0,0.8109,1,Hire,560
+"Deep Learning, Python, Machine Learning, SQL",6,B.Sc,Deep Learning Specialization,Data Scientist,82300,4,89.8,Hire,2,1,2,0,0.8075,1,Hire,563
+"Java, C++, SQL",9,M.Tech,Deep Learning Specialization,Software Engineer,82288,0,100.0,Hire,3,1,3,2,0.8075,1,Hire,563
+"Java, C++",9,MBA,Google ML,Software Engineer,82341,3,100.0,Hire,3,2,3,3,0.8075,1,Hire,563
+"SQL, Java",1,M.Tech,,Software Engineer,82703,0,20.4,Reject,3,3,3,2,0.8075,1,Hire,563
+"Cybersecurity, Ethical Hacking, Networking",0,B.Tech,,Cybersecurity Analyst,82635,7,52.4,Hire,2,3,1,1,0.8075,1,Hire,563
+"C++, SQL, Java, React",7,B.Sc,,Software Engineer,117476,10,100.0,Hire,2,3,3,0,0.8046,1,Hire,568
+"C++, React, Java",10,B.Sc,Google ML,Software Engineer,117566,8,99.5,Hire,2,2,3,0,0.8046,1,Hire,568
+"Cybersecurity, Networking",7,M.Tech,Google ML,Cybersecurity Analyst,117696,4,100.0,Hire,3,2,1,2,0.8046,1,Hire,568
+"Networking, Ethical Hacking",1,PhD,Google ML,Cybersecurity Analyst,117535,8,65.2,Hire,4,2,1,4,0.8046,1,Hire,568
+"Ethical Hacking, Cybersecurity, Networking",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,117219,5,74.6,Hire,4,1,1,4,0.8046,1,Hire,568
+"SQL, Machine Learning, Deep Learning, Python",6,M.Tech,Deep Learning Specialization,Data Scientist,117621,5,94.4,Hire,3,1,2,2,0.8046,1,Hire,568
+"Networking, Cybersecurity, Linux, Ethical Hacking",7,M.Tech,Google ML,Cybersecurity Analyst,117704,10,100.0,Hire,3,2,1,2,0.8046,1,Hire,568
+"Machine Learning, Deep Learning",6,PhD,AWS Certified,Data Scientist,117600,0,86.0,Hire,4,0,2,4,0.8046,1,Hire,568
+"C++, Java",4,MBA,Deep Learning Specialization,Software Engineer,43297,2,66.8,Reject,3,1,3,3,0.7917,1,Hire,576
+"Machine Learning, SQL, Python",0,PhD,Google ML,Data Scientist,43642,7,56.6,Hire,4,2,2,4,0.7917,1,Hire,576
+"NLP, Pytorch, Python, TensorFlow",10,B.Sc,,AI Researcher,43594,4,92.6,Hire,2,3,0,0,0.7917,1,Hire,576
+"C++, SQL, React, Java",6,PhD,AWS Certified,Software Engineer,43584,9,98.7,Hire,4,0,3,4,0.7917,1,Hire,576
+"SQL, Machine Learning",9,B.Sc,Google ML,Data Scientist,54846,8,92.4,Hire,2,2,2,0,0.7881,1,Hire,580
+"Linux, Cybersecurity, Networking",2,B.Sc,AWS Certified,Cybersecurity Analyst,54759,1,42.9,Hire,2,0,1,0,0.7881,1,Hire,580
+"Ethical Hacking, Cybersecurity, Linux",9,M.Tech,,Cybersecurity Analyst,55058,3,97.9,Hire,3,3,1,2,0.7881,1,Hire,580
+"Java, C++, React",9,M.Tech,,Software Engineer,54990,1,100.0,Hire,3,3,3,2,0.7881,1,Hire,580
+"Linux, Networking, Ethical Hacking, Cybersecurity",8,B.Sc,AWS Certified,Cybersecurity Analyst,111242,5,100.0,Hire,2,0,1,0,0.7857,1,Hire,584
+"Linux, Ethical Hacking",5,B.Tech,AWS Certified,Cybersecurity Analyst,111508,7,97.7,Hire,2,0,1,1,0.7857,1,Hire,584
+"Pytorch, Python, TensorFlow",0,PhD,Google ML,AI Researcher,110862,6,52.1,Reject,4,2,0,4,0.7857,1,Hire,584
+"SQL, Java, C++, React",5,M.Tech,Deep Learning Specialization,Software Engineer,111578,9,84.8,Hire,3,1,3,2,0.7857,1,Hire,584
+"Linux, Ethical Hacking, Cybersecurity",4,PhD,AWS Certified,Cybersecurity Analyst,96836,1,71.9,Hire,4,0,1,4,0.7838,1,Hire,588
+"Linux, Ethical Hacking",8,MBA,AWS Certified,Cybersecurity Analyst,96662,9,100.0,Hire,3,0,1,3,0.7838,1,Hire,588
+"Networking, Ethical Hacking, Linux, Cybersecurity",10,M.Tech,Google ML,Cybersecurity Analyst,97006,5,100.0,Hire,3,2,1,2,0.7838,1,Hire,588
+"Networking, Linux, Ethical Hacking",7,B.Tech,Google ML,Cybersecurity Analyst,96689,3,100.0,Hire,2,2,1,1,0.7838,1,Hire,588
+"Java, SQL",8,M.Tech,Deep Learning Specialization,Software Engineer,96786,4,92.3,Reject,3,1,3,2,0.7838,1,Hire,588
+"Pytorch, Python",9,PhD,Deep Learning Specialization,AI Researcher,97435,7,99.5,Hire,4,1,0,4,0.7838,1,Hire,588
+"Deep Learning, SQL, Python, Machine Learning",5,M.Tech,AWS Certified,Data Scientist,97148,1,84.7,Hire,3,0,2,2,0.7838,1,Hire,588
+"Python, Pytorch, TensorFlow",9,MBA,AWS Certified,AI Researcher,97312,1,89.3,Hire,3,0,0,3,0.7838,1,Hire,588
+"TensorFlow, Pytorch, Python, NLP",1,B.Sc,AWS Certified,AI Researcher,97235,4,62.1,Reject,2,0,0,0,0.7838,1,Hire,588
+"SQL, C++, Java",6,MBA,,Software Engineer,49261,1,87.7,Hire,3,3,3,3,0.7835,1,Hire,597
+"C++, React, SQL, Java",1,M.Tech,Google ML,Software Engineer,49305,9,95.5,Hire,3,2,3,2,0.7835,1,Hire,597
+"Ethical Hacking, Networking",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,49346,3,49.4,Hire,3,1,1,3,0.7835,1,Hire,597
+"NLP, TensorFlow",4,MBA,Google ML,AI Researcher,49331,7,90.3,Reject,3,2,0,3,0.7835,1,Hire,597
+"React, SQL, C++",3,B.Tech,Google ML,Software Engineer,100722,5,77.5,Hire,2,2,3,1,0.7833,1,Hire,601
+"Deep Learning, Python",5,MBA,AWS Certified,Data Scientist,100800,3,93.0,Hire,3,0,2,3,0.7833,1,Hire,601
+"Networking, Cybersecurity",1,PhD,,Cybersecurity Analyst,100697,9,56.2,Reject,4,3,1,4,0.7833,1,Hire,601
+"Linux, Cybersecurity",0,MBA,Google ML,Cybersecurity Analyst,89654,8,53.2,Reject,3,2,1,3,0.7825,1,Hire,604
+"Cybersecurity, Ethical Hacking, Networking, Linux",6,MBA,Google ML,Cybersecurity Analyst,89696,10,100.0,Hire,3,2,1,3,0.7825,1,Hire,604
+"SQL, Deep Learning, Python",5,PhD,,Data Scientist,89654,3,78.3,Hire,4,3,2,4,0.7825,1,Hire,604
+"Pytorch, Python, NLP",10,M.Tech,,AI Researcher,89696,3,97.7,Hire,3,3,0,2,0.7825,1,Hire,604
+"Cybersecurity, Ethical Hacking, Linux",7,MBA,AWS Certified,Cybersecurity Analyst,63157,4,95.3,Hire,3,0,1,3,0.7777,1,Hire,608
+"Linux, Ethical Hacking, Networking",4,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,62790,9,93.3,Reject,3,1,1,2,0.7777,1,Hire,608
+"TensorFlow, NLP, Pytorch",6,B.Tech,Deep Learning Specialization,AI Researcher,63269,0,83.5,Hire,2,1,0,1,0.7777,1,Hire,608
+"Networking, Cybersecurity, Ethical Hacking",2,B.Sc,Google ML,Cybersecurity Analyst,63016,7,77.8,Reject,2,2,1,0,0.7777,1,Hire,608
+"Linux, Cybersecurity",9,B.Sc,,Cybersecurity Analyst,62823,7,100.0,Hire,2,3,1,0,0.7777,1,Hire,608
+"Python, Deep Learning",6,PhD,Google ML,Data Scientist,63260,8,99.8,Hire,4,2,2,4,0.7777,1,Hire,608
+"Java, React, C++, SQL",8,B.Tech,Google ML,Software Engineer,63268,7,100.0,Hire,2,2,3,1,0.7777,1,Hire,608
+"Java, React, C++, SQL",3,B.Sc,Google ML,Software Engineer,63179,9,92.7,Reject,2,2,3,0,0.7777,1,Hire,608
+"Python, NLP, Pytorch",3,B.Sc,Deep Learning Specialization,AI Researcher,91770,0,59.9,Reject,2,1,0,0,0.7773,1,Hire,616
+"SQL, Machine Learning, Deep Learning, Python",5,PhD,AWS Certified,Data Scientist,91828,10,100.0,Hire,4,0,2,4,0.7773,1,Hire,616
+"Ethical Hacking, Linux",7,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,91922,0,88.8,Hire,3,1,1,2,0.7773,1,Hire,616
+"Python, NLP",1,M.Tech,Google ML,AI Researcher,98317,1,33.9,Hire,3,2,0,2,0.7761,1,Hire,619
+"Java, C++, React, SQL",4,B.Sc,,Software Engineer,98181,8,91.2,Hire,2,3,3,0,0.7761,1,Hire,619
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,98013,4,89.2,Hire,2,1,1,1,0.7761,1,Hire,619
+"Python, Deep Learning, Machine Learning",2,B.Tech,Deep Learning Specialization,Data Scientist,98024,2,44.3,Reject,2,1,2,1,0.7761,1,Hire,619
+"Python, NLP",8,B.Sc,Google ML,AI Researcher,89808,10,100.0,Hire,2,2,0,0,0.7685,1,Hire,623
+"Java, SQL",3,B.Tech,Deep Learning Specialization,Software Engineer,89716,1,47.2,Reject,2,1,3,1,0.7685,1,Hire,623
+"React, Java, C++, SQL",7,M.Tech,Deep Learning Specialization,Software Engineer,89830,3,98.9,Hire,3,1,3,2,0.7685,1,Hire,623
+"SQL, Deep Learning, Python, Machine Learning",7,B.Sc,,Data Scientist,82958,10,100.0,Hire,2,3,2,0,0.7643,1,Hire,626
+"Python, Pytorch, NLP, TensorFlow",3,PhD,Deep Learning Specialization,AI Researcher,82727,9,100.0,Hire,4,1,0,4,0.7643,1,Hire,626
+"Python, TensorFlow",3,B.Sc,,AI Researcher,82959,3,60.1,Hire,2,3,0,0,0.7643,1,Hire,626
+"React, Java, SQL",4,M.Tech,Deep Learning Specialization,Software Engineer,82848,5,87.0,Reject,3,1,3,2,0.7643,1,Hire,626
+"C++, SQL",6,MBA,AWS Certified,Software Engineer,83118,3,88.6,Reject,3,0,3,3,0.7627,1,Hire,630
+"C++, SQL",2,M.Tech,AWS Certified,Software Engineer,83223,4,61.6,Hire,3,0,3,2,0.7627,1,Hire,630
+"Python, Machine Learning",9,B.Sc,Google ML,Data Scientist,83152,2,99.3,Hire,2,2,2,0,0.7627,1,Hire,630
+"TensorFlow, NLP, Pytorch, Python",1,PhD,AWS Certified,AI Researcher,83138,3,53.6,Reject,4,0,0,4,0.7627,1,Hire,630
+"Linux, Networking, Cybersecurity, Ethical Hacking",8,PhD,AWS Certified,Cybersecurity Analyst,83146,10,100.0,Hire,4,0,1,4,0.7627,1,Hire,630
+"Python, Pytorch, NLP, TensorFlow",1,B.Sc,Google ML,AI Researcher,101851,2,48.9,Hire,2,2,0,0,0.7554,1,Hire,635
+"SQL, Python, Machine Learning, Deep Learning",3,MBA,Deep Learning Specialization,Data Scientist,102054,1,69.5,Hire,3,1,2,3,0.7554,1,Hire,635
+"Deep Learning, SQL",5,MBA,Google ML,Data Scientist,101471,0,70.8,Reject,3,2,2,3,0.7554,1,Hire,635
+"Networking, Ethical Hacking, Linux",3,M.Tech,,Cybersecurity Analyst,101694,8,77.2,Hire,3,3,1,2,0.7554,1,Hire,635
+"SQL, Java, React, C++",4,MBA,Deep Learning Specialization,Software Engineer,101488,5,85.1,Hire,3,1,3,3,0.7554,1,Hire,635
+"Ethical Hacking, Networking, Linux",1,M.Tech,Google ML,Cybersecurity Analyst,102085,6,60.9,Reject,3,2,1,2,0.7554,1,Hire,635
+"TensorFlow, Python, NLP",9,M.Tech,AWS Certified,AI Researcher,101293,0,100.0,Hire,3,0,0,2,0.7554,1,Hire,635
+"Python, Pytorch",5,MBA,AWS Certified,AI Researcher,101270,7,100.0,Hire,3,0,0,3,0.7554,1,Hire,635
+"Cybersecurity, Networking, Linux",2,B.Sc,AWS Certified,Cybersecurity Analyst,104195,3,67.3,Reject,2,0,1,0,0.7526,1,Hire,643
+"Python, Deep Learning",7,B.Tech,,Data Scientist,104891,2,95.3,Hire,2,3,2,1,0.7526,1,Hire,643
+"Python, Machine Learning, SQL",9,PhD,Google ML,Data Scientist,104274,10,100.0,Hire,4,2,2,4,0.7526,1,Hire,643
+"TensorFlow, NLP, Pytorch",10,B.Sc,,AI Researcher,104895,8,96.8,Hire,2,3,0,0,0.7526,1,Hire,643
+"SQL, Machine Learning",1,B.Sc,Deep Learning Specialization,Data Scientist,104811,1,32.4,Reject,2,1,2,0,0.7526,1,Hire,643
+"Ethical Hacking, Cybersecurity, Networking, Linux",5,B.Tech,AWS Certified,Cybersecurity Analyst,104149,9,94.7,Hire,2,0,1,1,0.7526,1,Hire,643
+"Java, SQL, React",3,MBA,AWS Certified,Software Engineer,104253,8,91.2,Hire,3,0,3,3,0.7526,1,Hire,643
+"SQL, Python",8,MBA,AWS Certified,Data Scientist,104379,6,100.0,Hire,3,0,2,3,0.7526,1,Hire,643
+"Python, TensorFlow, NLP, Pytorch",4,B.Sc,,AI Researcher,104295,6,87.8,Hire,2,3,0,0,0.7526,1,Hire,643
+"SQL, Machine Learning, Deep Learning, Python",3,PhD,,Data Scientist,104405,9,99.9,Hire,4,3,2,4,0.7526,1,Hire,643
+"Python, Deep Learning, SQL",7,M.Tech,Deep Learning Specialization,Data Scientist,104836,5,100.0,Hire,3,1,2,2,0.7526,1,Hire,643
+"TensorFlow, Python, NLP, Pytorch",0,M.Tech,,AI Researcher,113643,4,37.9,Reject,3,3,0,2,0.7501,0,Reject,654
+"Ethical Hacking, Cybersecurity, Linux",3,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,113725,0,47.3,Reject,3,1,1,2,0.7501,0,Reject,654
+"Ethical Hacking, Linux",6,B.Sc,AWS Certified,Cybersecurity Analyst,113676,9,89.8,Reject,2,0,1,0,0.7501,0,Reject,654
+"Deep Learning, SQL, Python, Machine Learning",8,MBA,AWS Certified,Data Scientist,100345,0,100.0,Hire,3,0,2,3,0.749,1,Hire,657
+"Python, Machine Learning, Deep Learning",8,B.Sc,Deep Learning Specialization,Data Scientist,100425,0,90.5,Reject,2,1,2,0,0.749,1,Hire,657
+"Cybersecurity, Ethical Hacking",2,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,100524,5,68.0,Reject,2,1,1,1,0.749,1,Hire,657
+"TensorFlow, NLP, Python, Pytorch",8,M.Tech,Google ML,AI Researcher,100399,7,100.0,Hire,3,2,0,2,0.749,1,Hire,657
+"C++, SQL, Java",0,M.Tech,AWS Certified,Software Engineer,41382,0,24.6,Reject,3,0,3,2,0.7456,1,Hire,661
+"Networking, Cybersecurity",5,MBA,,Cybersecurity Analyst,40736,6,88.9,Hire,3,3,1,3,0.7456,1,Hire,661
+"TensorFlow, NLP, Python",0,MBA,Google ML,AI Researcher,40720,2,36.0,Hire,3,2,0,3,0.7456,1,Hire,661
+"Linux, Networking, Cybersecurity, Ethical Hacking",8,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,40945,4,98.8,Hire,2,1,1,1,0.7456,1,Hire,661
+"Java, SQL",5,MBA,AWS Certified,Software Engineer,40914,6,97.8,Hire,3,0,3,3,0.7456,1,Hire,661
+"C++, Java, SQL",6,MBA,AWS Certified,Software Engineer,40595,1,87.8,Hire,3,0,3,3,0.7456,1,Hire,661
+"SQL, Java",3,B.Sc,,Software Engineer,41272,6,68.2,Reject,2,3,3,0,0.7456,1,Hire,661
+"TensorFlow, NLP, Pytorch",6,PhD,AWS Certified,AI Researcher,41199,9,98.8,Hire,4,0,0,4,0.7456,1,Hire,661
+"Python, TensorFlow, NLP",1,MBA,AWS Certified,AI Researcher,52956,8,72.9,Hire,3,0,0,3,0.7435,1,Hire,669
+"Networking, Ethical Hacking, Linux, Cybersecurity",4,PhD,,Cybersecurity Analyst,52790,2,61.8,Reject,4,3,1,4,0.7435,1,Hire,669
+"SQL, Python, Machine Learning",6,B.Sc,AWS Certified,Data Scientist,52824,9,92.7,Hire,2,0,2,0,0.7435,1,Hire,669
+"Ethical Hacking, Linux, Cybersecurity",4,MBA,,Cybersecurity Analyst,52722,9,98.3,Hire,3,3,1,3,0.7435,1,Hire,669
+"Python, Machine Learning, SQL",0,B.Tech,AWS Certified,Data Scientist,71169,4,49.5,Reject,2,0,2,1,0.7404,1,Hire,673
+"Python, SQL, Machine Learning",3,B.Tech,AWS Certified,Data Scientist,71142,4,74.5,Hire,2,0,2,1,0.7404,1,Hire,673
+"C++, React",8,B.Sc,Deep Learning Specialization,Software Engineer,71077,7,100.0,Hire,2,1,3,0,0.7404,1,Hire,673
+"SQL, React, C++, Java",3,PhD,Deep Learning Specialization,Software Engineer,71138,8,96.8,Hire,4,1,3,4,0.7404,1,Hire,673
+"Deep Learning, Machine Learning, Python",3,MBA,AWS Certified,Data Scientist,71310,1,62.5,Reject,3,0,2,3,0.7404,1,Hire,673
+"Machine Learning, SQL, Python, Deep Learning",7,B.Tech,Google ML,Data Scientist,71459,0,100.0,Hire,2,2,2,1,0.7404,1,Hire,673
+"Deep Learning, SQL",1,MBA,Google ML,Data Scientist,71365,6,63.5,Hire,3,2,2,3,0.7404,1,Hire,673
+"Python, Pytorch",0,B.Tech,Deep Learning Specialization,AI Researcher,71804,10,67.5,Reject,2,1,0,1,0.733,1,Hire,680
+"SQL, Deep Learning, Python, Machine Learning",6,M.Tech,Deep Learning Specialization,Data Scientist,72143,10,97.5,Hire,3,1,2,2,0.733,1,Hire,680
+"SQL, Deep Learning, Python, Machine Learning",7,M.Tech,,Data Scientist,71964,7,100.0,Hire,3,3,2,2,0.733,1,Hire,680
+"NLP, Pytorch, TensorFlow",6,B.Tech,Deep Learning Specialization,AI Researcher,72164,4,100.0,Reject,2,1,0,1,0.733,1,Hire,680
+"React, C++, Java",5,PhD,AWS Certified,Software Engineer,72099,10,98.3,Hire,4,0,3,4,0.733,1,Hire,680
+"Python, Pytorch, TensorFlow, NLP",6,PhD,Deep Learning Specialization,AI Researcher,71832,4,98.8,Hire,4,1,0,4,0.733,1,Hire,680
+"SQL, C++, Java, React",4,MBA,,Software Engineer,119370,3,72.4,Hire,3,3,3,3,0.7277,1,Hire,686
+"Machine Learning, SQL, Python",3,M.Tech,Google ML,Data Scientist,119432,9,93.1,Hire,3,2,2,2,0.7277,1,Hire,686
+"Java, C++, React",0,PhD,Deep Learning Specialization,Software Engineer,118475,2,43.6,Hire,4,1,3,4,0.7277,1,Hire,686
+"SQL, Machine Learning",9,PhD,AWS Certified,Data Scientist,119901,3,95.4,Reject,4,0,2,4,0.7277,1,Hire,686
+"Cybersecurity, Linux, Ethical Hacking, Networking",3,MBA,Deep Learning Specialization,Cybersecurity Analyst,118062,8,100.0,Hire,3,1,1,3,0.7277,1,Hire,686
+"SQL, Deep Learning",0,PhD,Deep Learning Specialization,Data Scientist,118976,8,59.1,Reject,4,1,2,4,0.7277,1,Hire,686
+"SQL, Machine Learning, Python, Deep Learning",7,M.Tech,Deep Learning Specialization,Data Scientist,119474,3,97.8,Hire,3,1,2,2,0.7277,1,Hire,686
+"NLP, TensorFlow, Python, Pytorch",0,M.Tech,Google ML,AI Researcher,119583,8,63.2,Hire,3,2,0,2,0.7277,1,Hire,686
+"Deep Learning, Machine Learning, SQL",7,B.Tech,AWS Certified,Data Scientist,118152,6,100.0,Hire,2,0,2,1,0.7277,1,Hire,686
+"NLP, Pytorch, Python",10,B.Tech,Google ML,AI Researcher,119307,2,100.0,Hire,2,2,0,1,0.7277,1,Hire,686
+"Ethical Hacking, Networking",6,B.Sc,AWS Certified,Cybersecurity Analyst,119478,2,98.4,Hire,2,0,1,0,0.7277,1,Hire,686
+"Python, SQL",0,PhD,Deep Learning Specialization,Data Scientist,118756,9,59.7,Reject,4,1,2,4,0.7277,1,Hire,686
+"SQL, Python",8,B.Sc,Deep Learning Specialization,Data Scientist,118157,10,100.0,Hire,2,1,2,0,0.7277,1,Hire,686
+"Python, TensorFlow, NLP",10,M.Tech,,AI Researcher,118077,8,100.0,Hire,3,3,0,2,0.7277,1,Hire,686
+"React, Java, SQL",3,B.Sc,,Software Engineer,118891,0,43.8,Reject,2,3,3,0,0.7277,1,Hire,686
+"React, SQL, Java, C++",6,B.Tech,Deep Learning Specialization,Software Engineer,119018,0,86.9,Hire,2,1,3,1,0.7277,1,Hire,686
+"SQL, Python, Deep Learning, Machine Learning",10,PhD,,Data Scientist,119703,1,93.9,Hire,4,3,2,4,0.7277,1,Hire,686
+"Ethical Hacking, Networking, Linux",3,B.Tech,Google ML,Cybersecurity Analyst,118508,7,89.5,Hire,2,2,1,1,0.7277,1,Hire,686
+"Cybersecurity, Linux",2,MBA,Deep Learning Specialization,Cybersecurity Analyst,118103,1,50.7,Hire,3,1,1,3,0.7277,1,Hire,686
+"SQL, C++, React",1,M.Tech,Deep Learning Specialization,Software Engineer,118312,4,57.5,Reject,3,1,3,2,0.7277,1,Hire,686
+"SQL, Deep Learning, Python, Machine Learning",8,B.Sc,Google ML,Data Scientist,118651,5,92.8,Hire,2,2,2,0,0.7277,1,Hire,686
+"Deep Learning, Python, SQL",2,B.Sc,Deep Learning Specialization,Data Scientist,119054,8,83.4,Hire,2,1,2,0,0.7277,1,Hire,686
+"Deep Learning, Machine Learning, SQL, Python",2,PhD,,Data Scientist,50002,1,52.9,Reject,4,3,2,4,0.727,1,Hire,708
+"Pytorch, TensorFlow, NLP, Python",10,B.Sc,Google ML,AI Researcher,50188,3,100.0,Hire,2,2,0,0,0.727,1,Hire,708
+"React, SQL",9,B.Tech,AWS Certified,Software Engineer,50001,6,98.0,Hire,2,0,3,1,0.727,1,Hire,708
+"Cybersecurity, Linux, Networking",0,MBA,Deep Learning Specialization,Cybersecurity Analyst,49774,7,53.6,Reject,3,1,1,3,0.727,1,Hire,708
+"React, SQL",10,PhD,Deep Learning Specialization,Software Engineer,50166,10,84.4,Hire,4,1,3,4,0.727,1,Hire,708
+"SQL, C++, React",7,M.Tech,AWS Certified,Software Engineer,49907,4,100.0,Hire,3,0,3,2,0.727,1,Hire,708
+"SQL, Deep Learning, Machine Learning",1,MBA,,Data Scientist,44099,8,61.6,Reject,3,3,2,3,0.7267,1,Hire,714
+"Machine Learning, Python, SQL",2,PhD,AWS Certified,Data Scientist,43703,5,75.0,Hire,4,0,2,4,0.7267,1,Hire,714
+"Machine Learning, Deep Learning",7,B.Tech,AWS Certified,Data Scientist,43930,8,92.3,Hire,2,0,2,1,0.7267,1,Hire,714
+"SQL, Python, Machine Learning, Deep Learning",1,B.Tech,AWS Certified,Data Scientist,43647,1,45.4,Hire,2,0,2,1,0.7267,1,Hire,714
+"Deep Learning, Python",3,MBA,AWS Certified,Data Scientist,44012,10,99.1,Hire,3,0,2,3,0.7267,1,Hire,714
+"Pytorch, TensorFlow",5,PhD,AWS Certified,AI Researcher,43681,4,84.3,Hire,4,0,0,4,0.7267,1,Hire,714
+"Python, Machine Learning, Deep Learning, SQL",1,PhD,Google ML,Data Scientist,113545,6,75.4,Hire,4,2,2,4,0.7216,1,Hire,720
+"C++, React, SQL",9,PhD,Google ML,Software Engineer,113497,5,99.5,Hire,4,2,3,4,0.7216,1,Hire,720
+"React, SQL",10,MBA,AWS Certified,Software Engineer,113587,0,100.0,Hire,3,0,3,3,0.7216,1,Hire,720
+"Python, NLP, TensorFlow",2,M.Tech,Google ML,AI Researcher,90388,4,58.6,Hire,3,2,0,2,0.7178,1,Hire,723
+"React, C++, SQL, Java",7,MBA,Deep Learning Specialization,Software Engineer,90437,5,100.0,Hire,3,1,3,3,0.7178,1,Hire,723
+"Deep Learning, Python, SQL",4,B.Tech,,Data Scientist,90584,3,68.9,Hire,2,3,2,1,0.7178,1,Hire,723
+"Pytorch, TensorFlow, NLP",4,B.Tech,,AI Researcher,90906,3,73.9,Reject,2,3,0,1,0.7178,1,Hire,723
+"C++, React",1,MBA,,Software Engineer,55836,3,28.6,Reject,3,3,3,3,0.7151,1,Hire,727
+"SQL, Deep Learning",5,B.Sc,Google ML,Data Scientist,55964,5,100.0,Hire,2,2,2,0,0.7151,1,Hire,727
+"Java, React, C++, SQL",7,PhD,Deep Learning Specialization,Software Engineer,55916,6,95.6,Hire,4,1,3,4,0.7151,1,Hire,727
+"TensorFlow, Python, NLP, Pytorch",9,MBA,,AI Researcher,87232,0,100.0,Hire,3,3,0,3,0.713,1,Hire,730
+"Java, React, C++",8,M.Tech,,Software Engineer,87272,2,100.0,Hire,3,3,3,2,0.713,1,Hire,730
+"Ethical Hacking, Linux, Networking",5,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,87063,5,98.9,Hire,2,1,1,1,0.713,1,Hire,730
+"TensorFlow, Pytorch, NLP, Python",1,B.Tech,AWS Certified,AI Researcher,86353,2,49.9,Hire,2,0,0,1,0.713,1,Hire,730
+"Java, React, C++, SQL",5,MBA,Google ML,Software Engineer,87525,1,84.6,Reject,3,2,3,3,0.713,1,Hire,730
+"Python, Machine Learning, SQL",4,B.Tech,,Data Scientist,85884,6,78.9,Reject,2,3,2,1,0.713,1,Hire,730
+"Deep Learning, SQL, Machine Learning, Python",1,MBA,AWS Certified,Data Scientist,86355,4,67.5,Hire,3,0,2,3,0.713,1,Hire,730
+"Cybersecurity, Networking",4,PhD,,Cybersecurity Analyst,87051,0,50.7,Hire,4,3,1,4,0.713,1,Hire,730
+"Networking, Cybersecurity, Ethical Hacking, Linux",1,B.Sc,AWS Certified,Cybersecurity Analyst,86274,3,64.5,Hire,2,0,1,0,0.713,1,Hire,730
+"Pytorch, TensorFlow, Python",2,PhD,,AI Researcher,85955,1,37.9,Reject,4,3,0,4,0.713,1,Hire,730
+"TensorFlow, NLP",10,B.Sc,AWS Certified,AI Researcher,86663,2,99.8,Hire,2,0,0,0,0.713,1,Hire,730
+"React, SQL",8,B.Sc,Deep Learning Specialization,Software Engineer,86416,8,100.0,Hire,2,1,3,0,0.713,1,Hire,730
+"Pytorch, NLP, Python",2,B.Tech,,AI Researcher,85775,5,66.1,Hire,2,3,0,1,0.713,1,Hire,730
+"SQL, React, Java",4,PhD,,Software Engineer,87441,9,97.8,Hire,4,3,3,4,0.713,1,Hire,730
+"Linux, Cybersecurity",1,M.Tech,Google ML,Cybersecurity Analyst,85755,3,52.3,Hire,3,2,1,2,0.713,1,Hire,730
+"Python, TensorFlow, Pytorch",1,B.Sc,Deep Learning Specialization,AI Researcher,85905,7,63.4,Reject,2,1,0,0,0.713,1,Hire,730
+"TensorFlow, Python, NLP, Pytorch",8,MBA,AWS Certified,AI Researcher,70446,8,93.7,Hire,3,0,0,3,0.712,1,Hire,746
+"SQL, Java, React, C++",0,MBA,,Software Engineer,70344,4,40.6,Reject,3,3,3,3,0.712,1,Hire,746
+"React, Java",5,B.Sc,AWS Certified,Software Engineer,70378,8,96.6,Hire,2,0,3,0,0.712,1,Hire,746
+"Python, Pytorch",7,B.Sc,,AI Researcher,98548,7,97.6,Hire,2,3,0,0,0.7085,1,Hire,749
+"Pytorch, TensorFlow",0,B.Sc,Deep Learning Specialization,AI Researcher,98413,3,42.0,Reject,2,1,0,0,0.7085,1,Hire,749
+"Python, Machine Learning",7,M.Tech,,Data Scientist,98540,0,85.5,Hire,3,3,2,2,0.7085,1,Hire,749
+"TensorFlow, Python",7,B.Sc,Deep Learning Specialization,AI Researcher,98529,1,89.9,Hire,2,1,0,0,0.7085,1,Hire,749
+"Cybersecurity, Networking",1,B.Tech,Google ML,Cybersecurity Analyst,94563,6,50.2,Reject,2,2,1,1,0.7069,1,Hire,753
+"Cybersecurity, Linux, Networking, Ethical Hacking",9,PhD,Deep Learning Specialization,Cybersecurity Analyst,94447,4,94.8,Hire,4,1,1,4,0.7069,1,Hire,753
+"TensorFlow, Pytorch, NLP, Python",8,MBA,Deep Learning Specialization,AI Researcher,94384,0,95.4,Hire,3,1,0,3,0.7069,1,Hire,753
+"SQL, Python, Machine Learning, Deep Learning",3,B.Sc,,Data Scientist,94642,8,86.3,Hire,2,3,2,0,0.7069,1,Hire,753
+"React, C++, SQL, Java",0,M.Tech,,Software Engineer,94099,0,25.6,Reject,3,3,3,2,0.7069,1,Hire,753
+"NLP, TensorFlow, Python",2,MBA,,AI Researcher,94281,2,43.6,Reject,3,3,0,3,0.7069,1,Hire,753
+"Networking, Cybersecurity, Ethical Hacking",8,B.Tech,,Cybersecurity Analyst,94140,4,96.2,Hire,2,3,1,1,0.7069,1,Hire,753
+"TensorFlow, Python, NLP, Pytorch",4,B.Tech,,AI Researcher,94202,4,84.2,Hire,2,3,0,1,0.7069,1,Hire,753
+"Machine Learning, Deep Learning, SQL, Python",3,M.Tech,AWS Certified,Data Scientist,93900,0,65.4,Hire,3,0,2,2,0.7069,1,Hire,753
+"C++, SQL",2,MBA,Google ML,Software Engineer,94346,1,44.5,Reject,3,2,3,3,0.7069,1,Hire,753
+"Python, Deep Learning, Machine Learning",5,M.Tech,,Data Scientist,94342,10,100.0,Hire,3,3,2,2,0.7069,1,Hire,753
+"NLP, Python, TensorFlow",7,B.Sc,,AI Researcher,94313,9,100.0,Hire,2,3,0,0,0.7069,1,Hire,753
+"Pytorch, Python, TensorFlow",5,MBA,AWS Certified,AI Researcher,77117,6,92.4,Hire,3,0,0,3,0.7055,1,Hire,765
+"Cybersecurity, Linux",9,PhD,,Cybersecurity Analyst,77138,0,90.5,Reject,4,3,1,4,0.7055,1,Hire,765
+"SQL, Machine Learning, Python",3,B.Tech,Google ML,Data Scientist,77352,3,66.3,Hire,2,2,2,1,0.7055,1,Hire,765
+"Python, TensorFlow",0,M.Tech,AWS Certified,AI Researcher,77225,1,29.8,Reject,3,0,0,2,0.7055,1,Hire,765
+"Deep Learning, SQL, Python, Machine Learning",1,PhD,Deep Learning Specialization,Data Scientist,52288,1,49.0,Hire,4,1,2,4,0.7052,1,Hire,769
+"Machine Learning, Deep Learning, Python, SQL",4,B.Sc,,Data Scientist,51928,8,98.5,Hire,2,3,2,0,0.7052,1,Hire,769
+"Java, SQL, C++",0,B.Sc,AWS Certified,Software Engineer,52290,2,33.4,Reject,2,0,3,0,0.7052,1,Hire,769
+"Pytorch, NLP",4,B.Tech,Google ML,AI Researcher,52692,10,97.7,Hire,2,2,0,1,0.7052,1,Hire,769
+"NLP, TensorFlow",2,B.Sc,AWS Certified,AI Researcher,52471,10,78.4,Hire,2,0,0,0,0.7052,1,Hire,769
+"SQL, Python",1,MBA,AWS Certified,Data Scientist,52364,8,76.6,Hire,3,0,2,3,0.7052,1,Hire,769
+"SQL, Java, React, C++",3,M.Tech,Google ML,Software Engineer,52454,9,96.9,Hire,3,2,3,2,0.7052,1,Hire,769
+"Cybersecurity, Linux, Ethical Hacking",2,PhD,,Cybersecurity Analyst,51721,10,78.7,Hire,4,3,1,4,0.7052,1,Hire,769
+"React, Java",4,PhD,Google ML,Software Engineer,51742,6,82.2,Reject,4,2,3,4,0.7052,1,Hire,769
+"Pytorch, Python",5,B.Tech,Deep Learning Specialization,AI Researcher,89338,1,79.5,Hire,2,1,0,1,0.7043,1,Hire,778
+"C++, Java",0,B.Sc,,Software Engineer,89148,8,49.0,Reject,2,3,3,0,0.7043,1,Hire,778
+"React, C++, Java, SQL",5,B.Sc,,Software Engineer,89191,3,90.8,Hire,2,3,3,0,0.7043,1,Hire,778
+"SQL, Deep Learning, Machine Learning",9,B.Sc,Google ML,Data Scientist,89128,0,96.0,Hire,2,2,2,0,0.7043,1,Hire,778
+"React, C++",7,M.Tech,AWS Certified,Software Engineer,98988,10,99.9,Hire,3,0,3,2,0.7005,1,Hire,782
+"C++, React, Java, SQL",9,M.Tech,,Software Engineer,99057,8,100.0,Hire,3,3,3,2,0.7005,1,Hire,782
+"SQL, Machine Learning",5,M.Tech,AWS Certified,Data Scientist,99076,8,100.0,Hire,3,0,2,2,0.7005,1,Hire,782
+"TensorFlow, Python",10,PhD,AWS Certified,AI Researcher,98659,6,100.0,Hire,4,0,0,4,0.7005,1,Hire,782
+"Cybersecurity, Ethical Hacking, Networking, Linux",6,M.Tech,,Cybersecurity Analyst,98876,2,83.3,Reject,3,3,1,2,0.7005,1,Hire,782
+"C++, Java, SQL",3,PhD,Deep Learning Specialization,Software Engineer,98746,4,75.0,Hire,4,1,3,4,0.7005,1,Hire,782
+"Cybersecurity, Networking",4,PhD,,Cybersecurity Analyst,98557,2,51.6,Reject,4,3,1,4,0.7005,1,Hire,782
+"SQL, Deep Learning",4,PhD,,Data Scientist,97719,8,91.7,Hire,4,3,2,4,0.6956,1,Hire,789
+"Networking, Ethical Hacking",0,B.Tech,,Cybersecurity Analyst,97659,4,33.7,Hire,2,3,1,1,0.6956,1,Hire,789
+"Ethical Hacking, Networking, Linux",8,PhD,,Cybersecurity Analyst,97521,7,100.0,Hire,4,3,1,4,0.6956,1,Hire,789
+"TensorFlow, Python, Pytorch, NLP",2,B.Sc,Deep Learning Specialization,AI Researcher,97529,4,62.1,Hire,2,1,0,0,0.6956,1,Hire,789
+"Cybersecurity, Linux",8,B.Sc,Google ML,Cybersecurity Analyst,90950,10,100.0,Hire,2,2,1,0,0.6948,1,Hire,793
+"Linux, Networking, Ethical Hacking",10,B.Tech,,Cybersecurity Analyst,91447,5,100.0,Hire,2,3,1,1,0.6948,1,Hire,793
+"Linux, Networking, Cybersecurity, Ethical Hacking",7,PhD,,Cybersecurity Analyst,91604,3,93.2,Hire,4,3,1,4,0.6948,1,Hire,793
+"Linux, Ethical Hacking, Cybersecurity, Networking",8,M.Tech,,Cybersecurity Analyst,76830,2,100.0,Hire,3,3,1,2,0.6948,1,Hire,793
+"Deep Learning, Python",9,B.Tech,Google ML,Data Scientist,91723,8,100.0,Hire,2,2,2,1,0.6948,1,Hire,793
+"Pytorch, TensorFlow, NLP, Python",0,B.Tech,Deep Learning Specialization,AI Researcher,91064,10,76.5,Hire,2,1,0,1,0.6948,1,Hire,793
+"Python, Pytorch, TensorFlow, NLP",9,M.Tech,,AI Researcher,91064,5,89.7,Hire,3,3,0,2,0.6948,1,Hire,793
+"Machine Learning, SQL",2,MBA,Deep Learning Specialization,Data Scientist,90929,7,67.5,Hire,3,1,2,3,0.6948,1,Hire,793
+"Java, React, SQL",1,PhD,,Software Engineer,91756,1,37.2,Reject,4,3,3,4,0.6948,1,Hire,793
+"SQL, Machine Learning, Deep Learning",3,PhD,,Data Scientist,91090,2,55.5,Reject,4,3,2,4,0.6948,1,Hire,793
+"Machine Learning, Python, Deep Learning",0,B.Tech,Deep Learning Specialization,Data Scientist,91454,1,28.6,Hire,2,1,2,1,0.6948,1,Hire,793
+"Machine Learning, Python",5,B.Tech,Google ML,Data Scientist,91581,4,88.9,Reject,2,2,2,1,0.6948,1,Hire,793
+"C++, React, SQL, Java",9,B.Tech,Google ML,Software Engineer,76854,9,100.0,Hire,2,2,3,1,0.6948,1,Hire,793
+"Cybersecurity, Linux, Networking, Ethical Hacking",0,M.Tech,AWS Certified,Cybersecurity Analyst,77105,4,49.2,Reject,3,0,1,2,0.6948,1,Hire,793
+"Machine Learning, Python, Deep Learning, SQL",5,M.Tech,Deep Learning Specialization,Data Scientist,95222,5,100.0,Hire,3,1,2,2,0.6936,1,Hire,807
+"Python, NLP",3,B.Sc,,AI Researcher,95270,7,75.2,Hire,2,3,0,0,0.6936,1,Hire,807
+"Ethical Hacking, Linux, Networking",3,M.Tech,,Cybersecurity Analyst,95288,3,58.9,Reject,3,3,1,2,0.6936,1,Hire,807
+"Python, TensorFlow",6,B.Sc,Google ML,AI Researcher,116788,2,83.6,Hire,2,2,0,0,0.6913,1,Hire,810
+"Machine Learning, Python, SQL",6,B.Tech,Deep Learning Specialization,Data Scientist,116481,8,100.0,Hire,2,1,2,1,0.6913,1,Hire,810
+"C++, Java, React, SQL",1,PhD,,Software Engineer,116556,0,30.6,Reject,4,3,3,4,0.6913,1,Hire,810
+"Python, Machine Learning, Deep Learning",0,B.Tech,Google ML,Data Scientist,116661,3,31.1,Reject,2,2,2,1,0.6913,1,Hire,810
+"C++, React, Java",9,B.Tech,Deep Learning Specialization,Software Engineer,76157,8,93.8,Hire,2,1,3,1,0.6891,1,Hire,814
+"Pytorch, NLP, Python",3,M.Tech,AWS Certified,AI Researcher,76100,6,81.0,Hire,3,0,0,2,0.6891,1,Hire,814
+"Ethical Hacking, Linux, Networking, Cybersecurity",0,B.Tech,Google ML,Cybersecurity Analyst,76108,5,47.2,Reject,2,2,1,1,0.6891,1,Hire,814
+"Pytorch, Python",8,B.Tech,AWS Certified,AI Researcher,94680,10,99.6,Hire,2,0,0,1,0.6847,1,Hire,817
+"Pytorch, NLP, Python, TensorFlow",1,M.Tech,Google ML,AI Researcher,94795,7,82.2,Hire,3,2,0,2,0.6847,1,Hire,817
+"Pytorch, Python, NLP",2,B.Tech,,AI Researcher,94786,4,48.5,Reject,2,3,0,1,0.6847,1,Hire,817
+"NLP, Pytorch, TensorFlow",1,B.Tech,AWS Certified,AI Researcher,60718,1,31.5,Hire,2,0,0,1,0.6828,1,Hire,820
+"Python, TensorFlow, Pytorch, NLP",0,M.Tech,AWS Certified,AI Researcher,60579,1,39.3,Hire,3,0,0,2,0.6828,1,Hire,820
+"Linux, Cybersecurity, Ethical Hacking",2,B.Sc,,Cybersecurity Analyst,60533,2,47.5,Reject,2,3,1,0,0.6828,1,Hire,820
+"Pytorch, TensorFlow",9,PhD,Google ML,AI Researcher,59856,2,95.6,Hire,4,2,0,4,0.6801,1,Hire,823
+"SQL, Python",10,B.Tech,AWS Certified,Data Scientist,59926,4,85.3,Reject,2,0,2,1,0.6801,1,Hire,823
+"Cybersecurity, Ethical Hacking, Linux",9,B.Tech,Deep Learning Specialization,Cybersecurity Analyst,59885,2,100.0,Hire,2,1,1,1,0.6801,1,Hire,823
+"Deep Learning, SQL, Machine Learning",3,B.Tech,,Data Scientist,94832,3,59.3,Hire,2,3,2,1,0.6772,1,Hire,826
+"TensorFlow, Pytorch, Python, NLP",10,B.Tech,AWS Certified,AI Researcher,94952,6,94.2,Reject,2,0,0,1,0.6772,1,Hire,826
+"Ethical Hacking, Networking",6,M.Tech,,Cybersecurity Analyst,94810,7,100.0,Hire,3,3,1,2,0.6772,1,Hire,826
+"SQL, Python, Machine Learning",4,M.Tech,AWS Certified,Data Scientist,95486,6,94.7,Hire,3,0,2,2,0.6748,1,Hire,829
+"TensorFlow, NLP, Python, Pytorch",3,B.Sc,,AI Researcher,95357,8,94.0,Reject,2,3,0,0,0.6748,1,Hire,829
+"TensorFlow, Python, NLP",10,MBA,,AI Researcher,95290,0,90.5,Hire,3,3,0,3,0.6748,1,Hire,829
+"NLP, TensorFlow",8,MBA,,AI Researcher,64722,1,96.8,Hire,3,3,0,3,0.6747,1,Hire,832
+"Deep Learning, Python, SQL",3,B.Sc,Google ML,Data Scientist,64716,2,50.4,Reject,2,2,2,0,0.6747,1,Hire,832
+"Pytorch, TensorFlow, NLP",1,MBA,AWS Certified,AI Researcher,64694,9,81.0,Hire,3,0,0,3,0.6747,1,Hire,832
+"Deep Learning, Python, SQL, Machine Learning",1,PhD,AWS Certified,Data Scientist,84131,3,53.6,Reject,4,0,2,4,0.6742,1,Hire,835
+"SQL, Deep Learning, Machine Learning, Python",1,PhD,,Data Scientist,84161,6,62.0,Hire,4,3,2,4,0.6742,1,Hire,835
+"Machine Learning, Python, SQL",10,B.Sc,,Data Scientist,84036,5,100.0,Hire,2,3,2,0,0.6742,1,Hire,835
+"Python, Deep Learning",2,B.Tech,AWS Certified,Data Scientist,83979,5,62.4,Reject,2,0,2,1,0.6742,1,Hire,835
+"Machine Learning, Python, SQL",2,MBA,Deep Learning Specialization,Data Scientist,84205,4,70.1,Hire,3,1,2,3,0.6742,1,Hire,835
+"Pytorch, TensorFlow, NLP",2,M.Tech,Google ML,AI Researcher,76264,4,71.3,Reject,3,2,0,2,0.6671,1,Hire,840
+"Linux, Ethical Hacking",2,M.Tech,AWS Certified,Cybersecurity Analyst,76342,4,52.2,Reject,3,0,1,2,0.6671,1,Hire,840
+"C++, Java, React",5,MBA,AWS Certified,Software Engineer,76625,10,99.9,Hire,3,0,3,3,0.6671,1,Hire,840
+"TensorFlow, NLP, Python",1,M.Tech,,AI Researcher,76442,2,29.4,Reject,3,3,0,2,0.6671,1,Hire,840
+"SQL, Java, C++, React",9,M.Tech,,Software Engineer,76224,5,100.0,Hire,3,3,3,2,0.6671,1,Hire,840
+"Java, SQL, C++, React",3,B.Tech,Deep Learning Specialization,Software Engineer,67414,0,52.7,Reject,2,1,3,1,0.6629,1,Hire,845
+"Pytorch, Python, NLP, TensorFlow",0,M.Tech,Deep Learning Specialization,AI Researcher,67037,9,78.0,Reject,3,1,0,2,0.6629,1,Hire,845
+"NLP, Pytorch, TensorFlow",9,MBA,Deep Learning Specialization,AI Researcher,67341,8,100.0,Hire,3,1,0,3,0.6629,1,Hire,845
+"Python, Deep Learning",5,B.Tech,,Data Scientist,67218,3,80.6,Hire,2,3,2,1,0.6629,1,Hire,845
+"SQL, Python",8,MBA,Deep Learning Specialization,Data Scientist,75286,10,100.0,Hire,3,1,2,3,0.6621,1,Hire,849
+"Python, TensorFlow, Pytorch",0,M.Tech,,AI Researcher,75275,1,24.7,Reject,3,3,0,2,0.6621,1,Hire,849
+"TensorFlow, Python",1,MBA,,AI Researcher,75420,6,54.3,Reject,3,3,0,3,0.6621,1,Hire,849
+"Ethical Hacking, Networking",5,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,75413,4,92.1,Hire,3,1,1,2,0.6621,1,Hire,849
+"Cybersecurity, Linux, Ethical Hacking",3,B.Sc,AWS Certified,Cybersecurity Analyst,75300,5,77.6,Hire,2,0,1,0,0.6621,1,Hire,849
+"Pytorch, NLP",0,M.Tech,Deep Learning Specialization,AI Researcher,96555,5,43.1,Reject,3,1,0,2,0.6619,1,Hire,854
+"SQL, Java, React",3,B.Sc,,Software Engineer,96280,9,96.4,Hire,2,3,3,0,0.6619,1,Hire,854
+"SQL, Deep Learning, Python",9,B.Sc,Google ML,Data Scientist,96487,0,100.0,Hire,2,2,2,0,0.6619,1,Hire,854
+"Java, C++, React, SQL",8,B.Sc,,Software Engineer,89042,1,100.0,Hire,2,3,3,0,0.6604,1,Hire,857
+"Deep Learning, SQL",2,PhD,,Data Scientist,89120,3,36.2,Hire,4,3,2,4,0.6604,1,Hire,857
+"Deep Learning, Machine Learning",4,B.Tech,Google ML,Data Scientist,88986,2,68.9,Reject,2,2,2,1,0.6604,1,Hire,857
+"Python, Deep Learning, SQL, Machine Learning",5,MBA,Google ML,Data Scientist,69257,0,80.2,Reject,3,2,2,3,0.6597,1,Hire,860
+"React, C++, Java, SQL",5,MBA,Deep Learning Specialization,Software Engineer,68881,8,95.9,Hire,3,1,3,3,0.6597,1,Hire,860
+"SQL, Python",9,PhD,Deep Learning Specialization,Data Scientist,69101,8,100.0,Hire,4,1,2,4,0.6597,1,Hire,860
+"Java, SQL, React, C++",10,B.Sc,Deep Learning Specialization,Software Engineer,69145,4,92.4,Hire,2,1,3,0,0.6597,1,Hire,860
+"Python, NLP",5,B.Sc,Google ML,AI Researcher,54525,8,100.0,Hire,2,2,0,0,0.6571,1,Hire,864
+"Pytorch, Python",4,M.Tech,AWS Certified,AI Researcher,54228,1,64.2,Reject,3,0,0,2,0.6571,1,Hire,864
+"Python, Pytorch, TensorFlow",0,MBA,Deep Learning Specialization,AI Researcher,54236,6,44.8,Hire,3,1,0,3,0.6571,1,Hire,864
+"Python, TensorFlow",3,B.Sc,AWS Certified,AI Researcher,70067,3,62.3,Reject,2,0,0,0,0.6548,1,Hire,867
+"NLP, Pytorch, TensorFlow, Python",0,MBA,Deep Learning Specialization,AI Researcher,70137,9,73.4,Hire,3,1,0,3,0.6548,1,Hire,867
+"Networking, Cybersecurity, Linux",9,B.Tech,Google ML,Cybersecurity Analyst,69810,0,100.0,Hire,2,2,1,1,0.6548,1,Hire,867
+"Ethical Hacking, Cybersecurity, Linux",1,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,117772,2,45.1,Reject,2,1,1,0,0.6472,0,Reject,870
+"React, SQL, C++, Java",0,B.Sc,Google ML,Software Engineer,118032,2,38.9,Reject,2,2,3,0,0.6472,0,Reject,870
+"Pytorch, Python, NLP, TensorFlow",9,MBA,Deep Learning Specialization,AI Researcher,117784,3,89.2,Hire,3,1,0,3,0.6472,0,Reject,870
+"Java, React",9,B.Tech,Google ML,Software Engineer,117897,0,92.1,Reject,2,2,3,1,0.6472,0,Reject,870
+"Pytorch, TensorFlow, NLP, Python",1,M.Tech,,AI Researcher,63713,0,31.0,Reject,3,3,0,2,0.6409,1,Hire,874
+"Networking, Ethical Hacking",0,PhD,Deep Learning Specialization,Cybersecurity Analyst,63561,5,47.7,Reject,4,1,1,4,0.6409,1,Hire,874
+"Ethical Hacking, Linux, Networking",7,B.Sc,,Cybersecurity Analyst,63601,10,100.0,Hire,2,3,1,0,0.6409,1,Hire,874
+"Pytorch, TensorFlow, NLP",4,M.Tech,Google ML,AI Researcher,63556,10,100.0,Hire,3,2,0,2,0.6409,1,Hire,874
+"React, Java, C++, SQL",3,PhD,Google ML,Software Engineer,63537,2,68.3,Hire,4,2,3,4,0.6409,1,Hire,874
+"Machine Learning, Deep Learning, SQL",0,B.Sc,AWS Certified,Data Scientist,63564,6,54.3,Hire,2,0,2,0,0.6409,1,Hire,874
+"NLP, Pytorch",2,B.Sc,Deep Learning Specialization,AI Researcher,113947,8,73.9,Reject,2,1,0,0,0.6361,1,Hire,880
+"TensorFlow, NLP",0,B.Tech,Google ML,AI Researcher,113855,9,69.2,Hire,2,2,0,1,0.6361,1,Hire,880
+"Ethical Hacking, Networking, Linux, Cybersecurity",8,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,114147,4,98.5,Hire,2,1,1,0,0.6361,1,Hire,880
+"Python, SQL, Machine Learning",10,MBA,Google ML,Data Scientist,114118,2,99.6,Hire,3,2,2,3,0.6361,1,Hire,880
+"Python, NLP, Pytorch",1,MBA,Google ML,AI Researcher,113921,1,29.8,Hire,3,2,0,3,0.6361,1,Hire,880
+"Pytorch, Python",8,B.Sc,AWS Certified,AI Researcher,116934,10,96.3,Hire,2,0,0,0,0.6354,1,Hire,885
+"SQL, Deep Learning",6,B.Tech,Deep Learning Specialization,Data Scientist,116832,1,81.1,Reject,2,1,2,1,0.6354,1,Hire,885
+"C++, Java",5,B.Tech,Deep Learning Specialization,Software Engineer,116922,0,71.2,Hire,2,1,3,1,0.6354,1,Hire,885
+"Machine Learning, Python, SQL",0,MBA,Google ML,Data Scientist,116814,5,41.1,Hire,3,2,2,3,0.6354,1,Hire,885
+"Pytorch, Python, TensorFlow",0,B.Tech,,AI Researcher,88958,4,37.0,Reject,2,3,0,1,0.6191,1,Hire,889
+"Machine Learning, Python, SQL",10,M.Tech,Google ML,Data Scientist,88678,3,100.0,Hire,3,2,2,2,0.6191,1,Hire,889
+"SQL, Java, C++",1,PhD,Deep Learning Specialization,Software Engineer,88945,7,74.6,Hire,4,1,3,4,0.6191,1,Hire,889
+"SQL, Python, Machine Learning, Deep Learning",7,B.Sc,AWS Certified,Data Scientist,55431,2,93.5,Hire,2,0,2,0,0.6185,1,Hire,892
+"Python, SQL, Machine Learning",3,PhD,Google ML,Data Scientist,55365,1,58.3,Reject,4,2,2,4,0.6185,1,Hire,892
+"Machine Learning, Python, Deep Learning",2,B.Tech,Deep Learning Specialization,Data Scientist,55376,7,77.7,Hire,2,1,2,1,0.6185,1,Hire,892
+"Python, NLP",5,B.Tech,,AI Researcher,55494,8,91.1,Reject,2,3,0,1,0.6185,1,Hire,892
+"TensorFlow, Pytorch, Python, NLP",7,B.Sc,AWS Certified,AI Researcher,55614,4,98.9,Hire,2,0,0,0,0.6185,1,Hire,892
+"SQL, Python, Machine Learning",10,PhD,AWS Certified,Data Scientist,55716,0,93.3,Hire,4,0,2,4,0.6185,1,Hire,892
+"Networking, Cybersecurity, Ethical Hacking, Linux",0,PhD,AWS Certified,Cybersecurity Analyst,62201,5,55.9,Reject,4,0,1,4,0.6133,1,Hire,898
+"Python, Machine Learning, SQL, Deep Learning",7,PhD,AWS Certified,Data Scientist,62092,2,90.2,Hire,4,0,2,4,0.6133,1,Hire,898
+"Python, TensorFlow",0,MBA,Google ML,AI Researcher,61991,1,16.8,Reject,3,2,0,3,0.6133,1,Hire,898
+"Networking, Linux",3,MBA,,Cybersecurity Analyst,97811,6,70.1,Reject,3,3,1,3,0.6099,1,Hire,901
+"Python, Machine Learning, Deep Learning",0,B.Sc,Deep Learning Specialization,Data Scientist,97987,10,75.7,Hire,2,1,2,0,0.6099,1,Hire,901
+"Cybersecurity, Ethical Hacking, Networking, Linux",3,MBA,AWS Certified,Cybersecurity Analyst,97789,5,77.1,Reject,3,0,1,3,0.6099,1,Hire,901
+"NLP, Python, Pytorch, TensorFlow",1,B.Sc,AWS Certified,AI Researcher,113470,4,51.0,Hire,2,0,0,0,0.5997,1,Hire,904
+"Networking, Cybersecurity, Ethical Hacking, Linux",4,B.Tech,,Cybersecurity Analyst,113477,2,69.1,Hire,2,3,1,1,0.5997,1,Hire,904
+"C++, React",7,PhD,,Software Engineer,113418,1,74.8,Reject,4,3,3,4,0.5997,1,Hire,904
+"SQL, Machine Learning, Deep Learning",0,B.Tech,Deep Learning Specialization,Data Scientist,113435,2,35.1,Reject,2,1,2,1,0.5997,1,Hire,904
+"C++, React",9,MBA,,Software Engineer,113428,2,95.4,Reject,3,3,3,3,0.5997,1,Hire,904
+"NLP, TensorFlow, Python",3,M.Tech,,AI Researcher,66403,10,94.2,Hire,3,3,0,2,0.5981,1,Hire,909
+"Linux, Networking, Cybersecurity, Ethical Hacking",3,B.Tech,,Cybersecurity Analyst,66379,6,90.4,Hire,2,3,1,1,0.5981,1,Hire,909
+"Ethical Hacking, Cybersecurity, Linux",6,MBA,Google ML,Cybersecurity Analyst,66802,1,81.4,Reject,3,2,1,3,0.5981,1,Hire,909
+"Pytorch, TensorFlow, Python, NLP",4,B.Tech,,AI Researcher,66621,5,74.9,Reject,2,3,0,1,0.5981,1,Hire,909
+"NLP, Pytorch, TensorFlow",7,B.Tech,Deep Learning Specialization,AI Researcher,66221,4,90.5,Hire,2,1,0,1,0.5981,1,Hire,909
+"Ethical Hacking, Cybersecurity, Networking",8,B.Tech,,Cybersecurity Analyst,66329,0,99.4,Hire,2,3,1,1,0.5981,1,Hire,909
+"Java, React, SQL, C++",6,M.Tech,Google ML,Software Engineer,66936,5,100.0,Hire,3,2,3,2,0.5981,1,Hire,909
+"Ethical Hacking, Cybersecurity",9,MBA,,Cybersecurity Analyst,44150,6,97.7,Hire,3,3,1,3,0.5959,1,Hire,916
+"Pytorch, Python",0,B.Sc,Deep Learning Specialization,AI Researcher,44226,7,52.9,Reject,2,1,0,0,0.5959,1,Hire,916
+"React, Java",3,B.Sc,,Software Engineer,44106,0,39.7,Reject,2,3,3,0,0.5959,1,Hire,916
+"SQL, C++, Java, React",3,M.Tech,Google ML,Software Engineer,44121,0,59.3,Hire,3,2,3,2,0.5959,1,Hire,916
+"Machine Learning, Python, SQL",2,B.Tech,,Data Scientist,44219,4,54.3,Hire,2,3,2,1,0.5959,1,Hire,916
+"TensorFlow, Python, NLP, Pytorch",1,B.Sc,AWS Certified,AI Researcher,40186,1,45.4,Hire,2,0,0,0,0.5911,1,Hire,921
+"NLP, Pytorch, Python",0,MBA,,AI Researcher,40400,0,5.1,Reject,3,3,0,3,0.5911,1,Hire,921
+"TensorFlow, NLP, Python",0,M.Tech,AWS Certified,AI Researcher,40085,2,40.0,Reject,3,0,0,2,0.5911,1,Hire,921
+"Linux, Networking, Cybersecurity, Ethical Hacking",1,B.Sc,,Cybersecurity Analyst,40222,10,71.5,Hire,2,3,1,0,0.5911,1,Hire,921
+"Machine Learning, Python",8,B.Sc,,Data Scientist,40162,7,93.5,Hire,2,3,2,0,0.5911,1,Hire,921
+"Python, NLP, Pytorch, TensorFlow",6,PhD,Deep Learning Specialization,AI Researcher,65650,3,99.6,Hire,4,1,0,4,0.591,1,Hire,926
+"React, C++, Java",8,MBA,AWS Certified,Software Engineer,65676,0,92.7,Hire,3,0,3,3,0.591,1,Hire,926
+"SQL, React, C++",7,B.Tech,AWS Certified,Software Engineer,65733,0,87.6,Reject,2,0,3,1,0.591,1,Hire,926
+"Cybersecurity, Ethical Hacking",1,PhD,AWS Certified,Cybersecurity Analyst,65601,5,48.7,Reject,4,0,1,4,0.591,1,Hire,926
+"C++, SQL, Java",5,B.Tech,Google ML,Software Engineer,97505,7,94.4,Reject,2,2,3,1,0.5899,0,Reject,930
+"Ethical Hacking, Networking, Linux, Cybersecurity",1,B.Sc,Google ML,Cybersecurity Analyst,97517,9,67.9,Reject,2,2,1,0,0.5899,0,Reject,930
+"NLP, Python, Pytorch",1,MBA,AWS Certified,AI Researcher,97459,0,43.0,Reject,3,0,0,3,0.5899,0,Reject,930
+"Linux, Cybersecurity, Ethical Hacking",7,B.Tech,,Cybersecurity Analyst,41678,8,100.0,Hire,2,3,1,1,0.5864,0,Reject,933
+"Cybersecurity, Networking, Ethical Hacking, Linux",9,PhD,AWS Certified,Cybersecurity Analyst,41733,0,99.9,Hire,4,0,1,4,0.5864,0,Reject,933
+"TensorFlow, Python, NLP",3,B.Tech,,AI Researcher,41769,3,51.7,Reject,2,3,0,1,0.5864,0,Reject,933
+"Cybersecurity, Networking",0,M.Tech,Deep Learning Specialization,Cybersecurity Analyst,42077,9,61.0,Reject,3,1,1,2,0.5864,0,Reject,933
+"Linux, Ethical Hacking",10,MBA,Google ML,Cybersecurity Analyst,41917,9,100.0,Hire,3,2,1,3,0.5864,0,Reject,933
+"Python, Deep Learning, Machine Learning, SQL",8,B.Tech,,Data Scientist,41965,2,100.0,Hire,2,3,2,1,0.5864,0,Reject,933
+"Linux, Cybersecurity",2,PhD,,Cybersecurity Analyst,41824,7,72.5,Hire,4,3,1,4,0.5864,0,Reject,933
+"SQL, C++",3,B.Tech,Deep Learning Specialization,Software Engineer,41891,4,62.1,Reject,2,1,3,1,0.5864,0,Reject,933
+"Pytorch, NLP",1,M.Tech,,AI Researcher,41731,5,35.1,Reject,3,3,0,2,0.5864,0,Reject,933
+"TensorFlow, Python, Pytorch, NLP",2,PhD,Deep Learning Specialization,AI Researcher,116970,3,71.1,Hire,4,1,0,4,0.5745,1,Hire,942
+"SQL, Machine Learning",2,B.Tech,,Data Scientist,116999,2,36.6,Reject,2,3,2,1,0.5745,1,Hire,942
+"Ethical Hacking, Linux",2,MBA,,Cybersecurity Analyst,116969,7,59.7,Reject,3,3,1,3,0.5745,1,Hire,942
+"SQL, Python",10,PhD,AWS Certified,Data Scientist,64417,7,99.1,Hire,4,0,2,4,0.5511,0,Reject,945
+"Linux, Networking",0,B.Tech,AWS Certified,Cybersecurity Analyst,64620,6,41.1,Reject,2,0,1,1,0.5511,0,Reject,945
+"Pytorch, NLP",5,M.Tech,AWS Certified,AI Researcher,64489,4,82.5,Reject,3,0,0,2,0.5511,0,Reject,945
+"SQL, Java",5,B.Sc,AWS Certified,Software Engineer,54536,0,70.5,Reject,2,0,3,0,0.5491,1,Hire,948
+"SQL, Deep Learning, Python, Machine Learning",7,B.Tech,,Data Scientist,54552,2,93.5,Reject,2,3,2,1,0.5491,1,Hire,948
+"Cybersecurity, Networking, Ethical Hacking",8,PhD,Deep Learning Specialization,Cybersecurity Analyst,54594,2,99.0,Hire,4,1,1,4,0.5491,1,Hire,948
+"Cybersecurity, Linux, Ethical Hacking, Networking",7,B.Tech,AWS Certified,Cybersecurity Analyst,95709,8,99.8,Hire,2,0,1,1,0.5418,0,Reject,951
+"Deep Learning, Python, SQL, Machine Learning",0,PhD,,Data Scientist,95742,2,21.6,Reject,4,3,2,4,0.5418,0,Reject,951
+"Python, NLP, TensorFlow, Pytorch",9,B.Tech,AWS Certified,AI Researcher,95912,10,96.7,Hire,2,0,0,1,0.5418,0,Reject,951
+"SQL, Machine Learning",1,PhD,Deep Learning Specialization,Data Scientist,95743,4,43.1,Reject,4,1,2,4,0.5418,0,Reject,951
+"Ethical Hacking, Linux",1,PhD,,Cybersecurity Analyst,95656,9,71.5,Hire,4,3,1,4,0.5418,0,Reject,951
+"Python, Machine Learning",8,B.Tech,Deep Learning Specialization,Data Scientist,95958,2,100.0,Hire,2,1,2,1,0.5378,0,Reject,956
+"Python, Deep Learning, SQL",4,MBA,AWS Certified,Data Scientist,95919,6,91.7,Hire,3,0,2,3,0.5378,0,Reject,956
+"C++, React, SQL, Java",2,MBA,,Software Engineer,96229,1,40.7,Reject,3,3,3,3,0.5378,0,Reject,956
+"C++, React",2,B.Sc,AWS Certified,Software Engineer,96027,5,63.2,Hire,2,0,3,0,0.5378,0,Reject,956
+"Python, Machine Learning",8,PhD,AWS Certified,Data Scientist,95978,4,96.1,Reject,4,0,2,4,0.5378,0,Reject,956
+"Java, C++, React, SQL",5,MBA,Deep Learning Specialization,Software Engineer,64162,7,87.9,Hire,3,1,3,3,0.5372,1,Hire,961
+"TensorFlow, Pytorch, NLP, Python",6,PhD,Google ML,AI Researcher,64338,10,100.0,Hire,4,2,0,4,0.5372,1,Hire,961
+"Deep Learning, SQL",1,M.Tech,Google ML,Data Scientist,64383,4,55.6,Reject,3,2,2,2,0.5372,1,Hire,961
+"NLP, Pytorch, TensorFlow",2,PhD,Deep Learning Specialization,AI Researcher,47573,3,51.5,Reject,4,1,0,4,0.5368,0,Reject,964
+"Machine Learning, Python, Deep Learning",7,B.Tech,,Data Scientist,47698,8,99.5,Hire,2,3,2,1,0.5368,0,Reject,964
+"Java, React, C++",0,PhD,Deep Learning Specialization,Software Engineer,47445,2,35.3,Reject,4,1,3,4,0.5368,0,Reject,964
+"Ethical Hacking, Cybersecurity",0,B.Sc,,Cybersecurity Analyst,47079,8,46.3,Reject,2,3,1,0,0.5368,0,Reject,964
+"Python, TensorFlow, Pytorch, NLP",4,B.Sc,AWS Certified,AI Researcher,47581,2,71.9,Reject,2,0,0,0,0.5368,0,Reject,964
+"Pytorch, Python, TensorFlow, NLP",9,M.Tech,Google ML,AI Researcher,47919,4,99.5,Hire,3,2,0,2,0.5368,0,Reject,964
+"Ethical Hacking, Linux",7,PhD,,Cybersecurity Analyst,47840,0,72.5,Hire,4,3,1,4,0.5368,0,Reject,964
+"Ethical Hacking, Networking, Cybersecurity",1,M.Tech,,Cybersecurity Analyst,47674,9,67.3,Reject,3,3,1,2,0.5368,0,Reject,964
+"SQL, Java",1,B.Tech,Google ML,Software Engineer,45989,7,55.2,Reject,2,2,3,1,0.5319,0,Reject,972
+"SQL, Machine Learning, Python",3,PhD,Google ML,Data Scientist,45975,10,87.7,Reject,4,2,2,4,0.5319,0,Reject,972
+"React, SQL, Java",1,MBA,Deep Learning Specialization,Software Engineer,46437,9,75.0,Reject,3,1,3,3,0.5319,0,Reject,972
+"Ethical Hacking, Networking",6,PhD,Google ML,Cybersecurity Analyst,45959,5,94.4,Hire,4,2,1,4,0.5319,0,Reject,972
+"React, SQL, C++",1,MBA,,Software Engineer,88441,10,70.6,Reject,3,3,3,3,0.5237,1,Hire,976
+"TensorFlow, NLP, Pytorch",5,B.Sc,AWS Certified,AI Researcher,88653,0,68.4,Reject,2,0,0,0,0.5237,1,Hire,976
+"NLP, TensorFlow, Pytorch",9,PhD,,AI Researcher,88498,9,100.0,Hire,4,3,0,4,0.5237,1,Hire,976
+"Pytorch, TensorFlow, NLP",6,MBA,Deep Learning Specialization,AI Researcher,88511,4,100.0,Hire,3,1,0,3,0.5237,1,Hire,976
+"Python, SQL",0,B.Tech,Google ML,Data Scientist,76195,10,58.9,Reject,2,2,2,1,0.5219,0,Reject,980
+"Ethical Hacking, Cybersecurity",3,B.Sc,Deep Learning Specialization,Cybersecurity Analyst,76203,2,54.8,Reject,2,1,1,0,0.5219,0,Reject,980
+"C++, Java",5,PhD,Google ML,Software Engineer,76165,8,100.0,Hire,4,2,3,4,0.5219,0,Reject,980
+"Python, SQL, Deep Learning",3,MBA,AWS Certified,Data Scientist,55341,10,100.0,Hire,3,0,2,3,0.5179,1,Hire,983
+"Networking, Cybersecurity, Linux",2,PhD,Deep Learning Specialization,Cybersecurity Analyst,55337,6,67.6,Reject,4,1,1,4,0.5179,1,Hire,983
+"Cybersecurity, Networking",3,MBA,,Cybersecurity Analyst,55213,9,83.3,Reject,3,3,1,3,0.5179,1,Hire,983
+"Machine Learning, Python, Deep Learning, SQL",1,B.Sc,Google ML,Data Scientist,55166,4,62.3,Reject,2,2,2,0,0.5179,1,Hire,983
+"Ethical Hacking, Networking, Linux",0,MBA,Google ML,Cybersecurity Analyst,60440,7,52.3,Reject,3,2,1,3,0.5144,0,Reject,987
+"Cybersecurity, Ethical Hacking, Linux, Networking",1,MBA,Deep Learning Specialization,Cybersecurity Analyst,60494,0,42.1,Reject,3,1,1,3,0.5144,0,Reject,987
+"Machine Learning, Deep Learning, SQL, Python",1,PhD,,Data Scientist,60495,7,61.9,Reject,4,3,2,4,0.5144,0,Reject,987
+"Linux, Ethical Hacking",1,PhD,AWS Certified,Cybersecurity Analyst,60465,3,50.9,Hire,4,0,1,4,0.5144,0,Reject,987
+"Linux, Ethical Hacking, Cybersecurity, Networking",10,M.Tech,,Cybersecurity Analyst,60343,8,100.0,Hire,3,3,1,2,0.5144,0,Reject,987
+"Java, C++, React",6,MBA,AWS Certified,Software Engineer,64025,10,96.2,Hire,3,0,3,3,0.5105,0,Reject,992
+"Networking, Linux",2,B.Sc,,Cybersecurity Analyst,64118,0,37.9,Reject,2,3,1,0,0.5105,0,Reject,992
+"Python, Machine Learning, Deep Learning",9,M.Tech,AWS Certified,Data Scientist,64058,1,99.0,Hire,3,0,2,2,0.5105,0,Reject,992
+"Python, Deep Learning, Machine Learning, SQL",9,B.Tech,Google ML,Data Scientist,64063,9,98.9,Hire,2,2,2,1,0.5105,0,Reject,992
+"NLP, Pytorch, TensorFlow",6,M.Tech,Deep Learning Specialization,AI Researcher,64149,0,82.4,Reject,3,1,0,2,0.5105,0,Reject,992
+"Python, SQL, Machine Learning, Deep Learning",0,M.Tech,Deep Learning Specialization,Data Scientist,69800,6,62.3,Reject,3,1,2,2,0.5048,1,Hire,997
+"Python, Deep Learning",8,PhD,,Data Scientist,69641,10,92.5,Reject,4,3,2,4,0.5048,1,Hire,997
+"SQL, Python, Deep Learning, Machine Learning",2,B.Tech,Google ML,Data Scientist,69741,10,97.8,Hire,2,2,2,1,0.5048,1,Hire,997
+"Ethical Hacking, Networking",8,B.Sc,,Cybersecurity Analyst,69766,1,99.0,Hire,2,3,1,0,0.5048,1,Hire,997

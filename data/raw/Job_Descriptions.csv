@@ -1,0 +1,366 @@
+﻿Job Role,Role Description,Qualification
+AI Researcher,"You’ll collaborate with pipeline, R&D, and Production teams to identify opportunities for automation, optimize model performance for real-world production data, and support internal experiments spanning video generation, 3D reconstruction, diffusion, Gaussian splatting, and multimodal workflows
+This is an applied research role — ideal for someone who’s fluent in AI fundamentals but thrives in a hands-on production environment where ideas move from prototype to production fast
+Research, test, and document emerging AI and GenAI models relevant to VFX, animation, and virtual production
+Prototype pipelines that integrate models like Google Veo, Vertex AI, ComfyUI, Runway, Firefly, or custom LoRA/ControlNet implementations
+Contribute to experiments in 3D generation, motion transfer, pose estimation, segmentation, and video-to-video translation
+Support data curation and training/fine-tuning for proprietary datasets (images, depth maps, point clouds, splats, and USD-based assets)
+Benchmark and evaluate model performance (fidelity, latency, quality, ethical compliance)
+Collaborate with engineering and creative leads to transition validated experiments into production-ready features within the MUSE platform
+Stay on top of new research, papers, and open-source releases, summarizing findings and implications for our roadmap
+Document all findings clearly for cross-team visibility and reproducibility","Bachelor’s or Master’s in Computer Science, AI/ML, Applied Mathematics, or a related field.
+2–4 years of experience in AI research, ML engineering, or applied R&D.
+Hands-on experience with Python, PyTorch, TensorFlow, or JAX.
+Familiarity with diffusion models, transformers, LoRA/ControlNet, and fine-tuning pipelines.
+Understanding of computer vision concepts (segmentation, depth, optical flow, motion estimation).
+Ability to read and interpret academic papers, replicate results, and report findings.
+Excellent written documentation and communication skills.."
+Data Scientist,"Provides mathematical modeling and analysis services to support critical financial, operational, and/or strategic planning decisions and engages in supporting project teams in value added activities that generate practical solutions to complex business problems, explores new business alternatives, and drives improvement in business decisions
+Develops the approach and methods to define and solve management problems through quantitative analysis and analytical models using operations research, machine learning, and structured programming languages
+Identifies, researches, or solves large complex problems using big data and operations research and machine learning principles
+Leverages understanding of the business process to identify and implement operations research solutions that will result in significant bottom-line contributions
+Builds and develops operations research/optimization mathematical model applications, and provides client support leveraging operations research knowledge
+Participates in model design, prototype, and model development for several efforts that occur simultaneously, and interfaces with product delivery groups
+Raises concerns when scope of analysis may not align with time available and can choose an appropriate scope of analysis to conduct balancing ROI to time available
+Designs analytic plan/develop hypotheses to test; understands limitations of analysis (what it can and cannot be used for)
+Anticipates working team questions to data and approach
+Identifies solution quality risks and on-time risks
+Understands the business value, process, and expectations before focusing on choice of a technical solution
+Understands the intuition behind the numbers (i.e. does it make sense?)
+Provides on-going analytical services to client organizations
+Communicates results to management and clients
+Contributes deck content and builds the story for the deck with guidance to summarize findings
+Develops and delivers presentations aligned with Ai standards
+Speaks in a manner appropriate for working team and their level +1
+Keeps informed about the latest analytical methods and research in the operations research and analytics fields","Masters in Operations Research or other related quantitative discipline involving quantitative analysis and application of advanced operations research principles
+Coursework or work experience with mathematical programming techniques
+Coursework or work experience in model prototyping through use of optimization toolkit(s) including CPLEX, AMPL, or OPL
+Coursework or work experience with C, C++, Java, R, Python, or other structured programming language
+Good business, technical, verbal/written communication, presentation and sales skills
+Adaptability to changing business environment
+Good interpersonal skills and ability to interact with clients
+Proficient with MS Office
+Successful completion of interview required to meet job qualifications
+Must be legally authorized to work in the United States for any employer without sponsorship
+Reliable, punctual attendance is an essential function of the position"
+Cybersecurity Analyst,"Timely security breach solutioning to end users, Internal stakeholders & external customers experience
+Mandatory Skills: Azure B2X Security
+Experience: 5-8 Years","The purpose of this role is to analyse, identify, rectify & recommend specific improvement measures that help in the security posture of the organization by protecting the sensitive information
+Ensuring customer centricity by providing apt cybersecurity
+Monitoring and safeguarding the log sources and security access
+Planning for disaster recovery in the event of any security breaches
+Monitor for attacks, intrusions and unusual, unauthorized or illegal activity
+Performs moderately complex log reviews and forensic analysis to identify unauthorized or unacceptable access to data or systems
+Conduct security assessments, risk analysis and root cause analysis of security incidents
+Handling incidents escalated by the L1 team in 24x7 rotational shifts
+Use advanced analytics tools to determine emerging threat patterns and vulnerabilities
+Completing all tactical security operations tasks associated with this engagement
+Analyses all the attacks and come up with remedial attack analysis
+Conduct detailed analysis of incidents and create reports and dashboards
+Stakeholder coordination & audit assistance
+Liaise with stakeholders in relation to cyber security issues and provide future recommendations
+Maintain an information security risk register and assist with internal and external audits relating to information security
+Assist with the creation, maintenance and delivery of cyber security awareness training for colleagues
+Advice and guidance to employees on issues such as spam and unwanted or malicious emails
+Customer centricity
+Process Adherence
+Adherence to SLA's (90-95%), response time and resolution time TAT"
+Software Engineer,"This position will be responsible for the analysis, design, testing, development and maintenance of best in class software experiences
+The candidate is a self-motivated individual who can collaborate with a team and across the organization
+The candidate takes responsibility of the software artifacts produced adhering to U.S. Bank standards in order to ensure minimal impact to the customer experience
+The candidate will be adept with the agile software development lifecycle and DevOps principles
+Responsible for designing, developing, testing, operating and maintaining products
+Takes full stack ownership by consistently writing production-ready and testable code
+Consistently creates optimal design adhering to architectural best practices; considers scalability, reliability and performance of systems/contexts affected when defining technical designs
+Performs analysis on failures, propose design changes, and encourage operational improvements
+Makes sound design/coding decisions keeping customer experience in the forefront
+Takes feedback from code review and apply changes to meet standards
+Conducts code reviews to provide guidance on engineering best practices and compliance with development procedures
+Accountable for ensuring all aspects of product development follow compliance and security best practices
+Exhibits relentless focus in software reliability engineering standards embedded into development standards
+This role requires working from a U.S. Bank location three (3) or more days per week","Bachelor’s degree, or equivalent work experience
+Two to three years of relevant experience
+In addition, certain positions may also be subject to the requirements of FINRA, NMLS registration, Reg Z, Reg G, OFAC, the NFA, the FCPA, the Bank Secrecy Act, the SAFE Act, and/or federal guidelines applicable to an agreement, such as those related to ethics, safety, or operational procedures
+Applicants must be able to comply with U.S. Bank policies and procedures including the Code of Ethics and Business Conduct and related workplace conduct and safety policies"
+AI Researcher,"to contribute domain expertise toward a flagship project advancing large language models (LLMs)
+In this role, you will design, solve, and review complex, real-world problems in computer science, ensuring rigor, clarity, and practical applicability in training next-generation AI systems
+Design and assess advanced computer science problems across multiple subdomains
+Evaluate AI-generated responses for
+conceptual accuracy, computational rigor, and domain relevance
+Provide clear written feedback on solutions, algorithms, and methodologies
+Collaborate asynchronously with AI researchers and engineers to improve model performance
+Ensure academic and technical precision in all computer science content used to train or evaluate AI systems
+Duration: 1–2 months, with potential extension
+Commitment: 15–20 hours/week (option to increase up to 40 hours/week)
+Selected candidates will move to a paid","PhD in Computer Science or a closely related discipline from a top US, Canadian, or European university
+2+ years of academic (research, teaching, publications) or professional experience.
+Exceptional written and verbal communication skills.
+Strong attention to detail, with the ability to break down complex problems clearly.
+Excellent proficiency in English."
+Data Scientist,"Develop, fine-tune, and deploy generative AI/LLM solutions using AWS Bedrock, including foundation models such as Claude, Llama, and Titan
+Build end-to-end ML workflows leveraging AWS services (S3, Lambda, SageMaker, Step Functions, API Gateway, DynamoDB, RDS, etc.)
+Design and implement prompt engineering strategies, evaluation frameworks, and model optimization techniques
+Integrate Bedrock-powered AI capabilities into applications via APIs and SDKs
+Collaborate with cross-functional teams to identify business problems and translate them into scalable AI/ML solutions
+Perform data preprocessing, feature engineering, statistical modeling, and experimentation
+Develop scalable pipelines for model training, inference, and monitoring
+Conduct A/B testing, model performance evaluations, and continuous improvement activities
+Ensure adherence to security, compliance, and responsible AI best practices within AWS
+Produce clear technical documentation, reports, and model explainability outputs","Bachelor’s or Master’s in Computer Science, Data Science, Engineering, Mathematics, or related field
+3–7 years of experience as a Data Scientist or ML Engineer
+Strong hands-on expertise with AWS Bedrock, including provisioning, model selection, and orchestration
+Advanced proficiency in Python, including libraries such as NumPy, pandas, scikit-learn, PyTorch or TensorFlow
+Experience building and deploying ML/LLM applications in AWS
+Knowledge of vector databases (e.g., Pinecone, FAISS, OpenSearch) and RAG pipelines
+Strong grasp of data modeling, statistics, NLP, and machine learning algorithms
+Familiarity with CI/CD, MLOps, containerization (Docker), and version control (Git)
+Strong problem-solving abilities, analytical mindset, and communication skills
+Chicago, IL 60617 (Required)
+Chicago, IL 60617: Relocate before starting work (Required)"
+Cybersecurity Analyst,"As a Cybersecurity Analyst – Tier 2, you will play a critical role in safeguarding the Department of Veterans Affairs (VA) digital assets and responding to potential cyber threats
+Your primary focus will be supporting the Incident Response team in investigating and mitigating advanced and complex cyber incidents
+Perform real-time monitoring and triage of security alerts in Cybersecurity toolsets including SIEM and EDR
+Make accurate determination of what alerts are false positives or require further investigation and prioritization
+Lead and actively participate in the investigation, analysis, and resolution of cybersecurity incidents
+Analyze attack patterns, determine the root cause, and recommend appropriate remediation measures to prevent future occurrences
+Ensure accurate and detailed documentation of incident response activities, including analysis, actions taken, and lessons learned
+Collaborate with knowledge management teams to maintain up-to-date incident response playbooks
+Collaborate effectively with cross-functional teams, including forensics, threat intelligence, IT, and network administrators
+Clearly communicate technical information and incident-related updates to management and stakeholders
+Identify and action opportunities for tuning alerts to make the incident response team more efficient
+Monitor the performance of security analytics and automation processes regularly, identifying areas for improvement and taking proactive measures to enhance their efficacy
+Leverage Security Orchestration, Automation, and Response (SOAR) platforms to streamline and automate incident response processes, including enrichment, containment, and remediation actions
+Support the mentoring and training of more junior IR staff
+Stay informed about the latest cybersecurity threats, trends, and best practices
+Actively participate in cybersecurity exercises, drills, and simulations to improve incident response capabilities","Bachelor's degree in computer science, Cybersecurity, Information Technology, or a related field (or equivalent work experience)
+3+ years of experience supporting incident response in an enterprise-level Security Operations Center (SOC)
+A deep understanding of cybersecurity principles, incident response methodologies, and a proactive mindset to ensure our SOC operates effectively in a high-pressure environment
+Strong experience with security technologies, including SIEM, IDS/IPS, EDR, and network monitoring tools
+Experience with enterprise ticketing systems like ServiceNow
+Excellent analytical and problem-solving skills
+Ability to work independently and in a team environment to identify errors, pinpoint root causes, and devise solutions with minimal oversight
+Ability to learn and function in multiple capacities and learn quickly
+Strong verbal and written communication skills
+Must currently have or be willing to obtain one of the following certifications (or equivalent):
+EC-Council’s Certified Incident Handler (E|CIH)
+GIAC Certified Incident Handler (GCIH)
+Incident Handling & Response Professional (IHRP)
+Certified Computer Security Incident Handler (CSIH)
+Certified Incident Handling Engineer (CIHE)
+EC-Council’s Certified Ethical Hacker"
+Software Engineer,"Contribute to the platform by implementing agents, MCP servers, and supporting services that propose and apply changes to large codebases
+Assist in developing retrieval systems that give AI agents and developers accurate, up-to-date context from large codebases and design artifacts
+Help measure and improve AI-generated changes by building compile/test/evaluate pipelines (static analysis, style and safety checks, performance gates, code review)
+Apply IMC’s best practices in concurrency, telemetry, configuration hygiene, and performance-sensitive code paths to ensure AI outputs are reliable and idiomatic
+Collaborate with teammates on experiments to evaluate and improve AI-driven workflows
+Impact at scale: Your work will help bring AI directly into production developer workflows
+Growth: You’ll gain hands-on experience with cutting-edge AI systems while learning from specialists in AI, systems, and developer productivity","BS+ in Computer Science (or related) with strong fundamentals (algorithms, data structures, systems)
+Experience contributing to developer-facing or production systems
+Curiosity and eagerness to learn about AI/LLM application patterns, even if you haven’t worked closely with them yet
+Strong communication skills; comfortable working with engineers in a fast, collaborative environment
+Exposure to AI tools or workflows (e.g., LangChain, LangGraph, AutoGen, or similar)
+Experience with retrieval systems (vector search, embeddings, or hybrid approaches)
+Familiarity with compiler/static analysis or large-scale refactoring tools
+Interest in customizing or fine-tuning open-weight models
+Knowledge of model-serving or evaluation infrastructure"
+AI Researcher,"You’ll play a key role in developing embedded AI solutions, especially in audio performance and enhancement, for devices deployed worldwide
+In this role, you’ll join a supportive, experienced team of engineers with a strong track record of success
+Responsibilities include:Developing innovative embedded AI models to improve on-device audio performanceOptimising model size, latency, and quality for efficient deployment
+Leading technical delivery of key AI components within larger systems
+Building and refining training pipelines and datasetsCreating demo applications to showcase AI capabilities
+Contributing to a collaborative, forward-thinking R&D environment","Master’s or PhD in AI, Computer Science, Electronics, or related field (or equivalent experience)Proven experience deploying, profiling, and optimising AI models on embedded platforms (NPU/CPU)Strong skills in developing novel ML architectures and training methods
+Background in audio signal processing or enhancement technologies
+Proficiency in embedded C++ and/or PythonExcellent communication, time management, and teamwork skillsA proactive approach to innovation and problem solving
+Familiarity with Linux, shell scripting, and multi-threaded embedded software development"
+Data Scientist,"As a Data Scientist at DoorDash, you'll use your quantitative background to mentor other scientists and dive into large datasets to guide decision-making
+We solve a multitude of exciting challenges including customer acquisition, fraud and support, marketing, balancing supply and demand, new city launches, marketplace efficiency, and more
+Use quantitative analysis and the presentation of data to see beyond the numbers and understand what drives our business
+Build full-cycle analytics experiments, reports, and dashboards using SQL, R, Python, or other scripting and statistical tools
+Work with and mentor junior analysts on how to use more advanced methods and solve challenges
+Produce recommendations and use statistical techniques and hypothesis testing to validate your findings
+Provide insights to help business and product leaders understand marketplace dynamics, user behaviors, and long-term trends
+Identify and measure levers to help move essential metrics and make recommendations
+Work backwards from understanding and sizing problems to ideating solutions
+Report against our goals by identifying essential metrics and building executive-facing dashboards to track progress
+Collaborate with engineering to implement, document, validate, and monitor our logging","A degree in Math, Physics, Statistics, Economics, Computer Science, or a similar domain
+2+ years of experience in data analytics, consulting, or related role
+Experience working with funnel optimization, user segmentation, cohort analyses, time series analyses, regression models, etc
+Expertise of SQL queries, ETL, A/B Testing, and statistical analysis (e.g. hypothesis testing, experimentation, regressions) with statistical packages, such as Matlab, R, SAS or Python
+Proficiency in one or more analytics & visualization tools (e.g. Chartio, Looker, Tableau)
+The insight to take ambiguous problems and solve them in a structured, hypothesis-driven, data-supported way
+Notice to Applicants for Jobs Located in NYC or Remote Jobs Associated With Office in NYC Only"
+Cybersecurity Analyst,"Key Responsibilities: Monitor and analyze security events, incidents, and vulnerabilities to identify potential threats and risks to the organization's IT infrastructure
+Respond to security incidents in a timely and effective manner, following the incident response process and procedures
+Collect, analyze, and preserve digital evidence related to security incidents
+Develop and maintain incident procedures, and playbooks
+Develop SIEM searches, alerts, dashboards, and alerts as needed for incident response and security monitoring
+Work with the Bank’s Managed Security Services Provider as well as Security and IT partners to investigate suspicious and malicious activity
+Participate in tabletop exercises, drills, and simulations to test the organization's incident response plans and procedures
+Stay up to date with the latest security technologies, trends, and threats to recommend best practices and solutions to enhance the organization's security posture","Need somebody with Forensics skills but familiarity with Splunk, CrowdStrike, AWS, and even Azure particularly responding to security incidents in AWS and Azure environments
+Qualifications: Bachelor's degree in Computer Science, Information Security, or related field
+At least three to five years of experience in IT security, with a focus on security operations
+Knowledge of security technologies, such as firewalls, intrusion detection and prevention systems, antivirus software, and vulnerability assessment tools
+Experience in conducting incident response and investigations particularly in cloud environments such as AWS and Azure
+Familiarity with security frameworks, such as NIST, ISO, and CIS
+Strong analytical and problem-solving skills
+Excellent communication and interpersonal skills
+Ability to work independently and as part of a team in a fast-paced, dynamic"
+Software Engineer,"Building internal tools, integrations, and customer facing web applications
+Retrieving and storing data using SQL server (SQL, SSIS, SSRS)
+Troubleshooting and debugging
+Support activities related to internal applications and integrations
+Cross functional team engagement including on and offsite business partners and vendors
+Secure Coding practices
+Extracting user data from diverse systems (API, direct extraction, file drops)
+Loading data into Delinea and SailPoint
+Implementing dynamic scanning solutions, specifically Veracode
+Building APIs using Azure services, including familiarity with build and release pipelines
+Collaborating with infosec, architecture, and infrastructure teams
+Working within Azure DevOps for task management and sprint commitments","python, rest api, unit testing, html, css, javascript, react, azure, app services, azure functions, service bus, apim, application insight, reddis cache, devops, azure devops, test automation, domain driven design, event driven design, terraform IaC, Integration testing, .net, powershell, veracode, static test configurations, q2 sdk development, automated UI testing, sailpoint, delinea
+The candidate will need to live in the area, if hired, the expectation is 2-4 days a month on-site in Racine, WI"
+Software Engineer," Contribute to all aspects of the agile development life cycle including design, development, documentation, testing and operations.
+Actively participate in and execute the scrum process.
+Design, implement, test, deploy, and maintain innovative software solutions to transform service performance, durability, cost, and security. Provide frequent progress updates to the direct manager and other stakeholders.
+Work in an agile, startup-like development environment, where you are always working on the most meaningful priorities.
+Build distributed storage, index, and query systems that are scalable, fault-tolerant, low cost, and easy to manage/use.
+Ability to design and code the right solutions starting with broadly defined problems.","Bachelor’s degree in Computer Engineering, Computer Science, or similar engineering discipline.
+Previous technical internship(s), if applicable.
+Programming experience with at least one modern language such as C#, Angular, TypeScript, SQL, some DB familarity, and including object-oriented design.
+Experience in optimization mathematics such as linear programming and nonlinear optimization.
+Ability to effectively articulate technical challenges and solutions.
+Adept at handling ambiguous or undefined problems as well as ability to think abstractly.
+Solid knowledge of Computer Science fundamentals (object-oriented design, data structures and algorithm.
+Strong verbal and written communication skills, are self-driven, demonstrates initiative, and delivers high quality results in a fast-paced environment.
+Highly quantitative with great judgment and passion for building a phenomenal customer experience."
+AI Researcher,"Responsibilities: Conduct cutting-edge research in Natural Language Processing, including but not limited to, text generation, understanding, translation, and summarization
+Develop and implement novel machine learning models and algorithms for NLP tasks
+Collaborate with a team of leading researchers and engineers to design, train, and evaluate large-scale AI models
+Stay abreast of the latest advancements in AI and NLP research, contributing original ideas and insights
+Publish research findings in top-tier academic conferences and journals
+Develop and maintain robust, scalable code for research experiments and prototypes
+Translate research breakthroughs into practical applications and contribute to product development roadmaps
+Mentor junior researchers and contribute to the growth of the AI research community within the organization
+Engage in intellectual property development and patent applications
+Effectively communicate complex research concepts to both technical and non-technical audiences","The ideal candidate will possess a Ph.D. or equivalent research experience in Computer Science, Artificial Intelligence, or a related field, with a strong publication record and hands-on experience with deep learning frameworks and large language models"
+Data Scientist,"This role is perfect for a scientist who wants to own the entire journey: from taking raw application data to generating clean inputs, to building models and delivering tangible value in real-world applications
+You will be a central point of contact, communicating with engineers, product managers, and business analysts to ensure data integrity from collection to analysis
+Model Ownership: Participate in the full modeling lifecycle, from statistical analysis and experimentation to building, validating, and iterating on machine learning models that address critical business challenges
+Data Quality: Own the data foundation by preparing, cleaning and transforming raw, complex data into high-quality features for modeling
+Proactively identify and handle missing values, outliers, and inconsistencies
+Problem Investigation: Investigate data discrepancies (tracking bugs, ETL errors, definitional issues) and design automated frameworks to ensure data accuracy
+Cross-Functional Collaboration: Act as a strategic liaison, collaborating with data Engineering and product teams to drive the data strategy and definition of our centralized feature store, ensuring it becomes the 'single source of truth' for all ML models
+Documentation: Create and maintain clear, authoritative documentation for data sources, cleaning processes, and variable definitions","You are a detective at heart, driven by a deep curiosity to understand complex data systems, and someone who finds immense satisfaction in transforming messy, ambiguous datasets into pristine assets that drive critical business decisions
+Obsessed with Details: You have an exceptional eye for detail and a low tolerance for errors
+You believe that accuracy and precision are non-negotiable
+A Strategic Thinker: You can see the bigger picture and are passionate about building robust systems and processes that will stand the test of time
+Proactive & Persistent: You don't wait for problems to find you
+You actively seek out data quality issues and are persistent in seeing an investigation through to its resolution
+Curious & Adaptive: You are inherently curious and possess a strong desire to understand how things work
+You're comfortable with ambiguity and skilled at breaking down complex problems
+Programming: Strong proficiency in Python (Pandas/NumPy) and SQL for complex querying and data manipulation
+Data Quality: Hands-on experience with data cleaning techniques and data validation frameworks
+Tooling: Familiarity with data visualization tools to help identify and communicate data issues"
+Cybersecurity Analyst,"The Cybersecurity Analyst will support the company’s security goals by maintaining and monitoring security tools and working closely with the IT professionals
+The Cybersecurity Analyst will prepare security reports for IT management and function as a project manager for cybersecurity implementations, upgrades and other initiatives related to cybersecurity
+Administer security training
+Maintain monthly cybersecurity reporting
+Maintain IR tabletop and Risk Register documentation
+Monitor threats and remediate alerts
+Assist with the utilization of NIST CSF
+Assist with patch Tuesday vulnerability remediation and PCI DDSS 4.0 policy control review
+Assist with ongoing cybersecurity needs for the company","Bachelor’s Degree with 4+ years of hands-on technical experience
+Cybersecurity experience
+2 years of Project Management experience
+Knowledge of Network Security tools, Azure & AWS Cloud Security enhancements
+WHEN RESPONDING TO THIS OPPORTUNITY: Resumes without the required technical skills and experience will not be considered"
+Software Engineer,"In this role, you’ll be a full member of our core engineering team, but deployed directly into the environments where our product meets the real world
+You’ll build production features, design integrations inside messy customer systems, and shape the internal tooling and platform components that allow us to scale deployments efficiently
+If you’re a strong software engineer who wants to work hands-on with users, solve ambiguous problems on the ground, and see your code driving live operations within days, this is a uniquely high-leverage role
+Lead technical delivery for customer implementations, integrations, and workflow builds; owning projects from scoping through production rollout
+Architect and build workflows that encode real customer processes, integrating directly with their systems and adapting to operational edge cases you uncover in the field
+Develop core platform components and integration tooling that standardize common patterns, reduce one-off work, and help the team scale customer deployments efficiently
+Navigate complex environments, fragmented data, and real-world constraints, and design solutions that work in practice, not just on paper
+Provide field insight to product and engineering, shaping the roadmap with firsthand customer understanding
+Travel 20–30% to customer locations and work in-person from our Chicago office","3–6+ years of professional software engineering experience, with clear ownership of complex, production-critical systems
+Strong command of TypeScript, Node.js, and REST API design, including debugging and integrating with external systems
+Hands-on experience with AI-driven systems, including tuning agent behavior, refining prompts, and shaping workflow logic based on customer feedback
+Exceptional communication and judgment, especially when balancing speed, reliability, and real-world constraints
+Based in Chicago with willingness to travel 20–30% to customer sites"
+Software Engineer,"Rated the top-rated point-of-sale (POS) for restaurants, bars, retail, and small businesses by Capterra users
+SpotOn combines payment processing with customer engagement and business management solutions, giving small and medium businesses the data and tools they need to run and grow their business
+Design, develop, and maintain high-performance software applications using Golang with a focus on building CRUD APIs ( Rest and gRPC)
+Collaborate with cross-functional teams to identify and solve software problems
+Implement and manage monitoring and logging systems to provide visibility into the production environment
+Write efficient and reusable code that follows industry best practices and standards
+Write automated tests to ensure the quality of the software applications
+Optimize software performance and ensure scalability and reliability
+Participate in code reviews and provide constructive feedback to team members
+Identify and justify opportunities to address tech debt as a part of our roadmap","5+ years of experience in software development
+Strong scripting skills in languages such as GoLang, Python, or Bash
+Professional experience with SQL
+Professional experience with MongoDB
+Strong knowledge of computer science fundamentals such as data structures, algorithms, and design patterns
+Design, build, and maintain highly resilient, flexible, and scalable architecture in collaboration with other Engineers
+Experience writing scalable APIs
+Ability to work independently and in a team environment
+Collaborate with the team to ensure solid technical decision-making and high quality team output
+Excellent command of written and spoken English (min
+B2 level)
+Experience in GoLang
+Experience with cloud computing platforms such as AWS, Azure, or Google Cloud.
+Experience with serverless computing technologies such as AWS Lambda or Azure Functions
+Familiarity with agile software development methodologies, specifically Shape Up
+Experience with performance monitoring and optimization (Grafana and OTEL)
+Prioritizes understanding the product and how it is used by end users
+Experience working in high performing SaaS companies
+Experience with TypeScript
+Experience with containerization (Docker/Kubernetes) and infrastructure-as-code"
+AI Researcher,"Research and develop audio-visual generation models for conversational agents (e.g
+Focus on models that are tightly coupled with conversation flow, ensuring verbal and non-verbal signals work seamlessly together
+Experiment with diffusion models (DDPMs, LDMs, etc.), long-video generation, and audio generation
+Collaborate with the Applied ML team to bring your research into real-world production
+Stay ahead of the latest advancements in multimodal generation — and help shape the next wave","A PhD (or near completion) in a relevant field, or equivalent hands-on research experience
+Experience applying image/video generation models in practice
+Strong foundations in generative modeling and rapid prototyping
+Deep familiarity with diffusion models, including recent advances in efficiency
+Good understanding of video-language models and multimodal generation
+Proficiency in PyTorch and GPU-based inference
+Experience with long-video or audio generation
+Skills in 3D graphics, Gaussian splatting, or large-scale training setups
+Broader exposure to generative models and rendering
+Familiarity with software engineering best practices
+Publications in top-tier or respected venues (CVPR, NeurIPS, BMVC, ICASSP, etc.)
+Remote within U.S. or Europe available for exceptional candidates"
+Data Scientist,"You'll have the chance to partner with clients in a variety of BCG regions and industries, and on key topics like climate change, enabling them to design, build, and deploy new and innovative solutions
+Additional responsibilities will include developing and delivering thought leadership in scientific communities and papers as well as leading conferences on behalf of BCG X
+Successful candidates are intellectually curious builders who are biased toward action, creative, and communicative
+This role puts you on an accelerated path of personal and professional growth and development and so, at times, requires extended working hours","Comfortable in a client-facing role with the ambition to lead teams
+Likes to distill complex results or processes into simple, clear visualizations
+Explain sophisticated data science concepts in an understandable manner
+Love building things and are comfortable working with modern development tools and writing code collaboratively (bonus points if you have a software development or DevOps experience)
+Significant experience applying advanced analytics to a variety of business situations and a proven ability to synthesize complex data
+Deep understanding of modern machine learning techniques and their mathematical underpinnings, and can translate this into business implications for our clients
+Have strong project management skills
+Please note: any degree programs (including part-time) must be completed before starting at BCG"
+Cybersecurity Analyst,"As a Cybersecurity Analyst, you will play a critical role in safeguarding our company's sensitive information and systems from potential cyber threats
+Conduct regular security assessments and vulnerability testing to identify potential weaknesses in the company's systems and networks
+Develop and implement security protocols and procedures to mitigate risks and ensure compliance with industry standards and regulations
+Monitor and analyze network traffic and system logs to identify and respond to any suspicious or malicious activity
+Investigate and respond to security incidents, including conducting forensic analysis and implementing remediation plans
+Stay up-to-date on the latest cybersecurity trends, threats, and best practices to continuously improve the company's security posture
+Collaborate with cross-functional teams to ensure security measures are integrated into new systems and applications
+Develop and maintain documentation of security processes, procedures, and incident response plans
+Conduct security awareness training for employees to promote a security-conscious culture
+Work with third-party vendors to evaluate security risks and ensure compliance with security requirements
+Participate in security audits and provide support for regulatory compliance efforts","We are looking for an individual with a strong technical background, exceptional problem-solving abilities, and a passion for staying current with the ever-evolving landscape of cybersecurity"
+Software Engineer,"What you will do: Understand and assimilate application requirements and designs
+Collaborate with other developers and architects to determine optimal solution architecture, efficiency, maintainability, and scalability
+Develop applications to CDW coding standards and quality
+Complete projects/tasks on a timely basis, according to commitments made to stakeholders and management
+Report project/task status to the appropriate Application Development Manager on a weekly basis (at minimum)
+Ensure stakeholders are responded to in a timely and professional manner
+Foster open lines of communication with all parties","What we expect of you: Bachelor's Degree in Computer Science; OR 4 years of practical knowledge/experience including technical bootcamp training
+Excellence verbal and written communication skills, with the ability to effectively interact with all coworkers and stakeholders, including senior leadership
+Demonstrated creative problem-solving skills
+Understand the stages of the software development life cycle, including Requirements gathering, Design, Development, Testing, and Implementation
+Demonstrated resourcefulness in the software development process"
